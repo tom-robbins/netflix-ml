@@ -1,3 +1,10 @@
+# Data files (too big)
+data/COS424_hw3/netflix_full_csr.npz
+data/nf_prize_dataset/nf_prize_dataset.tar_meta.sqlite
+data/nf_prize_dataset/nf_prize_dataset.tar_meta.xml
+data/nf_prize_dataset/nf_prize_dataset.tar.gz
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
