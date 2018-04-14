@@ -8,7 +8,8 @@ thomasrr
 ```
 
 ## Guide
-install python libraries
+use scraping virtualenv and install python libraries
 ```
+source scraping/bin/activate
 pip install imdbpy numpy scikit-learn surprise
 ```
