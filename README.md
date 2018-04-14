@@ -8,7 +8,7 @@ thomasrr
 ```
 
 ## Guide
-- install python libraries:
+install python libraries
 ```
 pip install imdbpy numpy scikit-learn surprise
 ```
