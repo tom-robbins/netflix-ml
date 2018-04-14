@@ -10,6 +10,6 @@ thomasrr
 ## Guide
 use scraping virtualenv and install python libraries
 ```console
-$ source scraping/bin/activate
-$ pip install imdbpy numpy scikit-learn surprise
+source scraping/bin/activate
+pip install imdbpy numpy scikit-learn surprise
 ```
