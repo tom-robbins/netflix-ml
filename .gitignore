@@ -10,6 +10,9 @@ data/onehot*.csv
 # imdbpy library
 imdbpy
 
+# pickled data structures
+*.pickle
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
