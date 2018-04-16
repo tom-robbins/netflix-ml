@@ -12,6 +12,7 @@ imdbpy
 
 # pickled data structures
 *.pickle
+pickle/
 
 
 # Byte-compiled / optimized / DLL files
