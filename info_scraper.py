@@ -8,11 +8,21 @@ genres = {}
 people = {}
 movies = []
 
-tempfile = open('data/temp4.csv', "w")
+tempfile = open('data/failed1.csv', "w")
 tempwriter = csv.writer(tempfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_ALL, escapechar='\\')
 
-with open('data/movies4.txt', 'r', encoding="ISO-8859-1") as movie_titles:
+season = re.compile(r'(Season \d)|(Seasons \d+ & \d+)')
+volume = re.compile(r'Vols?.? \d')
+bonus = re.compile(r'Bonus Material')
+edition = re.compile(r':.*?Edition')
+anniversary = re.compile(r'\d+.*Anniversary:? (Edition|Collection|Tour|Double Feature|Specials)?')
+
+count = 0
+with open('data/failed_movies.csv', 'r', encoding="ISO-8859-1") as movie_titles:
     for line in movie_titles:
+        print(count)
+        count += 1
+
         l = line.split(',')
         num = l[0]
         year = l[1]
@@ -20,7 +30,40 @@ with open('data/movies4.txt', 'r', encoding="ISO-8859-1") as movie_titles:
         cast = []
         genres = []
 
-        s_result = ia.search_movie(l[2])
+        s_result = None
+        string_to_search = l[2]
+
+        words_cut_off = 0
+        title_length = len(title.split())
+
+        # Remove special text pieces from the titles
+        if re.search(anniversary, string_to_search):
+            string_to_search = re.sub(anniversary, '', string_to_search)
+        # if its a TV show, strip the season number
+        # if its bonus material, strip that off the end too
+        for regex in [edition, season, volume, bonus]:
+            result = re.search(regex, string_to_search)
+            if result:
+                string_to_search = result.group(0).join(string_to_search.split(result.group(0))[:-1])
+                if string_to_search[-1] == ':':
+                    string_to_search = string_to_search[:-1]
+
+        s_result = ia.search_movie(string_to_search)
+
+        # cut off last words?
+        # while(string_to_search and not s_result):
+        #     s_result = ia.search_movie(string_to_search)
+        #     if s_result:
+        #         print(string_to_search)
+        #         continue
+
+        #     if words_cut_off > 2 or title_length < 4:
+        #         print('TOO MANY CUTOFFS FOR: %s' % string_to_search)
+        #         break
+        #     string_to_search = ' '.join(string_to_search.split(' ')[:-1])
+        #     words_cut_off += 1
+
+
         if s_result:
             item = s_result[0]
             ia.update(item)
@@ -41,7 +84,7 @@ with open('data/movies4.txt', 'r', encoding="ISO-8859-1") as movie_titles:
         movies.append(l)
         tempwriter.writerow(l)
 
-ofile  = open('data/movie_info.csv', "w")
+ofile  = open('data/failed_movie_info.csv', "w")
 writer = csv.writer(ofile, delimiter=',', quotechar='"', quoting=csv.QUOTE_ALL, escapechar='\\')
 
 for row in movies:
