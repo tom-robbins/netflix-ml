@@ -1,8 +1,8 @@
 #!/bin/bash
-# parallel job using 10 processors. and runs for 12 hours (max)
+# parallel job using 10 processors. and runs for 4 hours (max)
 #SBATCH -N 1   # node count
 #SBATCH --ntasks-per-node=10
-#SBATCH -t 12:00:00
+#SBATCH -t 4:00:00
 #SBATCH --array=0-9
 #SBATCH --job-name=linear_regression
 #SBATCH --mem 50000
