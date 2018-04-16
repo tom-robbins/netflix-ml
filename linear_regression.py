@@ -197,7 +197,7 @@ def run_regression(first_movie, last_movie, results_dict):
 
         # Set the regression based on the type argument
         if args.regr_type == 'RandomForestRegressor':
-            regr = RandomForestRegressor(n_estimators=100)
+            regr = RandomForestRegressor(n_estimators=50)
         elif args.regr_type == 'Ridge':
             regr = Ridge(alpha=0.1)
         elif args.regr_type == 'AdaBoostRegressor':

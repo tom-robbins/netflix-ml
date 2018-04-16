@@ -25,3 +25,15 @@ source activate netflix
 
 for number in {1..17700..1770}; do ./test.cmd $number; done
 ```
+
+## Baseline Regression Models
+
+### Linear Regression
+sacct -j 517450 --format=JobID,JobName,MaxRSS,Elapsed
+Used ~27889684K Memory
+
+### AdaBoost Regression
+sacct -j 517478 --format=JobID,JobName,MaxRSS,Elapsed
+Used ~47552932K Memory
+
+### Random Tree Regression
