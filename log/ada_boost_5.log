@@ -1,0 +1,32 @@
+linear_regression.py:94: RuntimeWarning: invalid value encountered in divide
+  review_nums.append((i, num_reviews, np.sum(non_zero_users_csc[:,i]) / num_reviews))
+shape of of titles: (17770, 3)
+shape of of genres: (17770, 28)
+shape of of ratings: (17771, 2649430)
+
+ratings shape before removing users with no reviews: (2649430, 17771)
+ratings shape after removing users with no reviews: (480189, 17771)
+finished in 13.12 seconds
+
+#revs	avg.	movie
+681	4.5389	Fruits Basket (2001)
+17292	4.5426	The Simpsons: Season 5 (1993)
+92470	4.5437	Star Wars: Episode V: The Empire Strikes Back (1980)
+134284	4.5451	Lord of the Rings: The Return of the King (2003)
+125	4.5520	Lord of the Rings: The Return of the King: Extended Edition: Bonus Material (2003)
+1883	4.5544	Inu-Yasha (2000)
+8426	4.5813	The Simpsons: Season 6 (1994)
+6621	4.5824	Arrested Development: Season 2 (2004)
+220	4.5864	Ghost in the Shell: Stand Alone Complex: 2nd Gig (2005)
+1238	4.5921	Veronica Mars: Season 1 (2004)
+139660	4.5934	The Shawshank Redemption: Special Edition (1994)
+89	4.5955	Tenchi Muyo! Ryo Ohki (1995)
+25	4.6000	Trailer Park Boys: Season 4 (2003)
+75	4.6000	Trailer Park Boys: Season 3 (2003)
+1633	4.6050	Fullmetal Alchemist (2004)
+1747	4.6388	Battlestar Galactica: Season 1 (2004)
+7249	4.6710	Lost: Season 1 (2004)
+74912	4.7026	Lord of the Rings: The Two Towers: Extended Edition (2002)
+73422	4.7166	The Lord of the Rings: The Fellowship of the Ring: Extended Edition (2001)
+73335	4.7233	Lord of the Rings: The Return of the King: Extended Edition (2003)
+
