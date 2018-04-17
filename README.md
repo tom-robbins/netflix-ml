@@ -23,17 +23,24 @@ module load anaconda
 conda create --name netflix numpy scipy pandas matplotlib scikit-learn
 source activate netflix
 
-for number in {1..17700..1770}; do ./test.cmd $number; done
+sbatch linear_regression.cmd
 ```
 
 ## Baseline Regression Models
+```sacct -u thomasrr --format=JobID,JobName,MaxRSS,Elapsed,exitcode```
 
 ### Linear Regression
-sacct -j 517450 --format=JobID,JobName,MaxRSS,Elapsed
+```sacct -j 517450 --format=JobID,JobName,MaxRSS,Elapsed```
 Used ~27889684K Memory
 
+### Random Tree Regression
+```sacct -j 517637 --format=JobID,JobName,MaxRSS,Elapsed```
+Used ~47663916K Memory
+
 ### AdaBoost Regression
-sacct -j 517478 --format=JobID,JobName,MaxRSS,Elapsed
+```sacct -j 517478 --format=JobID,JobName,MaxRSS,Elapsed```
 Used ~47552932K Memory
 
-### Random Tree Regression
+### Ridge Regression
+```sacct -j 518047 --format=JobID,JobName,MaxRSS,Elapsed```
+Used ~48279576K Memory
