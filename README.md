@@ -30,17 +30,17 @@ sbatch linear_regression.cmd
 ```sacct -u thomasrr --format=JobID,JobName,MaxRSS,Elapsed,exitcode```
 
 ### Linear Regression
-```sacct -j 517450 --format=JobID,JobName,MaxRSS,Elapsed```
+```517450```
 Used ~27889684K Memory
 
 ### Random Tree Regression
-```sacct -j 517637 --format=JobID,JobName,MaxRSS,Elapsed```
+```517637```
 Used ~47663916K Memory
 
 ### AdaBoost Regression
-```sacct -j 517478 --format=JobID,JobName,MaxRSS,Elapsed```
+```517478```
 Used ~47552932K Memory
 
 ### Ridge Regression
-```sacct -j 518047 --format=JobID,JobName,MaxRSS,Elapsed```
+```518047```
 Used ~48279576K Memory
