@@ -23,6 +23,7 @@ module load anaconda
 conda create --name netflix numpy scipy pandas matplotlib scikit-learn
 source activate netflix
 
+# make sure to change the parameters in the .cmd file before sending it to SLURM
 sbatch linear_regression.cmd
 ```
 
