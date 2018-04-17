@@ -6869,3 +6869,272 @@ Movie #7080, Maniac Cop (1988)
 average rating: 2.73 in 115 reviews  |  regressing on 115 features
 MSE: 0.63 		 r2: 0.37 		 time: 3.06 ... (0.84 + 2.22)
 
+6 + 8.40)
+
+Movie #5990, Sammy Hagar: The Long Road to Cabo (2003)
+average rating: 3.51 in 136 reviews  |  regressing on 136 features
+MSE: 1.75 		 r2: -0.09 		 time: 3.29 ... (0.90 + 2.39)
+
+Movie #5991, Sin City (2005)
+average rating: 3.60 in 56147 reviews  |  regressing on 1000 features
+MSE: 1.55 		 r2: 0.13 		 time: 24.46 ... (1.48 + 22.97)
+
+Movie #5992, La Strada: Special Edition (1954)
+average rating: 4.08 in 4647 reviews  |  regressing on 1000 features
+MSE: 0.81 		 r2: 0.15 		 time: 28.73 ... (1.11 + 27.61)
+
+Movie #5993, Thrashin' (1986)
+average rating: 3.25 in 286 reviews  |  regressing on 286 features
+MSE: 1.01 		 r2: 0.29 		 time: 6.86 ... (0.96 + 5.90)
+
+Movie #5994, LeapFrog: Learn to Read at the Storybook Factory (2005)
+average rating: 3.28 in 116 reviews  |  regressing on 116 features
+MSE: 1.74 		 r2: 0.02 		 time: 2.87 ... (0.84 + 2.03)
+
+Movie #5995, The Long Way Home (1997)
+average rating: 3.66 in 855 reviews  |  regressing on 855 features
+MSE: 0.94 		 r2: 0.09 		 time: 27.57 ... (1.15 + 26.42)
+
+Movie #5996, The Ladies Man (1961)
+average rating: 3.41 in 223 reviews  |  regressing on 223 features
+MSE: 0.66 		 r2: 0.34 		 time: 4.84 ... (0.89 + 3.95)
+
+Movie #5997, Young Guns (1988)
+average rating: 3.67 in 36526 reviews  |  regressing on 1000 features
+MSE: 0.60 		 r2: 0.35 		 time: 25.90 ... (1.01 + 24.88)
+
+Movie #5998, Vampyr (1932)
+average rating: 3.13 in 563 reviews  |  regressing on 563 features
+MSE: 1.19 		 r2: 0.27 		 time: 16.81 ... (1.29 + 15.51)
+
+Movie #5999, The Bible Collection: Joseph (1995)
+average rating: 3.78 in 236 reviews  |  regressing on 236 features
+MSE: 1.20 		 r2: 0.30 		 time: 7.27 ... (0.88 + 6.39)
+
+Movie #6000, The Star (1952)
+average rating: 3.26 in 135 reviews  |  regressing on 135 features
+MSE: 1.01 		 r2: -0.11 		 time: 3.94 ... (0.87 + 3.07)
+
+Movie #6001, Tom and Jerry: The Movie (1992)
+average rating: 3.15 in 1698 reviews  |  regressing on 1000 features
+MSE: 0.81 		 r2: 0.43 		 time: 33.13 ... (1.12 + 32.01)
+
+Movie #6002, Norma Jean & Marilyn (1996)
+average rating: 2.99 in 1111 reviews  |  regressing on 1000 features
+MSE: 0.61 		 r2: 0.21 		 time: 30.62 ... (1.61 + 29.01)
+
+Movie #6003, Wild at Heart (1990)
+average rating: 3.71 in 7829 reviews  |  regressing on 1000 features
+MSE: 1.03 		 r2: 0.18 		 time: 26.52 ... (1.56 + 24.96)
+
+Movie #6004, V.I. Warshawski (1991)
+average rating: 2.60 in 2718 reviews  |  regressing on 1000 features
+MSE: 0.82 		 r2: 0.32 		 time: 32.80 ... (1.51 + 31.29)
+
+Movie #6005, Baby Boy (2001)
+average rating: 3.24 in 3827 reviews  |  regressing on 1000 features
+MSE: 0.97 		 r2: 0.30 		 time: 26.38 ... (1.10 + 25.27)
+
+Movie #6006, The Sicilian (1987)
+average rating: 2.33 in 276 reviews  |  regressing on 276 features
+MSE: 1.07 		 r2: -0.01 		 time: 7.28 ... (0.95 + 6.33)
+
+Movie #6007, Arrested Development: Season 1 (2003)
+average rating: 4.33 in 19358 reviews  |  regressing on 1000 features
+MSE: 1.00 		 r2: -0.02 		 time: 27.51 ... (1.53 + 25.98)
+
+Movie #6008, My Sister Eileen (1955)
+average rating: 3.10 in 188 reviews  |  regressing on 188 features
+MSE: 1.06 		 r2: 0.18 		 time: 4.58 ... (0.94 + 3.64)
+
+Movie #6009, Carnosaur 3 (1995)
+average rating: 2.23 in 132 reviews  |  regressing on 132 features
+MSE: 0.53 		 r2: 0.32 		 time: 3.75 ... (0.87 + 2.88)
+
+Movie #6010, New World Disorder (1999)
+average rating: 2.44 in 121 reviews  |  regressing on 121 features
+MSE: 0.85 		 r2: 0.17 		 time: 3.40 ... (0.89 + 2.51)
+
+Movie #6011, Cheers: Season 4 (1985)
+average rating: 4.02 in 2868 reviews  |  regressing on 1000 features
+MSE: 0.58 		 r2: 0.42 		 time: 37.10 ... (1.65 + 35.44)
+
+Movie #6012, Party of Five: Season 1 (1994)
+average rating: 3.83 in 1885 reviews  |  regressing on 1000 features
+MSE: 1.12 		 r2: 0.24 		 time: 32.84 ... (1.60 + 31.24)
+
+Movie #6013, An American Werewolf in Paris (1997)
+average rating: 3.08 in 4652 reviews  |  regressing on 1000 features
+MSE: 0.83 		 r2: 0.24 		 time: 36.48 ... (1.62 + 34.86)
+
+Movie #6014, House of Wax (2005)
+average rating: 3.23 in 11491 reviews  |  regressing on 1000 features
+MSE: 0.85 		 r2: 0.25 		 time: 29.50 ... (1.53 + 27.97)
+
+Movie #6015, DNAngel (2003)
+average rating: 4.18 in 504 reviews  |  regressing on 504 features
+MSE: 0.91 		 r2: -0.02 		 time: 14.79 ... (1.19 + 13.59)
+
+Movie #6016, Mrs. Winterbourne (1996)
+average rating: 3.41 in 5688 reviews  |  regressing on 1000 features
+MSE: 0.81 		 r2: 0.23 		 time: 33.83 ... (1.57 + 32.26)
+
+Movie #6017, Z Channel: A Magnificent Obsession (2004)
+average rating: 3.51 in 960 reviews  |  regressing on 960 features
+MSE: 0.75 		 r2: 0.16 		 time: 35.07 ... (1.56 + 33.50)
+
+Movie #6018, The Business of Strangers (2001)
+average rating: 2.93 in 4058 reviews  |  regressing on 1000 features
+MSE: 1.11 		 r2: 0.09 		 time: 31.50 ... (1.55 + 29.95)
+
+on 103 features
+MSE: 1.25 		 r2: -0.36 		 time: 2.91 ... (0.87 + 2.04)
+
+Movie #5635, The Mafia: An Expose - Gotti and a Mafia Resume (1998)
+average rating: 2.35 in 94 reviews  |  regressing on 94 features
+MSE: 1.78 		 r2: 0.08 		 time: 2.78 ... (0.85 + 1.94)
+
+Movie #5636, Married... with Children: Season 3 (1988)
+average rating: 3.97 in 3334 reviews  |  regressing on 1000 features
+MSE: 0.55 		 r2: 0.60 		 time: 35.78 ... (1.56 + 34.22)
+
+Movie #5637, Vanishing Point (1997)
+average rating: 2.81 in 346 reviews  |  regressing on 346 features
+MSE: 0.94 		 r2: 0.10 		 time: 7.63 ... (1.11 + 6.52)
+
+Movie #5638, Baran (2001)
+average rating: 3.40 in 4335 reviews  |  regressing on 1000 features
+MSE: 0.99 		 r2: 0.16 		 time: 27.18 ... (1.53 + 25.65)
+
+Movie #5639, For Whom the Bell Tolls (1943)
+average rating: 3.53 in 2284 reviews  |  regressing on 1000 features
+MSE: 0.76 		 r2: 0.27 		 time: 30.27 ... (1.56 + 28.71)
+
+Movie #5640, Once a Thief (1990)
+average rating: 3.07 in 1206 reviews  |  regressing on 1000 features
+MSE: 1.04 		 r2: 0.21 		 time: 5.49 ... (1.28 + 4.21)
+
+Movie #5641, Voodoo (1995)
+average rating: 2.35 in 112 reviews  |  regressing on 112 features
+MSE: 0.79 		 r2: -0.13 		 time: 3.63 ... (0.88 + 2.76)
+
+Movie #5642, Henry: Portrait of a Serial Killer (1990)
+average rating: 3.20 in 3010 reviews  |  regressing on 1000 features
+MSE: 1.03 		 r2: 0.21 		 time: 23.13 ... (1.11 + 22.03)
+
+Movie #5643, Naked in New York (1994)
+average rating: 2.49 in 281 reviews  |  regressing on 281 features
+MSE: 1.15 		 r2: -0.48 		 time: 8.17 ... (0.92 + 7.26)
+
+Movie #5644, Melinda and Melinda (2004)
+average rating: 2.94 in 4754 reviews  |  regressing on 1000 features
+MSE: 1.00 		 r2: 0.12 		 time: 32.99 ... (1.49 + 31.50)
+
+Movie #5645, Repossessed (1990)
+average rating: 2.92 in 843 reviews  |  regressing on 843 features
+MSE: 1.06 		 r2: 0.22 		 time: 30.18 ... (1.46 + 28.73)
+
+Movie #5646, 61* (2001)
+average rating: 3.84 in 10558 reviews  |  regressing on 1000 features
+MSE: 0.67 		 r2: 0.12 		 time: 34.92 ... (1.54 + 33.38)
+
+Movie #5647, Feeling Minnesota (1996)
+average rating: 2.74 in 2861 reviews  |  regressing on 1000 features
+MSE: 0.70 		 r2: 0.18 		 time: 32.95 ... (1.04 + 31.92)
+
+Movie #5648, Creature Comforts: Season 1 (2004)
+average rating: 3.41 in 278 reviews  |  regressing on 278 features
+MSE: 1.24 		 r2: 0.32 		 time: 6.08 ... (0.96 + 5.12)
+
+Movie #5649, Cybermutt (2002)
+average rating: 3.04 in 135 reviews  |  regressing on 135 features
+MSE: 1.34 		 r2: 0.14 		 time: 3.38 ... (0.86 + 2.52)
+
+Movie #5650, Buena Vista Social Club (1999)
+average rating: 3.76 in 10043 reviews  |  regressing on 1000 features
+MSE: 1.10 		 r2: 0.04 		 time: 33.47 ... (1.53 + 31.93)
+
+Movie #5651, Boomerang (1992)
+average rating: 3.13 in 12918 reviews  |  regressing on 1000 features
+MSE: 0.74 		 r2: 0.33 		 time: 31.92 ... (1.57 + 30.35)
+
+Movie #5652, Twelve O'Clock High (1949)
+average rating: 3.83 in 5889 reviews  |  regressing on 1000 features
+MSE: 0.75 		 r2: 0.14 		 time: 37.42 ... (1.59 + 35.83)
+
+Movie #5653, The Night Stalker / The Night Strangler (1973)
+average rating: 3.69 in 1047 reviews  |  regressing on 1000 features
+MSE: 0.76 		 r2: 0.20 		 time: 37.48 ... (1.59 + 35.89)
+
+Movie #5654, Chino (1973)
+average rating: 2.98 in 313 reviews  |  regressing on 313 features
+MSE: 0.69 		 r2: 0.20 		 time: 8.38 ... (1.04 + 7.34)
+
+Movie #5655, The Harmonists (1997)
+average rating: 3.70 in 2133 reviews  |  regressing on 1000 features
+MSE: 0.82 		 r2: 0.11 		 time: 33.87 ... (1.53 + 32.34)
+
+Movie #5656, Star Trek IV: The Voyage Home (1986)
+average rating: 3.71 in 23342 reviews  |  regressing on 1000 features
+MSE: 0.83 		 r2: 0.21 		 time: 27.30 ... (1.54 + 25.76)
+
+Movie #5657, Billabong Odyssey (2003)
+average rating: 3.65 in 2106 reviews  |  regressing on 1000 features
+MSE: 1.01 		 r2: 0.07 		 time: 27.95 ... (1.53 + 26.42)
+
+Movie #5658, The Experiment (2001)
+average rating: 3.43 in 5353 reviews  |  regressing on 1000 features
+MSE: 1.21 		 r2: 0.11 		 time: 17.76 ... (1.55 + 16.22)
+
+Movie #5659, Two Moon Junction (1988)
+average rating: 2.89 in 2046 reviews  |  regressing on 1000 features
+MSE: 1.00 		 r2: 0.16 		 time: 30.03 ... (1.13 + 28.90)
+
+Movie #5660, Bite Me! (2004)
+average rating: 2.18 in 191 reviews  |  regressing on 191 features
+MSE: 1.02 		 r2: 0.02 		 time: 3.83 ... (0.83 + 3.00)
+
+Movie #5661, The Best of Dr. Seuss (1989)
+average rating: 3.45 in 568 reviews  |  regressing on 568 features
+MSE: 1.03 		 r2: 0.19 		 time: 14.94 ... (1.00 + 13.94)
+
+Movie #5662, La Ceremonie (1996)
+average rating: 3.33 in 627 reviews  |  regressing on 627 features
+MSE: 0.91 		 r2: 0.01 		 time: 16.62 ... (1.19 + 15.43)
+
+Movie #5663, The Cat's Meow (2002)
+average rating: 2.90 in 6150 reviews  |  regressing on 1000 features
+MSE: 0.88 		 r2: 0.07 		 time: 27.02 ... (1.33 + 25.70)
+
+Movie #5664, Fire and Ice (1983)
+average rating: 3.15 in 176 reviews  |  regressing on 176 features
+MSE: 1.31 		 r2: 0.05 		 time: 3.53 ... (0.85 + 2.67)
+
+finished all regs in 3653.3420
+r2
+0.825	Dark Shadows: Vol. 17 (1969)
+0.818	Dark Shadows: Vol. 10 (1968)
+0.806	Saved by the Bell: The New Class: Season 4 (1996)
+0.788	The Andy Griffith Show: Vol 2: The Big House / A Wife for Andy (1963)
+0.757	Lain #2: Knights (1998)
+0.694	Slayers Next DVD Collection (1996)
+0.692	Sanford and Son: Season 3 (1972)
+0.682	The Twilight Zone: Vol. 18 (1960)
+0.681	Red Green: Stuffed and Mounted 4 (1991)
+0.675	Dragon Ball: Fortune Teller Baba Saga (2002)
+
+average r2 value: 0.17
+
+MSE
+0.280	Lord of the Rings: The Two Towers: Extended Edition (2002)
+0.301	Warlock (1959)
+0.320	Dark Shadows: Vol. 10 (1968)
+0.323	The Twilight Zone: Vol. 18 (1960)
+0.335	Lain #2: Knights (1998)
+0.341	Sharpe 11: Sharpe's Mission (1996)
+0.344	The Twilight Zone: Vol. 29 (2000)
+0.363	The Andy Griffith Show: Vol 2: The Big House / A Wife for Andy (1963)
+0.368	Dark Shadows: Vol. 17 (1969)
+0.370	Loaded (1994)
+
+average MSE value: 0.98

@@ -6991,3 +6991,150 @@ Movie #8673, Open Range: Bonus Material (2003)
 average rating: 3.24 in 512 reviews  |  regressing on 512 features
 MSE: 1.39 		 r2: 0.17 		 time: 13.07 ... (0.91 + 12.17)
 
+on 134 features
+MSE: 1.52 		 r2: -0.07 		 time: 3.65 ... (0.54 + 3.11)
+
+Movie #7760, The Stickup (2002)
+average rating: 3.17 in 948 reviews  |  regressing on 948 features
+MSE: 0.94 		 r2: 0.09 		 time: 28.97 ... (0.83 + 28.14)
+
+Movie #7761, The Return of Spinal Tap (1992)
+average rating: 2.73 in 823 reviews  |  regressing on 823 features
+MSE: 1.21 		 r2: 0.02 		 time: 22.73 ... (0.78 + 21.96)
+
+Movie #7762, Down Periscope (1996)
+average rating: 3.58 in 8198 reviews  |  regressing on 1000 features
+MSE: 0.79 		 r2: 0.28 		 time: 24.95 ... (0.85 + 24.09)
+
+Movie #7763, La Cage aux Folles (1979)
+average rating: 3.78 in 5521 reviews  |  regressing on 1000 features
+MSE: 0.85 		 r2: 0.18 		 time: 26.19 ... (0.81 + 25.38)
+
+Movie #7764, Evil Ed (1996)
+average rating: 2.21 in 116 reviews  |  regressing on 116 features
+MSE: 1.16 		 r2: -0.23 		 time: 3.32 ... (0.54 + 2.78)
+
+Movie #7765, Saturday Night Live: The Best of Steve Martin (2000)
+average rating: 3.73 in 4065 reviews  |  regressing on 1000 features
+MSE: 0.94 		 r2: 0.19 		 time: 29.50 ... (0.82 + 28.68)
+
+Movie #7766, Endangered Species (2002)
+average rating: 2.46 in 130 reviews  |  regressing on 130 features
+MSE: 1.60 		 r2: -0.11 		 time: 3.87 ... (0.54 + 3.33)
+
+Movie #7767, O Brother (2000)
+average rating: 3.91 in 80122 reviews  |  regressing on 1000 features
+MSE: 0.99 		 r2: 0.04 		 time: 22.34 ... (0.82 + 21.52)
+
+Movie #7768, The Berenstain Bears: Adventure & Fun for Everyone (2003)
+average rating: 3.02 in 124 reviews  |  regressing on 124 features
+MSE: 0.66 		 r2: 0.33 		 time: 3.38 ... (0.54 + 2.85)
+
+Movie #7769, Little Buddha (1994)
+average rating: 3.10 in 2429 reviews  |  regressing on 1000 features
+MSE: 0.84 		 r2: 0.25 		 time: 27.98 ... (0.81 + 27.16)
+
+Movie #7770, Piece of Cake (1988)
+average rating: 3.19 in 356 reviews  |  regressing on 356 features
+MSE: 1.42 		 r2: 0.13 		 time: 9.82 ... (0.62 + 9.20)
+
+Movie #7771, The Best of Times (1986)
+average rating: 3.09 in 2475 reviews  |  regressing on 1000 features
+MSE: 0.73 		 r2: 0.30 		 time: 27.11 ... (0.79 + 26.33)
+
+Movie #7772, Master of the Flying Guillotine (1975)
+average rating: 3.49 in 1412 reviews  |  regressing on 1000 features
+MSE: 0.96 		 r2: 0.25 		 time: 25.38 ... (0.77 + 24.61)
+
+Movie #7773, Henry V (1989)
+average rating: 3.91 in 6662 reviews  |  regressing on 1000 features
+MSE: 0.81 		 r2: 0.16 		 time: 23.50 ... (0.78 + 22.72)
+
+Movie #7774, The Phantom of Liberty (1974)
+average rating: 3.77 in 390 reviews  |  regressing on 390 features
+MSE: 1.18 		 r2: 0.16 		 time: 9.62 ... (0.60 + 9.02)
+
+Movie #7775, And the Ship Sails On (1984)
+average rating: 3.36 in 491 reviews  |  regressing on 491 features
+MSE: 1.45 		 r2: -0.08 		 time: 11.78 ... (0.63 + 11.15)
+
+Movie #7776, The Brandon Teena Story (1998)
+average rating: 3.40 in 1062 reviews  |  regressing on 1000 features
+MSE: 0.73 		 r2: 0.27 		 time: 27.58 ... (0.76 + 26.81)
+
+Movie #7777, River Made to Drown In (1997)
+average rating: 2.74 in 737 reviews  |  regressing on 737 features
+MSE: 0.88 		 r2: 0.05 		 time: 19.36 ... (0.70 + 18.66)
+
+Movie #7778, Speaking in Strings: Nadja Salerno-Sonnenberg (1999)
+average rating: 3.54 in 549 reviews  |  regressing on 549 features
+MSE: 1.08 		 r2: 0.11 		 time: 14.05 ... (0.65 + 13.40)
+
+Movie #7779, Willow (1988)
+average rating: 3.71 in 42875 reviews  |  regressing on 1000 features
+MSE: 0.85 		 r2: 0.14 		 time: 21.08 ... (0.76 + 20.32)
+
+Movie #7780, Friends: The Series Finale (2004)
+average rating: 4.14 in 18340 reviews  |  regressing on 1000 features
+MSE: 0.75 		 r2: 0.50 		 time: 19.73 ... (0.75 + 18.97)
+
+Movie #7781, Touching Wild Horses (2002)
+average rating: 3.57 in 481 reviews  |  regressing on 481 features
+MSE: 1.20 		 r2: 0.03 		 time: 10.07 ... (0.61 + 9.45)
+
+Movie #7782, Demonlover (2002)
+average rating: 2.35 in 1516 reviews  |  regressing on 1000 features
+MSE: 0.99 		 r2: 0.11 		 time: 25.25 ... (0.74 + 24.52)
+
+Movie #7783, The Witness Files (2000)
+average rating: 2.82 in 163 reviews  |  regressing on 163 features
+MSE: 0.82 		 r2: 0.17 		 time: 3.15 ... (0.51 + 2.63)
+
+Movie #7784, The Hitch-Hiker (1953)
+average rating: 3.17 in 172 reviews  |  regressing on 172 features
+MSE: 0.71 		 r2: 0.01 		 time: 3.37 ... (0.51 + 2.85)
+
+Movie #7785, Elvis Has Left the Building (2005)
+average rating: 2.83 in 1042 reviews  |  regressing on 1000 features
+MSE: 0.72 		 r2: 0.16 		 time: 23.75 ... (0.74 + 23.01)
+
+Movie #7786, The Station Agent (2003)
+average rating: 3.97 in 42307 reviews  |  regressing on 1000 features
+MSE: 0.85 		 r2: 0.03 		 time: 4.30 ... (0.73 + 3.58)
+
+Movie #7787, La Commare Secca (1962)
+average rating: 3.02 in 114 reviews  |  regressing on 114 features
+MSE: 0.62 		 r2: -0.03 		 time: 1.99 ... (0.50 + 1.50)
+
+Movie #7788, Strawberry Shortcake: Spring for Strawberry Shortcake (2002)
+average rating: 3.69 in 562 reviews  |  regressing on 562 features
+MSE: 0.71 		 r2: 0.32 		 time: 11.15 ... (0.62 + 10.53)
+
+finished all regs in 3044.3192
+r2
+0.830	Rumpole of the Bailey: Series 6 (1991)
+0.751	Pokemon: Vol. 9: Fashion Victim (1999)
+0.735	The Twilight Zone: Vol. 28 (1964)
+0.730	Dark Shadows: Vol. 16 (1969)
+0.692	Global Warning: Australia (2002)
+0.683	Friends: Season 5 (1998)
+0.673	Dragon Ball: Mystical Adventure (2001)
+0.671	Hercules: The Legendary Journeys: Season 4 (1997)
+0.670	The Best of Friends: Season 4 (1997)
+0.660	Dragon Ball: The Path to Power (2003)
+
+average r2 value: 0.17
+
+MSE
+0.249	The Lord of the Rings: The Fellowship of the Ring: Extended Edition (2001)
+0.268	The Twilight Zone: Vol. 28 (1964)
+0.310	Rumpole of the Bailey: Series 6 (1991)
+0.312	Rancid Aluminum (2000)
+0.332	Extreme Honor (2001)
+0.333	The Land Before Time VI: The Secret of Saurus Rock (1998)
+0.344	Dark Shadows: Vol. 16 (1969)
+0.369	Buffy the Vampire Slayer: Season 5 (2000)
+0.376	Hercules: The Legendary Journeys: Season 4 (1997)
+0.392	Cadfael: The Rose Rent (1997)
+
+average MSE value: 0.99

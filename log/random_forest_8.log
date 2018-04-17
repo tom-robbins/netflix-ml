@@ -2557,4 +2557,4584 @@ MSE: 1.06 		 r2: 0.01 		 time: 5.07 ... (0.56 + 4.51)
 
 Movie #15141, Tarzan in Manhattan (1989)
 average rating: 2.32 in 108 reviews  |  regressing on 108 features
-MSE: 1.22 		 r2: 0.07 		 time: 3.54 ... (0.5
+MSE: 1.22 		 r2: 0.07 		 time: 3.54 ... (0.5 Intacto (2001)
+average rating: 3.13 in 4662 reviews  |  regressing on 1000 features
+MSE: 1.05 		 r2: 0.01 		 time: 24.77 ... (0.78 + 23.99)
+
+Movie #14388, Lucia Lucia (2003)
+average rating: 3.09 in 1385 reviews  |  regressing on 1000 features
+MSE: 0.62 		 r2: 0.18 		 time: 27.23 ... (0.84 + 26.39)
+
+Movie #14389, The Skulls 2 (2002)
+average rating: 2.72 in 2284 reviews  |  regressing on 1000 features
+MSE: 0.83 		 r2: 0.29 		 time: 28.05 ... (0.85 + 27.20)
+
+Movie #14390, The Firm Body Sculpting System: Total Muscle Shaping (2004)
+average rating: 2.93 in 91 reviews  |  regressing on 91 features
+MSE: 0.80 		 r2: 0.11 		 time: 2.31 ... (0.50 + 1.80)
+
+Movie #14391, French Kiss (1995)
+average rating: 3.52 in 20484 reviews  |  regressing on 1000 features
+MSE: 0.88 		 r2: 0.10 		 time: 24.09 ... (0.83 + 23.26)
+
+Movie #14392, Wholly Moses (1980)
+average rating: 3.00 in 180 reviews  |  regressing on 180 features
+MSE: 1.11 		 r2: 0.11 		 time: 5.34 ... (0.57 + 4.78)
+
+Movie #14393, The Last Waltz (1978)
+average rating: 3.96 in 6159 reviews  |  regressing on 1000 features
+MSE: 0.92 		 r2: -0.04 		 time: 27.34 ... (0.83 + 26.51)
+
+Movie #14394, Fist Power (1999)
+average rating: 2.46 in 101 reviews  |  regressing on 101 features
+MSE: 0.85 		 r2: 0.13 		 time: 2.62 ... (0.51 + 2.11)
+
+Movie #14395, Dawn Anna (2005)
+average rating: 3.66 in 1100 reviews  |  regressing on 1000 features
+MSE: 0.76 		 r2: 0.36 		 time: 28.54 ... (0.76 + 27.78)
+
+Movie #14396, Visions of Greece (2002)
+average rating: 3.32 in 104 reviews  |  regressing on 104 features
+MSE: 0.93 		 r2: -0.14 		 time: 2.60 ... (0.53 + 2.07)
+
+Movie #14397, Cheaters (2000)
+average rating: 2.99 in 1004 reviews  |  regressing on 1000 features
+MSE: 0.51 		 r2: 0.40 		 time: 31.47 ... (0.83 + 30.64)
+
+Movie #14398, Guilty Conscience (1985)
+average rating: 2.66 in 79 reviews  |  regressing on 79 features
+MSE: 1.12 		 r2: 0.09 		 time: 2.35 ... (0.54 + 1.81)
+
+Movie #14399, Vincent & Theo (1990)
+average rating: 3.11 in 198 reviews  |  regressing on 198 features
+MSE: 0.85 		 r2: -0.30 		 time: 5.71 ... (0.57 + 5.14)
+
+Movie #14400, Big Bird in China (2004)
+average rating: 2.96 in 155 reviews  |  regressing on 155 features
+MSE: 0.78 		 r2: 0.21 		 time: 3.96 ... (0.51 + 3.45)
+
+Movie #14401, Ranma 1/2: Ranma Forever: Vol. 5: Wretched Rice Cakes of Love (2002)
+average rating: 3.97 in 643 reviews  |  regressing on 643 features
+MSE: 0.70 		 r2: 0.47 		 time: 18.41 ... (0.68 + 17.73)
+
+Movie #14402, Exorcist: The Beginning (2004)
+average rating: 3.01 in 18239 reviews  |  regressing on 1000 features
+MSE: 1.04 		 r2: 0.08 		 time: 7.97 ... (0.84 + 7.13)
+
+Movie #14403, The Long Kiss Goodnight (1996)
+average rating: 3.73 in 19148 reviews  |  regressing on 1000 features
+MSE: 0.99 		 r2: 0.14 		 time: 18.40 ... (0.83 + 17.57)
+
+Movie #14404, 5 Children and It (2004)
+average rating: 3.14 in 255 reviews  |  regressing on 255 features
+MSE: 0.90 		 r2: 0.20 		 time: 7.29 ... (0.64 + 6.66)
+
+Movie #14405, Tease (2001)
+average rating: 2.47 in 221 reviews  |  regressing on 221 features
+MSE: 1.23 		 r2: 0.04 		 time: 6.35 ... (0.59 + 5.77)
+
+Movie #14406, How to Make a Monster (2001)
+average rating: 2.40 in 213 reviews  |  regressing on 213 features
+MSE: 0.73 		 r2: 0.01 		 time: 5.75 ... (0.54 + 5.21)
+
+Movie #14407, The Last Castle (2001)
+average rating: 3.70 in 28411 reviews  |  regressing on 1000 features
+MSE: 0.71 		 r2: 0.21 		 time: 23.46 ... (0.78 + 22.68)
+
+Movie #14408, The French Lieutenant's Woman (1981)
+average rating: 3.53 in 5467 reviews  |  regressing on 1000 features
+MSE: 0.88 		 r2: 0.16 		 time: 25.10 ... (0.84 + 24.27)
+
+Movie #14409, Everything Put Together (2001)
+average rating: 2.51 in 428 reviews  |  regressing on 428 features
+MSE: 0.80 		 r2: 0.07 		 time: 11.57 ... (0.67 + 10.90)
+
+Movie #14410, Spider-Man (2002)
+average rating: 3.87 in 132142 reviews  |  regressing on 1000 features
+MSE: 0.57 		 r2: 0.19 		 time: 21.37 ... (0.77 + 20.60)
+
+Movie #14411, Boy Meets Boy: Season 1 (2003)
+average rating: 3.16 in 819 reviews  |  regressing on 819 features
+MSE: 1.18 		 r2: 0.23 		 time: 23.98 ... (0.75 + 23.23)
+
+Movie #14412, Fawlty Towers: The Complete Set (1975)
+average rating: 4.08 in 8876 reviews  |  regressing on 1000 features
+MSE: 1.19 		 r2: -0.05 		 time: 25.82 ... (0.84 + 24.98)
+
+Movie #14413, Billboard Dad (1998)
+average rating: 3.08 in 2664 reviews  |  regressing on 1000 features
+MSE: 0.72 		 r2: 0.50 		 time: 26.68 ... (0.79 + 25.89)
+
+Movie #14414, Infection (2005)
+average rating: 2.68 in 394 reviews  |  regressing on 394 features
+MSE: 1.44 		 r2: -0.07 		 time: 10.92 ... (0.63 + 10.29)
+
+Movie #14415, Haunted Junction (2000)
+average rating: 3.06 in 209 reviews  |  regressing on 209 features
+MSE: 1.48 		 r2: 0.22 		 time: 5.85 ... (0.57 + 5.27)
+
+Movie #14416, Shaolin Idiot (1990)
+average rating: 2.42 in 166 reviews  |  regressing on 166 features
+MSE: 1.30 		 r2: 0.00 		 time: 4.72 ... (0.55 + 4.17)
+
+Movie #14417, The Best of Benny Hill (1974)
+average rating: 3.06 in 1632 reviews  |  regressing on 1000 features
+MSE: 0.84 		 r2: 0.37 		 time: 28.94 ... (0.93 + 28.01)
+
+Movie #14418, The Good (1966)
+average rating: 4.01 in 147 reviews  |  regressing on 147 features
+MSE: 0.83 		 r2: -0.02 		 time: 3.51 ... (0.53 + 2.98)
+
+Movie #14419, The Crimson Pirate (1952)
+average rating: 3.44 in 962 reviews  |  regressing on 962 features
+MSE: 1.00 		 r2: 0.13 		 time: 28.02 ... (0.77 + 27.25)
+
+Movie #14420, Hell on Heels: The Battle of Mary Kay (2002)
+average rating: 2.77 in 168 reviews  |  regressing on 168 features
+MSE: 1.18 		 r2: -0.00 		 time: 3.80 ... (0.56 + 3.25)
+
+Movie #14421, The Gambler (1997)
+average rating: 2.77 in 283 reviews  |  regressing on 283 features
+MSE: 0.92 		 r2: -0.07 		 time: 8.06 ... (0.60 + 7.46)
+
+Movie #14422, National Lampoon's Holiday Reunion (2004)
+average rating: 2.21 in 737 reviews  |  regressing on 737 features
+MSE: 0.99 		 r2: 0.13 		 time: 21.55 ... (0.75 + 20.80)
+
+Movie #14423, Wind River (1998)
+average rating: 3.09 in 254 reviews  |  regressing on 254 features
+MSE: 0.96 		 r2: 0.14 		 time: 6.61 ... (0.59 + 6.03)
+
+Movie #14424, Discovering Italy (2001)
+average rating: 2.95 in 365 reviews  |  regressing on 365 features
+MSE: 0.87 		 r2: -0.02 		 time: 9.79 ... (0.58 + 9.21)
+
+Movie #14425, Shogun (1980)
+average rating: 3.90 in 3760 reviews  |  regressing on 1000 features
+MSE: 1.14 		 r2: 0.10 		 time: 27.95 ... (0.80 + 27.15)
+
+Movie #14426, An Occurrence at Owl Creek Bridge (1962)
+average rating: 3.75 in 80 reviews  |  regressing on 80 features
+MSE: 1.32 		 r2: -0.03 		 time: 2.38 ... (0.54 + 1.84)
+
+Movie #14427, The Dream Is Alive: IMAX (1985)
+average rating: 3.29 in 1592 reviews  |  regressing on 1000 features
+MSE: 1.03 		 r2: 0.26 		 time: 26.08 ... (0.83 + 25.25)
+
+Movie #14428, Dragon Ball Z: Babidi (2003)
+average rating: 3.98 in 1316 reviews  |  regressing on 1000 features
+MSE: 0.35 		 r2: 0.77 		 time: 24.91 ... (0.80 + 24.11)
+
+Movie #14429, The Inspector Lynley Mysteries: A Cry for Justice (2004)
+average rating: 3.95 in 285 reviews  |  regressing on 285 features
+MSE: 0.31 		 r2: 0.68 		 time: 8.71 ... (0.61 + 8.10)
+
+Movie #14430, Black Widow (1987)
+average rating: 3.57 in 1842 reviews  |  regressing on 1000 features
+MSE: 0.48 		 r2: 0.29 		 time: 29.97 ... (0.88 + 29.09)
+
+Movie #14431, Shadow of a Doubt (1943)
+average rating: 3.93 in 5537 reviews  |  regressing on 1000 features
+MSE: 0.79 		 r2: 0.22 		 time: 27.62 ... (0.83 + 26.79)
+
+Movie #14432, Mystery Science Theater 3000: Beginning of the End (1993)
+average rating: 3.73 in 1581 reviews  |  regressing on 1000 features
+MSE: 0.74 		 r2: 0.47 		 time: 28.94 ... (0.83 + 28.11)
+
+Movie #14433, Petticoat Junction: Four Classic Episodes (1963)
+average rating: 2.91 in 181 reviews  |  regressing on 181 features
+MSE: 1.16 		 r2: -0.17 		 time: 4.83 ... (0.58 + 4.26)
+
+Movie #14434, McLintock! Collector's Edition (1963)
+average rating: 3.86 in 7026 reviews  |  regressing on 1000 features
+MSE: 0.64 		 r2: 0.18 		 time: 26.31 ... (0.81 + 25.49)
+
+Movie #14435, The Nomi Song (2005)
+average rating: 3.44 in 651 reviews  |  regressing on 651 features
+MSE: 1.07 		 r2: 0.15 		 time: 18.24 ... (0.72 + 17.52)
+
+Movie #14436, Frasier: Season 4 (1996)
+avereatures
+MSE: 1.11 		 r2: 0.10 		 time: 14.53 ... (0.87 + 13.66)
+
+Movie #14919, Grind (2003)
+average rating: 3.19 in 4634 reviews  |  regressing on 1000 features
+MSE: 1.22 		 r2: 0.20 		 time: 17.66 ... (0.85 + 16.82)
+
+Movie #14920, Monsieur N. (2003)
+average rating: 3.07 in 193 reviews  |  regressing on 193 features
+MSE: 1.14 		 r2: 0.16 		 time: 5.19 ... (0.58 + 4.61)
+
+Movie #14921, Rosenstrasse (2003)
+average rating: 3.52 in 1496 reviews  |  regressing on 1000 features
+MSE: 0.81 		 r2: 0.09 		 time: 27.08 ... (0.83 + 26.24)
+
+Movie #14922, Boys Over Flowers (1996)
+average rating: 3.97 in 172 reviews  |  regressing on 172 features
+MSE: 1.37 		 r2: -0.07 		 time: 4.46 ... (0.57 + 3.89)
+
+Movie #14923, Campfire Tales (1997)
+average rating: 3.06 in 349 reviews  |  regressing on 349 features
+MSE: 0.83 		 r2: 0.10 		 time: 10.25 ... (0.64 + 9.61)
+
+Movie #14924, Undeclared: The Complete Series (2001)
+average rating: 3.97 in 959 reviews  |  regressing on 959 features
+MSE: 1.07 		 r2: 0.11 		 time: 27.49 ... (0.84 + 26.65)
+
+Movie #14925, Flirting (1991)
+average rating: 3.44 in 2947 reviews  |  regressing on 1000 features
+MSE: 0.76 		 r2: 0.15 		 time: 27.30 ... (0.83 + 26.47)
+
+Movie #14926, Baby Beethoven: Symphony of Fun (2002)
+average rating: 3.98 in 723 reviews  |  regressing on 723 features
+MSE: 0.77 		 r2: 0.24 		 time: 21.02 ... (0.77 + 20.25)
+
+Movie #14927, Trial of Billy Jack (1974)
+average rating: 3.32 in 666 reviews  |  regressing on 666 features
+MSE: 1.04 		 r2: 0.21 		 time: 20.60 ... (0.76 + 19.84)
+
+Movie #14928, Dead Poets Society (1989)
+average rating: 4.03 in 95335 reviews  |  regressing on 1000 features
+MSE: 0.72 		 r2: 0.15 		 time: 21.56 ... (0.86 + 20.70)
+
+Movie #14929, Angela (1995)
+average rating: 2.66 in 209 reviews  |  regressing on 209 features
+MSE: 1.53 		 r2: 0.06 		 time: 5.87 ... (0.60 + 5.26)
+
+Movie #14930, Pearl Jam: Single Video Theory (1998)
+average rating: 3.59 in 335 reviews  |  regressing on 335 features
+MSE: 1.25 		 r2: 0.34 		 time: 9.59 ... (0.65 + 8.94)
+
+Movie #14931, Near Dark (1987)
+average rating: 3.24 in 3962 reviews  |  regressing on 1000 features
+MSE: 1.15 		 r2: 0.14 		 time: 29.13 ... (0.83 + 28.29)
+
+Movie #14932, Saturday Morning with Sid & Marty Krofft (1969)
+average rating: 2.97 in 77 reviews  |  regressing on 77 features
+MSE: 2.52 		 r2: -0.15 		 time: 2.60 ... (0.56 + 2.05)
+
+Movie #14933, Magnificent Butcher (1979)
+average rating: 3.13 in 346 reviews  |  regressing on 346 features
+MSE: 1.05 		 r2: 0.31 		 time: 10.64 ... (0.64 + 10.00)
+
+Movie #14934, The Bells of Innocence (2003)
+average rating: 2.69 in 203 reviews  |  regressing on 203 features
+MSE: 1.72 		 r2: 0.07 		 time: 5.74 ... (0.60 + 5.14)
+
+Movie #14935, The Luzhin Defence (2001)
+average rating: 3.35 in 3916 reviews  |  regressing on 1000 features
+MSE: 0.77 		 r2: 0.13 		 time: 26.43 ... (0.79 + 25.64)
+
+Movie #14936, Longtime Companion (1990)
+average rating: 3.78 in 4303 reviews  |  regressing on 1000 features
+MSE: 0.77 		 r2: 0.15 		 time: 26.92 ... (0.86 + 26.05)
+
+Movie #14937, Anna Karenina (2000)
+average rating: 3.25 in 289 reviews  |  regressing on 289 features
+MSE: 1.38 		 r2: 0.12 		 time: 7.96 ... (0.64 + 7.32)
+
+Movie #14938, Coldplay: Live 2003 (2003)
+average rating: 3.78 in 819 reviews  |  regressing on 819 features
+MSE: 1.09 		 r2: 0.06 		 time: 23.31 ... (0.74 + 22.57)
+
+Movie #14939, The White Sheik (1952)
+average rating: 3.38 in 402 reviews  |  regressing on 402 features
+MSE: 1.14 		 r2: 0.10 		 time: 11.08 ... (0.67 + 10.41)
+
+Movie #14940, Without a Paddle (2004)
+average rating: 3.46 in 57428 reviews  |  regressing on 1000 features
+MSE: 0.99 		 r2: 0.12 		 time: 23.18 ... (0.83 + 22.35)
+
+Movie #14941, Vandread (2000)
+average rating: 4.11 in 702 reviews  |  regressing on 702 features
+MSE: 0.74 		 r2: 0.22 		 time: 19.04 ... (0.70 + 18.33)
+
+Movie #14942, Unzipped (1995)
+average rating: 3.02 in 1122 reviews  |  regressing on 1000 features
+MSE: 0.86 		 r2: 0.26 		 time: 27.82 ... (0.86 + 26.96)
+
+Movie #14943, 1776 (1972)
+average rating: 3.58 in 1992 reviews  |  regressing on 1000 features
+MSE: 1.25 		 r2: 0.08 		 time: 27.54 ... (0.87 + 26.67)
+
+Movie #14944, Run the Wild Fields (2000)
+average rating: 3.33 in 438 reviews  |  regressing on 438 features
+MSE: 0.79 		 r2: 0.14 		 time: 12.46 ... (0.63 + 11.82)
+
+Movie #14945, Fathom (1967)
+average rating: 2.54 in 221 reviews  |  regressing on 221 features
+MSE: 0.90 		 r2: 0.10 		 time: 6.23 ... (0.62 + 5.61)
+
+Movie #14946, Mobile Suit Gundam: Char's Counterattack (1988)
+average rating: 3.45 in 545 reviews  |  regressing on 545 features
+MSE: 1.42 		 r2: 0.19 		 time: 15.40 ... (0.70 + 14.70)
+
+Movie #14947, Bombay (1995)
+average rating: 3.53 in 759 reviews  |  regressing on 759 features
+MSE: 1.00 		 r2: 0.30 		 time: 22.04 ... (0.75 + 21.30)
+
+Movie #14948, Pearl Jam: Live at the Garden (2003)
+average rating: 3.76 in 614 reviews  |  regressing on 614 features
+MSE: 1.11 		 r2: 0.24 		 time: 17.32 ... (0.77 + 16.55)
+
+Movie #14949, CKY2K (2002)
+average rating: 3.73 in 2246 reviews  |  regressing on 1000 features
+MSE: 0.86 		 r2: 0.50 		 time: 24.80 ... (0.79 + 24.01)
+
+Movie #14950, Keeping the Promise (1997)
+average rating: 3.01 in 87 reviews  |  regressing on 87 features
+MSE: 0.82 		 r2: 0.32 		 time: 2.46 ... (0.52 + 1.94)
+
+Movie #14951, Urotsukidoji (1989)
+average rating: 2.83 in 1176 reviews  |  regressing on 1000 features
+MSE: 1.20 		 r2: 0.22 		 time: 27.93 ... (0.80 + 27.13)
+
+Movie #14952, Martin (1977)
+average rating: 3.45 in 690 reviews  |  regressing on 690 features
+MSE: 0.97 		 r2: 0.21 		 time: 20.85 ... (0.77 + 20.08)
+
+Movie #14953, Pretty in Pink (1986)
+average rating: 3.76 in 47080 reviews  |  regressing on 1000 features
+MSE: 0.81 		 r2: 0.11 		 time: 22.56 ... (0.79 + 21.77)
+
+Movie #14954, Plain Truth (2004)
+average rating: 3.44 in 817 reviews  |  regressing on 817 features
+MSE: 0.79 		 r2: 0.10 		 time: 23.76 ... (0.82 + 22.95)
+
+Movie #14955, Intermission (2004)
+average rating: 2.97 in 9400 reviews  |  regressing on 1000 features
+MSE: 1.07 		 r2: 0.06 		 time: 24.88 ... (0.89 + 23.99)
+
+Movie #14956, Spandau Ballet: Live (1990)
+average rating: 2.75 in 92 reviews  |  regressing on 92 features
+MSE: 1.70 		 r2: 0.16 		 time: 2.61 ... (0.56 + 2.05)
+
+Movie #14957, The Vault (2004)
+average rating: 1.79 in 306 reviews  |  regressing on 306 features
+MSE: 1.07 		 r2: -0.03 		 time: 8.59 ... (0.62 + 7.97)
+
+Movie #14958, Fluke (1995)
+average rating: 3.32 in 761 reviews  |  regressing on 761 features
+MSE: 1.05 		 r2: 0.23 		 time: 22.83 ... (0.78 + 22.05)
+
+Movie #14959, The Jack Bull (1999)
+average rating: 3.51 in 2465 reviews  |  regressing on 1000 features
+MSE: 0.69 		 r2: 0.31 		 time: 29.48 ... (0.87 + 28.61)
+
+Movie #14960, Three Amigos (1986)
+average rating: 3.43 in 39257 reviews  |  regressing on 1000 features
+MSE: 0.87 		 r2: 0.22 		 time: 24.97 ... (0.86 + 24.11)
+
+Movie #14961, Lord of the Rings: The Return of the King: Extended Edition (2003)
+average rating: 4.72 in 73335 reviews  |  regressing on 1000 features
+MSE: 0.19 		 r2: 0.41 		 time: 22.31 ... (0.94 + 21.37)
+
+Movie #14962, Kiss Toledo Goodbye (1999)
+average rating: 2.33 in 271 reviews  |  regressing on 271 features
+MSE: 0.90 		 r2: 0.01 		 time: 7.67 ... (0.57 + 7.10)
+
+Movie #14963, Norma Rae (1979)
+average rating: 3.63 in 20191 reviews  |  regressing on 1000 features
+MSE: 0.69 		 r2: 0.13 		 time: 23.33 ... (0.87 + 22.46)
+
+Movie #14964, Stranger from Venus (1954)
+average rating: 2.56 in 118 reviews  |  regressing on 118 features
+MSE: 1.06 		 r2: 0.29 		 time: 3.73 ... (0.57 + 3.17)
+
+Movie #14965, Tarzan (1932)
+average rating: 3.67 in 471 reviews  |  regressing on 471 features
+MSE: 0.77 		 r2: 0.24 		 time: 14.16 ... (0.69 + 13.46)
+
+Movie #14966, One Eyed Jacks (1961)
+average rating: 3.25 in 835 reviews  |  regressing on 835 features
+MSE: 1.05 		 r2: 0.10 		 time: 25.81 ... (0.81 + 24.99)
+
+Movie #14967, Night and the City (1950)
+average rating: 3.72 in 535 reviews  |  regressing on 535 features
+MSE: 0.90 		 r2: -0.00 		 time: 15.02 ... (0.66 + 14.35)
+
+Movie #14968, Father of the Bride (1950)
+average rating: 3.75 in 15216 reviews  |  regressing on 1000 features
+MSE: 0.82 		 r2: 0.08 		 time: 26.79 ... (0.79 + 26.00)
+41, A Face in the Crowd (1957)
+average rating: 3.98 in 1193 reviews  |  regressing on 1000 features
+MSE: 0.86 		 r2: 0.15 		 time: 29.45 ... (0.82 + 28.63)
+
+Movie #14742, The X-Files: Season 2 (2000)
+average rating: 4.25 in 10113 reviews  |  regressing on 1000 features
+MSE: 0.50 		 r2: 0.44 		 time: 23.72 ... (0.82 + 22.89)
+
+Movie #14743, Short Cut to Nirvana (2004)
+average rating: 3.28 in 79 reviews  |  regressing on 79 features
+MSE: 0.80 		 r2: 0.05 		 time: 2.04 ... (0.54 + 1.50)
+
+Movie #14744, The Phantom of the Opera (1989)
+average rating: 2.80 in 416 reviews  |  regressing on 416 features
+MSE: 1.67 		 r2: -0.03 		 time: 12.26 ... (0.68 + 11.58)
+
+Movie #14745, Dragon Ball Z: The World's Strongest (1998)
+average rating: 3.31 in 1332 reviews  |  regressing on 1000 features
+MSE: 1.21 		 r2: 0.53 		 time: 27.23 ... (0.84 + 26.39)
+
+Movie #14746, New Crouching Tiger (2004)
+average rating: 2.70 in 181 reviews  |  regressing on 181 features
+MSE: 1.85 		 r2: -0.11 		 time: 4.79 ... (0.58 + 4.21)
+
+Movie #14747, Creature Comforts (1990)
+average rating: 3.53 in 2798 reviews  |  regressing on 1000 features
+MSE: 1.00 		 r2: 0.14 		 time: 27.69 ... (0.88 + 26.81)
+
+Movie #14748, Scooby-Doo and the Alien Invaders (2000)
+average rating: 3.19 in 4697 reviews  |  regressing on 1000 features
+MSE: 0.88 		 r2: 0.38 		 time: 28.00 ... (0.85 + 27.15)
+
+Movie #14749, Heartland (1980)
+average rating: 3.30 in 332 reviews  |  regressing on 332 features
+MSE: 1.12 		 r2: 0.19 		 time: 9.60 ... (0.64 + 8.96)
+
+Movie #14750, Doctor Who: The Pirate Planet (1978)
+average rating: 3.80 in 1374 reviews  |  regressing on 1000 features
+MSE: 0.50 		 r2: 0.56 		 time: 29.05 ... (0.84 + 28.22)
+
+Movie #14751, Red Green: Stuffed and Mounted 3 (1991)
+average rating: 3.65 in 462 reviews  |  regressing on 462 features
+MSE: 0.50 		 r2: 0.71 		 time: 13.39 ... (0.68 + 12.71)
+
+Movie #14752, Prison Song (2001)
+average rating: 3.15 in 342 reviews  |  regressing on 342 features
+MSE: 1.16 		 r2: 0.08 		 time: 9.74 ... (0.64 + 9.10)
+
+Movie #14753, Dil Se (1998)
+average rating: 3.15 in 809 reviews  |  regressing on 809 features
+MSE: 1.09 		 r2: 0.11 		 time: 23.27 ... (0.78 + 22.49)
+
+Movie #14754, Pokemon: The First Movie (1999)
+average rating: 3.06 in 2115 reviews  |  regressing on 1000 features
+MSE: 0.98 		 r2: 0.50 		 time: 25.68 ... (0.86 + 24.82)
+
+Movie #14755, The Blair Witch Project (1999)
+average rating: 2.70 in 25815 reviews  |  regressing on 1000 features
+MSE: 1.36 		 r2: 0.08 		 time: 24.31 ... (0.84 + 23.47)
+
+Movie #14756, White Water Summer (1987)
+average rating: 2.93 in 1779 reviews  |  regressing on 1000 features
+MSE: 0.67 		 r2: 0.34 		 time: 29.81 ... (0.85 + 28.96)
+
+Movie #14757, Palindromes (2005)
+average rating: 3.01 in 1752 reviews  |  regressing on 1000 features
+MSE: 1.06 		 r2: 0.25 		 time: 27.42 ... (0.84 + 26.58)
+
+Movie #14758, My Favorite Broadway: The Leading Ladies (1999)
+average rating: 3.50 in 430 reviews  |  regressing on 430 features
+MSE: 1.35 		 r2: 0.20 		 time: 12.01 ... (0.67 + 11.34)
+
+Movie #14759, K-19: The Widowmaker (2002)
+average rating: 3.45 in 25857 reviews  |  regressing on 1000 features
+MSE: 0.73 		 r2: 0.06 		 time: 23.89 ... (0.77 + 23.11)
+
+Movie #14760, Kissing a Fool (1998)
+average rating: 3.07 in 2138 reviews  |  regressing on 1000 features
+MSE: 0.57 		 r2: 0.38 		 time: 29.01 ... (0.82 + 28.19)
+
+Movie #14761, Visions of Light (1993)
+average rating: 3.77 in 1009 reviews  |  regressing on 1000 features
+MSE: 0.78 		 r2: 0.24 		 time: 29.66 ... (0.84 + 28.82)
+
+Movie #14762, Devour (2005)
+average rating: 2.70 in 432 reviews  |  regressing on 432 features
+MSE: 1.11 		 r2: 0.02 		 time: 11.82 ... (0.63 + 11.19)
+
+Movie #14763, Everest: The Death Zone (1998)
+average rating: 3.29 in 1011 reviews  |  regressing on 1000 features
+MSE: 0.74 		 r2: 0.42 		 time: 28.79 ... (0.80 + 27.99)
+
+Movie #14764, The Defiant Ones (1958)
+average rating: 3.71 in 2087 reviews  |  regressing on 1000 features
+MSE: 0.48 		 r2: 0.18 		 time: 29.79 ... (0.84 + 28.94)
+
+Movie #14765, Surgeon (1993)
+average rating: 2.19 in 99 reviews  |  regressing on 99 features
+MSE: 0.80 		 r2: -0.35 		 time: 3.10 ... (0.53 + 2.57)
+
+Movie #14766, Andrew Lloyd Webber: The Royal Albert Hall Celebration (1998)
+average rating: 3.74 in 1083 reviews  |  regressing on 1000 features
+MSE: 1.03 		 r2: 0.26 		 time: 27.64 ... (0.81 + 26.83)
+
+Movie #14767, Graduation Day (1981)
+average rating: 2.34 in 129 reviews  |  regressing on 129 features
+MSE: 1.31 		 r2: 0.07 		 time: 3.67 ... (0.56 + 3.12)
+
+Movie #14768, Nine Inch Nails: And All That Could Have Been (2002)
+average rating: 4.08 in 398 reviews  |  regressing on 398 features
+MSE: 0.55 		 r2: 0.22 		 time: 11.34 ... (0.66 + 10.68)
+
+Movie #14769, Cotton Mary (1999)
+average rating: 2.48 in 449 reviews  |  regressing on 449 features
+MSE: 1.10 		 r2: -0.01 		 time: 12.12 ... (0.67 + 11.45)
+
+Movie #14770, The Prince and the Showgirl (1957)
+average rating: 3.00 in 1768 reviews  |  regressing on 1000 features
+MSE: 0.89 		 r2: 0.24 		 time: 30.42 ... (0.89 + 29.54)
+
+Movie #14771, 32 Short Films About Glenn Gould (1993)
+average rating: 3.55 in 2083 reviews  |  regressing on 1000 features
+MSE: 1.06 		 r2: 0.17 		 time: 27.94 ... (0.86 + 27.08)
+
+Movie #14772, Zion Canyon: Treasure of the Gods: IMAX (1996)
+average rating: 3.07 in 407 reviews  |  regressing on 407 features
+MSE: 1.14 		 r2: -0.02 		 time: 11.99 ... (0.63 + 11.35)
+
+Movie #14773, Coupling: Season 4: Bonus Material (2004)
+average rating: 3.40 in 514 reviews  |  regressing on 514 features
+MSE: 1.14 		 r2: 0.12 		 time: 10.44 ... (0.67 + 9.77)
+
+Movie #14774, Female Vampire (1973)
+average rating: 2.67 in 205 reviews  |  regressing on 205 features
+MSE: 1.59 		 r2: -0.06 		 time: 5.40 ... (0.58 + 4.82)
+
+Movie #14775, Vicious (2003)
+average rating: 1.66 in 235 reviews  |  regressing on 235 features
+MSE: 1.21 		 r2: -0.12 		 time: 4.95 ... (0.60 + 4.35)
+
+Movie #14776, The Ten Commandments (1956)
+average rating: 3.93 in 20910 reviews  |  regressing on 1000 features
+MSE: 0.93 		 r2: 0.23 		 time: 28.52 ... (0.82 + 27.70)
+
+Movie #14777, Eric Clapton Unplugged (1992)
+average rating: 3.83 in 1900 reviews  |  regressing on 1000 features
+MSE: 1.04 		 r2: 0.13 		 time: 28.52 ... (0.85 + 27.67)
+
+Movie #14778, The Shanghai Gesture (1941)
+average rating: 3.01 in 325 reviews  |  regressing on 325 features
+MSE: 1.28 		 r2: -0.01 		 time: 9.36 ... (0.62 + 8.74)
+
+Movie #14779, The Mission: Special Edition (1986)
+average rating: 3.79 in 9676 reviews  |  regressing on 1000 features
+MSE: 0.67 		 r2: 0.06 		 time: 26.70 ... (0.86 + 25.84)
+
+Movie #14780, Beetlejuice (1988)
+average rating: 3.66 in 70269 reviews  |  regressing on 1000 features
+MSE: 0.74 		 r2: 0.19 		 time: 22.81 ... (0.82 + 21.98)
+
+Movie #14781, Ron White: They Call Me "Tater Salad" (2004)
+average rating: 4.00 in 7720 reviews  |  regressing on 1000 features
+MSE: 1.03 		 r2: 0.13 		 time: 24.84 ... (0.84 + 24.00)
+
+Movie #14782, The Book of Pooh: Stories From the Heart (2000)
+average rating: 3.25 in 1339 reviews  |  regressing on 1000 features
+MSE: 0.97 		 r2: 0.33 		 time: 29.59 ... (0.84 + 28.75)
+
+Movie #14783, A Town Has Turned to Dust (1998)
+average rating: 2.01 in 87 reviews  |  regressing on 87 features
+MSE: 1.62 		 r2: -0.33 		 time: 2.84 ... (0.53 + 2.32)
+
+Movie #14784, Picture Claire (2001)
+average rating: 2.59 in 361 reviews  |  regressing on 361 features
+MSE: 1.13 		 r2: -0.03 		 time: 10.71 ... (0.63 + 10.08)
+
+Movie #14785, Big Bad Mama 2 (1987)
+average rating: 2.35 in 194 reviews  |  regressing on 194 features
+MSE: 0.72 		 r2: 0.33 		 time: 6.03 ... (0.62 + 5.41)
+
+Movie #14786, Female Trouble (1974)
+average rating: 3.58 in 831 reviews  |  regressing on 831 features
+MSE: 1.12 		 r2: 0.35 		 time: 24.43 ... (0.79 + 23.64)
+
+Movie #14787, The Assassination Bureau (1969)
+average rating: 2.92 in 136 reviews  |  regressing on 136 features
+MSE: 1.11 		 r2: -0.15 		 time: 3.95 ... (0.55 + 3.40)
+
+Movie #14788, G.I. Blues (1960)
+average rating: 3.44 in 1174 reviews  |  regressing on 1000 features
+MSE: 0.73 		 r2: 0.51 		 time: 30.23 ... (0.82 + 29.41)
+
+Movie #14789, The Big Trail (1930)
+average rating: 3.54 in 448 reviews  |  regressing on 448 features
+MSE: 0.9.71)
+
+Movie #15272, Wild Orchid (1990)
+average rating: 2.79 in 4285 reviews  |  regressing on 1000 features
+MSE: 1.02 		 r2: 0.20 		 time: 11.72 ... (0.89 + 10.82)
+
+Movie #15273, The Irish R.M.: Series 1 (1982)
+average rating: 3.09 in 208 reviews  |  regressing on 208 features
+MSE: 1.87 		 r2: -0.14 		 time: 5.25 ... (0.62 + 4.63)
+
+Movie #15274, Martha (2003)
+average rating: 2.86 in 304 reviews  |  regressing on 304 features
+MSE: 1.25 		 r2: 0.04 		 time: 8.56 ... (0.60 + 7.96)
+
+Movie #15275, Harmagedon (1983)
+average rating: 2.33 in 100 reviews  |  regressing on 100 features
+MSE: 1.31 		 r2: 0.08 		 time: 3.26 ... (0.57 + 2.69)
+
+Movie #15276, The Land Before Time X: The Great Longneck Migration (2003)
+average rating: 3.83 in 2551 reviews  |  regressing on 1000 features
+MSE: 0.70 		 r2: 0.42 		 time: 25.73 ... (0.83 + 24.91)
+
+Movie #15277, Night Falls on Manhattan (1997)
+average rating: 3.22 in 1052 reviews  |  regressing on 1000 features
+MSE: 0.48 		 r2: 0.31 		 time: 29.34 ... (0.87 + 28.47)
+
+Movie #15278, Degrassi Junior High: Season 2 (1988)
+average rating: 3.93 in 278 reviews  |  regressing on 278 features
+MSE: 0.87 		 r2: 0.41 		 time: 8.10 ... (0.62 + 7.49)
+
+Movie #15279, Paris When it Sizzles (1964)
+average rating: 3.04 in 951 reviews  |  regressing on 951 features
+MSE: 1.20 		 r2: 0.08 		 time: 28.77 ... (0.85 + 27.92)
+
+Movie #15280, Eurythmics: Sweet Dreams (1983)
+average rating: 2.81 in 80 reviews  |  regressing on 80 features
+MSE: 0.85 		 r2: 0.35 		 time: 2.27 ... (0.56 + 1.71)
+
+Movie #15281, Blue Seed (1995)
+average rating: 3.54 in 934 reviews  |  regressing on 934 features
+MSE: 0.90 		 r2: 0.39 		 time: 28.03 ... (0.84 + 27.20)
+
+Movie #15282, Sharpe 1: Sharpe's Rifles (1993)
+average rating: 3.62 in 2678 reviews  |  regressing on 1000 features
+MSE: 0.57 		 r2: 0.50 		 time: 28.01 ... (0.86 + 27.15)
+
+Movie #15283, Pauline at the Beach (1983)
+average rating: 3.22 in 447 reviews  |  regressing on 447 features
+MSE: 1.11 		 r2: 0.19 		 time: 13.36 ... (0.69 + 12.66)
+
+Movie #15284, Amazing Earth (2000)
+average rating: 3.47 in 378 reviews  |  regressing on 378 features
+MSE: 1.14 		 r2: 0.19 		 time: 10.49 ... (0.66 + 9.83)
+
+Movie #15285, Missing in Action (1984)
+average rating: 3.07 in 4098 reviews  |  regressing on 1000 features
+MSE: 0.56 		 r2: 0.45 		 time: 29.65 ... (0.79 + 28.86)
+
+Movie #15286, Diabolique (1996)
+average rating: 3.02 in 1880 reviews  |  regressing on 1000 features
+MSE: 0.58 		 r2: 0.32 		 time: 30.67 ... (0.84 + 29.83)
+
+Movie #15287, Sex and the Single Mom (2003)
+average rating: 3.09 in 274 reviews  |  regressing on 274 features
+MSE: 1.24 		 r2: -0.17 		 time: 7.37 ... (0.58 + 6.79)
+
+Movie #15288, Vovochka (2002)
+average rating: 2.80 in 131 reviews  |  regressing on 131 features
+MSE: 1.30 		 r2: 0.16 		 time: 2.66 ... (0.53 + 2.13)
+
+Movie #15289, Joe (1970)
+average rating: 2.84 in 2682 reviews  |  regressing on 1000 features
+MSE: 1.09 		 r2: 0.20 		 time: 26.47 ... (0.84 + 25.62)
+
+Movie #15290, The Watermelon Woman (1996)
+average rating: 2.89 in 455 reviews  |  regressing on 455 features
+MSE: 1.22 		 r2: 0.09 		 time: 12.78 ... (0.69 + 12.09)
+
+Movie #15291, 'Allo 'Allo!: Series 1 (1984)
+average rating: 3.66 in 852 reviews  |  regressing on 852 features
+MSE: 1.16 		 r2: 0.15 		 time: 6.40 ... (0.80 + 5.61)
+
+Movie #15292, Nazca: Blood Rivals (1998)
+average rating: 2.99 in 145 reviews  |  regressing on 145 features
+MSE: 0.81 		 r2: 0.41 		 time: 4.00 ... (0.58 + 3.42)
+
+Movie #15293, The Best of Bud Abbott & Lou Costello: Vol. 3 (1948)
+average rating: 3.98 in 555 reviews  |  regressing on 555 features
+MSE: 1.03 		 r2: 0.16 		 time: 18.04 ... (0.74 + 17.30)
+
+Movie #15294, George Carlin Again! (1978)
+average rating: 3.95 in 2044 reviews  |  regressing on 1000 features
+MSE: 0.51 		 r2: 0.47 		 time: 27.04 ... (0.79 + 26.25)
+
+Movie #15295, Trauma (2004)
+average rating: 2.06 in 993 reviews  |  regressing on 993 features
+MSE: 0.84 		 r2: 0.05 		 time: 26.57 ... (0.80 + 25.78)
+
+Movie #15296, Band of Brothers (2001)
+average rating: 4.51 in 37514 reviews  |  regressing on 1000 features
+MSE: 0.75 		 r2: -0.32 		 time: 26.95 ... (0.86 + 26.09)
+
+Movie #15297, Fists and Guts (1984)
+average rating: 2.57 in 96 reviews  |  regressing on 96 features
+MSE: 0.74 		 r2: 0.05 		 time: 2.40 ... (0.53 + 1.87)
+
+Movie #15298, Crazy People (1990)
+average rating: 3.37 in 791 reviews  |  regressing on 791 features
+MSE: 0.70 		 r2: 0.06 		 time: 24.00 ... (0.74 + 23.25)
+
+Movie #15299, Deep Shock (2003)
+average rating: 2.61 in 116 reviews  |  regressing on 116 features
+MSE: 1.50 		 r2: 0.25 		 time: 3.16 ... (0.58 + 2.57)
+
+Movie #15300, Calamity Jane (1953)
+average rating: 3.52 in 3202 reviews  |  regressing on 1000 features
+MSE: 0.77 		 r2: 0.26 		 time: 29.45 ... (0.85 + 28.59)
+
+Movie #15301, Whirlpool (1949)
+average rating: 3.04 in 156 reviews  |  regressing on 156 features
+MSE: 0.66 		 r2: 0.21 		 time: 4.41 ... (0.58 + 3.82)
+
+Movie #15302, Smokers Only (2002)
+average rating: 1.94 in 289 reviews  |  regressing on 289 features
+MSE: 1.14 		 r2: 0.15 		 time: 7.89 ... (0.57 + 7.32)
+
+Movie #15303, Umberto D. (1952)
+average rating: 3.85 in 1414 reviews  |  regressing on 1000 features
+MSE: 1.03 		 r2: 0.21 		 time: 27.00 ... (0.87 + 26.13)
+
+Movie #15304, The Wanderers (1979)
+average rating: 3.50 in 1391 reviews  |  regressing on 1000 features
+MSE: 0.70 		 r2: 0.28 		 time: 29.20 ... (0.86 + 28.33)
+
+Movie #15305, Eddie Izzard: Definite Article (1996)
+average rating: 4.00 in 2353 reviews  |  regressing on 1000 features
+MSE: 0.86 		 r2: 0.22 		 time: 28.12 ... (0.82 + 27.29)
+
+Movie #15306, Sealab 2021: Season 3 (2003)
+average rating: 4.16 in 1063 reviews  |  regressing on 1000 features
+MSE: 0.62 		 r2: 0.49 		 time: 28.10 ... (0.83 + 27.27)
+
+Movie #15307, The Best of Friends: Season 3 (1996)
+average rating: 4.16 in 20727 reviews  |  regressing on 1000 features
+MSE: 0.63 		 r2: 0.56 		 time: 20.25 ... (0.79 + 19.46)
+
+Movie #15308, The Last Warrior (2001)
+average rating: 2.25 in 204 reviews  |  regressing on 204 features
+MSE: 1.05 		 r2: 0.28 		 time: 6.30 ... (0.60 + 5.69)
+
+Movie #15309, Darkman (1990)
+average rating: 3.08 in 5528 reviews  |  regressing on 1000 features
+MSE: 0.72 		 r2: 0.09 		 time: 28.48 ... (0.86 + 27.61)
+
+Movie #15310, French & Saunders: Gentlemen Prefer French & Saunders (1990)
+average rating: 3.47 in 954 reviews  |  regressing on 954 features
+MSE: 0.91 		 r2: 0.35 		 time: 14.04 ... (0.88 + 13.16)
+
+Movie #15311, Follow That Dream (1962)
+average rating: 3.79 in 580 reviews  |  regressing on 580 features
+MSE: 0.75 		 r2: 0.28 		 time: 17.69 ... (0.74 + 16.95)
+
+Movie #15312, Carl Perkins and Friends (2002)
+average rating: 3.46 in 208 reviews  |  regressing on 208 features
+MSE: 1.36 		 r2: 0.19 		 time: 5.63 ... (0.57 + 5.05)
+
+Movie #15313, In Enemy Hands (2004)
+average rating: 3.27 in 1424 reviews  |  regressing on 1000 features
+MSE: 0.60 		 r2: 0.30 		 time: 24.94 ... (0.80 + 24.13)
+
+Movie #15314, The End of Suburbia (2004)
+average rating: 3.94 in 258 reviews  |  regressing on 258 features
+MSE: 0.93 		 r2: 0.13 		 time: 5.76 ... (0.63 + 5.13)
+
+Movie #15315, Around the World in 80 Days: Special Edition (1956)
+average rating: 3.53 in 4006 reviews  |  regressing on 1000 features
+MSE: 0.72 		 r2: 0.18 		 time: 27.38 ... (0.86 + 26.53)
+
+Movie #15316, Monarch of the Glen: Series 1 (2000)
+average rating: 3.96 in 2097 reviews  |  regressing on 1000 features
+MSE: 0.92 		 r2: 0.27 		 time: 27.55 ... (0.80 + 26.75)
+
+Movie #15317, Red Rock West (1993)
+average rating: 3.48 in 4203 reviews  |  regressing on 1000 features
+MSE: 0.69 		 r2: 0.16 		 time: 27.86 ... (0.86 + 27.00)
+
+Movie #15318, Tumbleweeds (1925)
+average rating: 2.98 in 136 reviews  |  regressing on 136 features
+MSE: 1.17 		 r2: 0.14 		 time: 4.31 ... (0.59 + 3.72)
+
+Movie #15319, Directors: Barbra Streisand (2000)
+average rating: 2.80 in 220 reviews  |  regressing on 220 features
+MSE: 1.28 		 r2: 0.40 		 time: 5.78 ... (0.55 + 5.23)
+
+Movie #15320, Lord Stanley's Cup: Hockey's Ultimate Prize (2000)
+average rating: 2.95 in 284 reviews  |  regressing on 284 features
+MSE: 1.37 		 r2: 0.12 		 time: 8.10 ... (0.58 + 7.52)
+
+Movie #15321, The Bernie Mac Show: Season 1 (2001)
+average rat5449, Man of the House (2005)
+average rating: 3.46 in 23877 reviews  |  regressing on 1000 features
+MSE: 0.79 		 r2: 0.15 		 time: 21.70 ... (0.80 + 20.90)
+
+Movie #15450, The Man Who Wasn't There (2001)
+average rating: 3.42 in 21567 reviews  |  regressing on 1000 features
+MSE: 0.97 		 r2: 0.11 		 time: 23.07 ... (0.81 + 22.26)
+
+Movie #15451, SCTV Network 90: Vol. 1 (1981)
+average rating: 3.43 in 1484 reviews  |  regressing on 1000 features
+MSE: 0.79 		 r2: 0.36 		 time: 27.14 ... (0.84 + 26.29)
+
+Movie #15452, Guns N' Roses: Welcome to the Videos (2003)
+average rating: 3.78 in 222 reviews  |  regressing on 222 features
+MSE: 1.17 		 r2: 0.18 		 time: 7.10 ... (0.55 + 6.55)
+
+Movie #15453, Robert Johnson: The Search for Robert Johnson (1992)
+average rating: 3.46 in 165 reviews  |  regressing on 165 features
+MSE: 1.04 		 r2: 0.17 		 time: 4.42 ... (0.55 + 3.87)
+
+Movie #15454, Slap Shot 2: Breaking the Ice (2001)
+average rating: 2.28 in 1368 reviews  |  regressing on 1000 features
+MSE: 1.15 		 r2: 0.21 		 time: 28.72 ... (0.85 + 27.87)
+
+Movie #15455, Point of No Return (1993)
+average rating: 3.54 in 10151 reviews  |  regressing on 1000 features
+MSE: 0.75 		 r2: 0.19 		 time: 27.06 ... (0.86 + 26.20)
+
+Movie #15456, The Black Pirate (1926)
+average rating: 3.20 in 214 reviews  |  regressing on 214 features
+MSE: 1.04 		 r2: 0.18 		 time: 6.57 ... (0.65 + 5.92)
+
+Movie #15457, Jeff Foxworthy: You Might Be a Redneck / Check Your Neck (2003)
+average rating: 3.81 in 5264 reviews  |  regressing on 1000 features
+MSE: 0.76 		 r2: 0.34 		 time: 24.59 ... (0.85 + 23.74)
+
+Movie #15458, Shakespeare Comedies: The Taming of the Shrew (1980)
+average rating: 3.00 in 215 reviews  |  regressing on 215 features
+MSE: 1.55 		 r2: 0.05 		 time: 6.32 ... (0.59 + 5.74)
+
+Movie #15459, Spider's Web (2001)
+average rating: 2.47 in 502 reviews  |  regressing on 502 features
+MSE: 0.98 		 r2: 0.08 		 time: 13.83 ... (0.69 + 13.15)
+
+Movie #15460, A Man Called Horse (1970)
+average rating: 3.60 in 2580 reviews  |  regressing on 1000 features
+MSE: 0.59 		 r2: 0.27 		 time: 29.25 ... (0.85 + 28.40)
+
+Movie #15461, The Allman Brothers Band: Live at Great Woods (1991)
+average rating: 3.27 in 206 reviews  |  regressing on 206 features
+MSE: 1.01 		 r2: 0.08 		 time: 5.14 ... (0.55 + 4.59)
+
+Movie #15462, Queens Logic (1991)
+average rating: 2.76 in 636 reviews  |  regressing on 636 features
+MSE: 0.96 		 r2: 0.03 		 time: 19.49 ... (0.70 + 18.79)
+
+Movie #15463, Touching Evil: Series 1 (1997)
+average rating: 4.00 in 952 reviews  |  regressing on 952 features
+MSE: 0.73 		 r2: 0.25 		 time: 28.89 ... (0.83 + 28.06)
+
+Movie #15464, Further Tales of the City (2001)
+average rating: 3.80 in 2078 reviews  |  regressing on 1000 features
+MSE: 0.69 		 r2: 0.39 		 time: 28.12 ... (0.78 + 27.34)
+
+Movie #15465, Friday the 13th (1980)
+average rating: 3.23 in 28389 reviews  |  regressing on 1000 features
+MSE: 0.91 		 r2: 0.31 		 time: 27.48 ... (0.84 + 26.63)
+
+Movie #15466, Firestorm (1998)
+average rating: 2.88 in 1765 reviews  |  regressing on 1000 features
+MSE: 0.65 		 r2: 0.52 		 time: 29.06 ... (0.86 + 28.21)
+
+Movie #15467, Jhankaar Beats (2003)
+average rating: 3.02 in 172 reviews  |  regressing on 172 features
+MSE: 1.34 		 r2: 0.23 		 time: 4.12 ... (0.53 + 3.59)
+
+Movie #15468, Mahalia Jackson: The Power and the Glory (1997)
+average rating: 3.43 in 117 reviews  |  regressing on 117 features
+MSE: 1.25 		 r2: 0.23 		 time: 2.95 ... (0.54 + 2.42)
+
+Movie #15469, Steel Angel Kurumi (1999)
+average rating: 3.86 in 627 reviews  |  regressing on 627 features
+MSE: 0.99 		 r2: 0.24 		 time: 16.71 ... (0.69 + 16.02)
+
+Movie #15470, Hot Shot (1986)
+average rating: 2.44 in 90 reviews  |  regressing on 90 features
+MSE: 1.79 		 r2: -0.08 		 time: 2.68 ... (0.52 + 2.16)
+
+Movie #15471, Phone Booth (2003)
+average rating: 3.10 in 103074 reviews  |  regressing on 1000 features
+MSE: 1.05 		 r2: 0.08 		 time: 21.33 ... (0.78 + 20.55)
+
+Movie #15472, Ransom (1996)
+average rating: 3.73 in 67967 reviews  |  regressing on 1000 features
+MSE: 0.59 		 r2: 0.14 		 time: 21.31 ... (0.84 + 20.46)
+
+Movie #15473, Hot Shots! Part Deux (1993)
+average rating: 3.24 in 12185 reviews  |  regressing on 1000 features
+MSE: 0.59 		 r2: 0.46 		 time: 24.58 ... (0.81 + 23.77)
+
+Movie #15474, Rock Star (2001)
+average rating: 3.10 in 14529 reviews  |  regressing on 1000 features
+MSE: 0.89 		 r2: 0.15 		 time: 24.77 ... (0.83 + 23.95)
+
+Movie #15475, The Ox-Bow Incident (1943)
+average rating: 3.89 in 1806 reviews  |  regressing on 1000 features
+MSE: 0.54 		 r2: 0.27 		 time: 30.12 ... (0.85 + 29.27)
+
+Movie #15476, Secrets of War: Vietnam (1998)
+average rating: 2.91 in 162 reviews  |  regressing on 162 features
+MSE: 1.43 		 r2: 0.06 		 time: 4.01 ... (0.58 + 3.43)
+
+Movie #15477, Girlfight (2000)
+average rating: 3.41 in 5929 reviews  |  regressing on 1000 features
+MSE: 0.79 		 r2: 0.08 		 time: 26.35 ... (0.85 + 25.51)
+
+Movie #15478, Manchild: The Complete First Season (2002)
+average rating: 2.98 in 162 reviews  |  regressing on 162 features
+MSE: 1.70 		 r2: 0.18 		 time: 4.90 ... (0.59 + 4.31)
+
+Movie #15479, Hamara Dil Aapke Paas Hai (2000)
+average rating: 2.97 in 214 reviews  |  regressing on 214 features
+MSE: 0.91 		 r2: 0.03 		 time: 5.46 ... (0.60 + 4.86)
+
+Movie #15480, Farscape: The Peacekeeper Wars: Bonus Material (2004)
+average rating: 4.09 in 143 reviews  |  regressing on 143 features
+MSE: 0.71 		 r2: -0.02 		 time: 2.81 ... (0.54 + 2.27)
+
+Movie #15481, See Spot Run (2001)
+average rating: 3.13 in 6547 reviews  |  regressing on 1000 features
+MSE: 0.90 		 r2: 0.37 		 time: 24.29 ... (0.87 + 23.42)
+
+Movie #15482, Madea's Class Reunion (2003)
+average rating: 3.69 in 3726 reviews  |  regressing on 1000 features
+MSE: 1.30 		 r2: 0.40 		 time: 25.12 ... (0.86 + 24.27)
+
+Movie #15483, Texas Rangers (2001)
+average rating: 3.05 in 4429 reviews  |  regressing on 1000 features
+MSE: 0.80 		 r2: 0.19 		 time: 27.15 ... (0.85 + 26.30)
+
+Movie #15484, Love's Enduring Promise (2004)
+average rating: 3.62 in 2548 reviews  |  regressing on 1000 features
+MSE: 0.89 		 r2: 0.38 		 time: 26.79 ... (0.84 + 25.95)
+
+Movie #15485, The Pebble and the Penguin (1995)
+average rating: 3.40 in 795 reviews  |  regressing on 795 features
+MSE: 1.14 		 r2: 0.05 		 time: 23.83 ... (0.75 + 23.08)
+
+Movie #15486, Sesame Street: Elmo's World: Wild Wild West (2001)
+average rating: 3.57 in 963 reviews  |  regressing on 963 features
+MSE: 1.09 		 r2: 0.21 		 time: 13.46 ... (0.87 + 12.58)
+
+Movie #15487, Highway to Heaven: Season 2 (1985)
+average rating: 3.03 in 107 reviews  |  regressing on 107 features
+MSE: 1.85 		 r2: 0.02 		 time: 3.15 ... (0.51 + 2.64)
+
+Movie #15488, Vaudeville (1997)
+average rating: 3.35 in 201 reviews  |  regressing on 201 features
+MSE: 1.64 		 r2: -0.07 		 time: 5.10 ... (0.53 + 4.57)
+
+Movie #15489, Mother India (1957)
+average rating: 3.41 in 219 reviews  |  regressing on 219 features
+MSE: 1.00 		 r2: 0.31 		 time: 5.62 ... (0.57 + 5.05)
+
+Movie #15490, This Old Cub (2004)
+average rating: 3.71 in 129 reviews  |  regressing on 129 features
+MSE: 1.25 		 r2: 0.25 		 time: 3.36 ... (0.53 + 2.83)
+
+Movie #15491, Racing with the Moon (1984)
+average rating: 3.42 in 878 reviews  |  regressing on 878 features
+MSE: 0.72 		 r2: 0.11 		 time: 27.04 ... (0.78 + 26.26)
+
+Movie #15492, The Pilot's Wife (2002)
+average rating: 3.10 in 2385 reviews  |  regressing on 1000 features
+MSE: 0.69 		 r2: 0.17 		 time: 28.06 ... (0.82 + 27.23)
+
+Movie #15493, Sidewalks of New York (2000)
+average rating: 2.99 in 6126 reviews  |  regressing on 1000 features
+MSE: 0.92 		 r2: 0.02 		 time: 26.60 ... (0.86 + 25.73)
+
+Movie #15494, The Mouse on the Moon (1963)
+average rating: 2.97 in 156 reviews  |  regressing on 156 features
+MSE: 0.47 		 r2: 0.28 		 time: 4.63 ... (0.57 + 4.06)
+
+Movie #15495, The Fraternity (2002)
+average rating: 2.63 in 244 reviews  |  regressing on 244 features
+MSE: 1.03 		 r2: -0.27 		 time: 6.97 ... (0.61 + 6.37)
+
+Movie #15496, Easy Rider (1969)
+average rating: 3.65 in 27661 reviews  |  regressing on 1000 features
+MSE: 0.93 		 r2: 0.07 		 time: 25.08 ... (0.84 + 24.25)
+
+Movie #15497, Bride of the Wind (2001)
+average rating: 2.92 in 1759 reviews  |  regressing on 1000 features
+MSE: 0.98 	eparate Tables (1958)
+average rating: 3.55 in 954 reviews  |  regressing on 954 features
+MSE: 0.78 		 r2: 0.15 		 time: 28.24 ... (0.81 + 27.43)
+
+Movie #15805, Diamond Men (2001)
+average rating: 3.29 in 2443 reviews  |  regressing on 1000 features
+MSE: 0.78 		 r2: 0.24 		 time: 27.64 ... (0.84 + 26.80)
+
+Movie #15806, Young Doctors in Love (1982)
+average rating: 2.90 in 349 reviews  |  regressing on 349 features
+MSE: 1.01 		 r2: 0.09 		 time: 10.49 ... (0.68 + 9.81)
+
+Movie #15807, Arsenic and Old Lace (1944)
+average rating: 3.98 in 19143 reviews  |  regressing on 1000 features
+MSE: 0.82 		 r2: 0.03 		 time: 24.18 ... (0.79 + 23.39)
+
+Movie #15808, Citizen Ruth (1996)
+average rating: 3.38 in 4716 reviews  |  regressing on 1000 features
+MSE: 0.77 		 r2: 0.18 		 time: 28.95 ... (0.86 + 28.09)
+
+Movie #15809, Legendary Victor Borge (2004)
+average rating: 3.12 in 98 reviews  |  regressing on 98 features
+MSE: 1.02 		 r2: 0.10 		 time: 3.16 ... (0.55 + 2.61)
+
+Movie #15810, Godzilla vs. Mothra (1964)
+average rating: 3.22 in 916 reviews  |  regressing on 916 features
+MSE: 0.80 		 r2: 0.37 		 time: 29.02 ... (0.82 + 28.20)
+
+Movie #15811, True Love (1989)
+average rating: 2.73 in 237 reviews  |  regressing on 237 features
+MSE: 0.91 		 r2: 0.12 		 time: 7.07 ... (0.59 + 6.49)
+
+Movie #15812, Small Change (1976)
+average rating: 3.70 in 975 reviews  |  regressing on 975 features
+MSE: 1.03 		 r2: 0.08 		 time: 29.08 ... (0.84 + 28.24)
+
+Movie #15813, Forces of Nature (1999)
+average rating: 3.08 in 20972 reviews  |  regressing on 1000 features
+MSE: 0.88 		 r2: 0.20 		 time: 24.23 ... (0.77 + 23.46)
+
+Movie #15814, Suspicion (1941)
+average rating: 3.94 in 5232 reviews  |  regressing on 1000 features
+MSE: 0.76 		 r2: 0.13 		 time: 26.40 ... (0.83 + 25.57)
+
+Movie #15815, Changing Lanes (2002)
+average rating: 3.30 in 32508 reviews  |  regressing on 1000 features
+MSE: 0.76 		 r2: -0.01 		 time: 22.90 ... (0.85 + 22.05)
+
+Movie #15816, Ronin (1998)
+average rating: 3.57 in 21844 reviews  |  regressing on 1000 features
+MSE: 0.77 		 r2: 0.11 		 time: 24.28 ... (0.81 + 23.47)
+
+Movie #15817, The Corner (2000)
+average rating: 3.72 in 1498 reviews  |  regressing on 1000 features
+MSE: 1.29 		 r2: 0.23 		 time: 27.45 ... (0.83 + 26.61)
+
+Movie #15818, The Mask of Zorro (1998)
+average rating: 3.67 in 48940 reviews  |  regressing on 1000 features
+MSE: 0.66 		 r2: 0.19 		 time: 24.13 ... (0.85 + 23.28)
+
+Movie #15819, What's Happening!!: Season 3 (1978)
+average rating: 3.08 in 118 reviews  |  regressing on 118 features
+MSE: 1.50 		 r2: 0.15 		 time: 3.42 ... (0.51 + 2.91)
+
+Movie #15820, Love Don't Cost a Thing (2003)
+average rating: 3.20 in 9413 reviews  |  regressing on 1000 features
+MSE: 0.88 		 r2: 0.27 		 time: 25.17 ... (0.81 + 24.36)
+
+Movie #15821, Highlander: Counterfeit (1994)
+average rating: 3.97 in 1468 reviews  |  regressing on 1000 features
+MSE: 0.28 		 r2: 0.74 		 time: 30.61 ... (0.83 + 29.79)
+
+Movie #15822, Dragon Storm (2004)
+average rating: 2.51 in 297 reviews  |  regressing on 297 features
+MSE: 1.20 		 r2: 0.03 		 time: 8.47 ... (0.63 + 7.83)
+
+Movie #15823, Benny Goodman: Adventures in the Kingdom of Swing (2000)
+average rating: 3.36 in 127 reviews  |  regressing on 127 features
+MSE: 1.49 		 r2: 0.08 		 time: 3.63 ... (0.54 + 3.10)
+
+Movie #15824, The Decameron (1970)
+average rating: 3.11 in 626 reviews  |  regressing on 626 features
+MSE: 1.24 		 r2: 0.01 		 time: 16.90 ... (0.70 + 16.20)
+
+Movie #15825, Dreamscape: Special Edition (1984)
+average rating: 3.50 in 4147 reviews  |  regressing on 1000 features
+MSE: 0.68 		 r2: 0.20 		 time: 28.76 ... (0.86 + 27.90)
+
+Movie #15826, Twelfth Night (1996)
+average rating: 3.67 in 256 reviews  |  regressing on 256 features
+MSE: 0.71 		 r2: 0.18 		 time: 7.59 ... (0.66 + 6.94)
+
+Movie #15827, Only the Strong (1993)
+average rating: 3.59 in 1001 reviews  |  regressing on 1000 features
+MSE: 1.00 		 r2: 0.24 		 time: 28.19 ... (0.82 + 27.37)
+
+Movie #15828, Platinum Comedy Series: Adele Givens (2004)
+average rating: 3.09 in 203 reviews  |  regressing on 203 features
+MSE: 1.01 		 r2: 0.28 		 time: 5.45 ... (0.59 + 4.85)
+
+Movie #15829, Bubble Boy (2001)
+average rating: 3.06 in 9582 reviews  |  regressing on 1000 features
+MSE: 1.25 		 r2: 0.11 		 time: 25.51 ... (0.82 + 24.69)
+
+Movie #15830, The Gods Must Be Crazy 2 (1990)
+average rating: 3.56 in 3003 reviews  |  regressing on 1000 features
+MSE: 0.81 		 r2: 0.35 		 time: 27.65 ... (0.86 + 26.78)
+
+Movie #15831, The Other Side of Sunday (1996)
+average rating: 3.14 in 359 reviews  |  regressing on 359 features
+MSE: 1.00 		 r2: 0.08 		 time: 10.00 ... (0.65 + 9.35)
+
+Movie #15832, Steve-O Video Vol. 3: Out on Bail (2003)
+average rating: 3.29 in 522 reviews  |  regressing on 522 features
+MSE: 1.03 		 r2: 0.46 		 time: 14.97 ... (0.69 + 14.28)
+
+Movie #15833, Instinct to Kill (2001)
+average rating: 2.79 in 386 reviews  |  regressing on 386 features
+MSE: 1.04 		 r2: 0.03 		 time: 11.60 ... (0.73 + 10.87)
+
+Movie #15834, Paternal Instinct (2004)
+average rating: 3.03 in 116 reviews  |  regressing on 116 features
+MSE: 0.99 		 r2: 0.36 		 time: 2.71 ... (0.56 + 2.15)
+
+Movie #15835, Animusic: A Computer Animation Video Album (2004)
+average rating: 4.06 in 109 reviews  |  regressing on 109 features
+MSE: 1.05 		 r2: -0.15 		 time: 1.94 ... (0.50 + 1.43)
+
+Movie #15836, MASH: Season 8 (1979)
+average rating: 4.27 in 4248 reviews  |  regressing on 1000 features
+MSE: 0.74 		 r2: 0.41 		 time: 27.85 ... (0.78 + 27.07)
+
+Movie #15837, The Manson Family (2004)
+average rating: 2.41 in 390 reviews  |  regressing on 390 features
+MSE: 1.30 		 r2: 0.07 		 time: 10.91 ... (0.66 + 10.25)
+
+Movie #15838, Dr. Jekyll & Mr. Hyde (1999)
+average rating: 2.33 in 224 reviews  |  regressing on 224 features
+MSE: 1.45 		 r2: -0.01 		 time: 6.71 ... (0.59 + 6.11)
+
+Movie #15839, Slavery & the Making of America (2004)
+average rating: 3.65 in 176 reviews  |  regressing on 176 features
+MSE: 1.31 		 r2: 0.03 		 time: 4.54 ... (0.57 + 3.97)
+
+Movie #15840, The Princess Blade (2001)
+average rating: 3.03 in 1002 reviews  |  regressing on 1000 features
+MSE: 0.91 		 r2: 0.26 		 time: 30.16 ... (0.82 + 29.34)
+
+Movie #15841, Watership Down (1979)
+average rating: 3.59 in 3828 reviews  |  regressing on 1000 features
+MSE: 1.04 		 r2: 0.12 		 time: 25.52 ... (0.78 + 24.73)
+
+Movie #15842, I'm Losing You (1998)
+average rating: 2.57 in 97 reviews  |  regressing on 97 features
+MSE: 0.72 		 r2: 0.01 		 time: 2.73 ... (0.55 + 2.18)
+
+Movie #15843, Blue Crush (2002)
+average rating: 3.26 in 16438 reviews  |  regressing on 1000 features
+MSE: 0.77 		 r2: 0.13 		 time: 22.42 ... (0.83 + 21.59)
+
+Movie #15844, Remember the Titans (2000)
+average rating: 4.09 in 95095 reviews  |  regressing on 1000 features
+MSE: 0.82 		 r2: 0.18 		 time: 21.36 ... (0.83 + 20.53)
+
+Movie #15845, The Map of Sex and Love (2001)
+average rating: 2.14 in 154 reviews  |  regressing on 154 features
+MSE: 1.24 		 r2: -0.03 		 time: 4.42 ... (0.58 + 3.84)
+
+Movie #15846, A Raisin in the Sun (1961)
+average rating: 3.98 in 7628 reviews  |  regressing on 1000 features
+MSE: 0.61 		 r2: 0.17 		 time: 26.60 ... (0.77 + 25.83)
+
+Movie #15847, Hunter's Moon (1999)
+average rating: 2.74 in 117 reviews  |  regressing on 117 features
+MSE: 0.97 		 r2: -0.07 		 time: 3.52 ... (0.56 + 2.96)
+
+Movie #15848, NASCAR: The IMAX Experience (2004)
+average rating: 3.58 in 2557 reviews  |  regressing on 1000 features
+MSE: 0.85 		 r2: 0.09 		 time: 20.65 ... (0.83 + 19.83)
+
+Movie #15849, A Pyromaniac's Love Story (1995)
+average rating: 2.85 in 203 reviews  |  regressing on 203 features
+MSE: 0.87 		 r2: -0.08 		 time: 5.76 ... (0.57 + 5.19)
+
+Movie #15850, Leprechaun 3 (1995)
+average rating: 3.08 in 1104 reviews  |  regressing on 1000 features
+MSE: 0.65 		 r2: 0.61 		 time: 29.44 ... (0.86 + 28.57)
+
+Movie #15851, Word of Honor (2003)
+average rating: 3.24 in 448 reviews  |  regressing on 448 features
+MSE: 0.82 		 r2: 0.10 		 time: 12.87 ... (0.67 + 12.20)
+
+Movie #15852, Red Green: Stuffed and Mounted 6 (1991)
+average rating: 3.78 in 343 reviews  |  regressing on 343 features
+MSE: 0.63 		 r2: 0.47 		 time: 11.37 ... (0.70 + 10.67)
+
+Movie #15853, Resident Evil (2002)
+average rating: 3.45 in 36484 reviews  |  regressing on  (2000)
+average rating: 3.57 in 44178 reviews  |  regressing on 1000 features
+MSE: 0.94 		 r2: 0.18 		 time: 22.97 ... (0.83 + 22.14)
+
+Movie #14210, Grave of the Fireflies (1988)
+average rating: 3.98 in 7183 reviews  |  regressing on 1000 features
+MSE: 1.20 		 r2: 0.00 		 time: 25.77 ... (0.83 + 24.94)
+
+Movie #14211, Stranger than Paradise (1984)
+average rating: 3.55 in 4331 reviews  |  regressing on 1000 features
+MSE: 0.74 		 r2: 0.37 		 time: 24.82 ... (0.83 + 23.99)
+
+Movie #14212, Only You (1994)
+average rating: 3.51 in 8716 reviews  |  regressing on 1000 features
+MSE: 0.90 		 r2: 0.14 		 time: 23.16 ... (0.82 + 22.35)
+
+Movie #14213, God's Little Acre (1958)
+average rating: 2.76 in 109 reviews  |  regressing on 109 features
+MSE: 0.74 		 r2: 0.18 		 time: 3.20 ... (0.53 + 2.66)
+
+Movie #14214, Star Trek: Deep Space Nine: Season 6 (1997)
+average rating: 4.12 in 4560 reviews  |  regressing on 1000 features
+MSE: 0.49 		 r2: 0.62 		 time: 25.89 ... (0.86 + 25.03)
+
+Movie #14215, Sky Captain and the World of Tomorrow (2004)
+average rating: 2.86 in 70712 reviews  |  regressing on 1000 features
+MSE: 0.92 		 r2: 0.07 		 time: 21.39 ... (0.79 + 20.59)
+
+Movie #14216, Children of Heaven (1999)
+average rating: 3.96 in 8136 reviews  |  regressing on 1000 features
+MSE: 0.87 		 r2: 0.07 		 time: 4.17 ... (0.79 + 3.38)
+
+Movie #14217, 200 American (2003)
+average rating: 2.89 in 1655 reviews  |  regressing on 1000 features
+MSE: 0.94 		 r2: 0.32 		 time: 24.57 ... (0.76 + 23.81)
+
+Movie #14218, Misery (1990)
+average rating: 3.87 in 46239 reviews  |  regressing on 1000 features
+MSE: 0.60 		 r2: 0.10 		 time: 22.71 ... (0.76 + 21.95)
+
+Movie #14219, The King of Comedy (1983)
+average rating: 3.58 in 6461 reviews  |  regressing on 1000 features
+MSE: 0.81 		 r2: 0.32 		 time: 24.91 ... (0.84 + 24.07)
+
+Movie #14220, Dead Ringer (1964)
+average rating: 3.74 in 680 reviews  |  regressing on 680 features
+MSE: 0.75 		 r2: 0.15 		 time: 20.77 ... (0.74 + 20.03)
+
+Movie #14221, Caught Up (1998)
+average rating: 3.10 in 317 reviews  |  regressing on 317 features
+MSE: 0.95 		 r2: 0.18 		 time: 9.12 ... (0.62 + 8.50)
+
+Movie #14222, Madonna: The Video Collection 1993-1999 (1999)
+average rating: 3.17 in 1807 reviews  |  regressing on 1000 features
+MSE: 1.06 		 r2: 0.51 		 time: 26.79 ... (0.77 + 26.02)
+
+Movie #14223, Extremely Dangerous (1999)
+average rating: 2.78 in 373 reviews  |  regressing on 373 features
+MSE: 0.87 		 r2: 0.07 		 time: 10.07 ... (0.59 + 9.47)
+
+Movie #14224, A Century of Science Fiction (1996)
+average rating: 2.42 in 254 reviews  |  regressing on 254 features
+MSE: 1.20 		 r2: 0.25 		 time: 7.51 ... (0.60 + 6.91)
+
+Movie #14225, Three's Company: Season 3 (1978)
+average rating: 3.81 in 1330 reviews  |  regressing on 1000 features
+MSE: 0.44 		 r2: 0.66 		 time: 30.88 ... (0.84 + 30.04)
+
+Movie #14226, The Crew (2000)
+average rating: 2.91 in 2776 reviews  |  regressing on 1000 features
+MSE: 0.77 		 r2: 0.19 		 time: 27.70 ... (0.81 + 26.89)
+
+Movie #14227, Spacehunter (1983)
+average rating: 2.76 in 728 reviews  |  regressing on 728 features
+MSE: 0.93 		 r2: 0.09 		 time: 23.01 ... (0.74 + 22.27)
+
+Movie #14228, Jay Jay the Jet Plane: Liking Yourself Inside and Out (2002)
+average rating: 2.94 in 124 reviews  |  regressing on 124 features
+MSE: 0.86 		 r2: 0.40 		 time: 3.36 ... (0.55 + 2.81)
+
+Movie #14229, Klute (1971)
+average rating: 3.51 in 6645 reviews  |  regressing on 1000 features
+MSE: 0.74 		 r2: 0.18 		 time: 27.33 ... (0.89 + 26.44)
+
+Movie #14230, D.C. Cab (1983)
+average rating: 3.19 in 630 reviews  |  regressing on 630 features
+MSE: 0.77 		 r2: 0.15 		 time: 18.75 ... (0.73 + 18.03)
+
+Movie #14231, Dreadnaught (1981)
+average rating: 2.95 in 184 reviews  |  regressing on 184 features
+MSE: 1.38 		 r2: 0.11 		 time: 5.10 ... (0.57 + 4.53)
+
+Movie #14232, Act of War (1998)
+average rating: 2.52 in 82 reviews  |  regressing on 82 features
+MSE: 1.17 		 r2: -0.24 		 time: 2.63 ... (0.53 + 2.09)
+
+Movie #14233, Dirty Pretty Things (2002)
+average rating: 3.52 in 31671 reviews  |  regressing on 1000 features
+MSE: 1.01 		 r2: 0.02 		 time: 7.48 ... (0.76 + 6.71)
+
+Movie #14234, The Rocky Horror Picture Show: Bonus Material (1975)
+average rating: 3.28 in 559 reviews  |  regressing on 559 features
+MSE: 0.90 		 r2: 0.40 		 time: 15.47 ... (0.67 + 14.80)
+
+Movie #14235, I Love Lucy: Season 1 (1951)
+average rating: 3.75 in 3753 reviews  |  regressing on 1000 features
+MSE: 1.15 		 r2: 0.32 		 time: 22.35 ... (0.79 + 21.56)
+
+Movie #14236, The Persuaders!: Set 1 (1971)
+average rating: 2.98 in 131 reviews  |  regressing on 131 features
+MSE: 1.62 		 r2: 0.01 		 time: 3.30 ... (0.56 + 2.74)
+
+Movie #14237, The Turandot Project (2001)
+average rating: 3.18 in 434 reviews  |  regressing on 434 features
+MSE: 1.02 		 r2: -0.03 		 time: 12.13 ... (0.64 + 11.49)
+
+Movie #14238, The Work and the Glory (2004)
+average rating: 3.57 in 892 reviews  |  regressing on 892 features
+MSE: 1.35 		 r2: 0.27 		 time: 12.54 ... (0.87 + 11.67)
+
+Movie #14239, Last of the Summer Wine (1973)
+average rating: 3.13 in 309 reviews  |  regressing on 309 features
+MSE: 1.29 		 r2: 0.23 		 time: 7.43 ... (0.57 + 6.86)
+
+Movie #14240, Lord of the Rings: The Return of the King (2003)
+average rating: 4.55 in 134284 reviews  |  regressing on 1000 features
+MSE: 0.50 		 r2: 0.42 		 time: 7.98 ... (0.78 + 7.20)
+
+Movie #14241, Ghosts of Mississippi (1996)
+average rating: 3.85 in 13641 reviews  |  regressing on 1000 features
+MSE: 0.61 		 r2: 0.25 		 time: 24.94 ... (0.85 + 24.08)
+
+Movie #14242, Alfie (1966)
+average rating: 3.27 in 3923 reviews  |  regressing on 1000 features
+MSE: 0.84 		 r2: 0.17 		 time: 27.19 ... (0.82 + 26.37)
+
+Movie #14243, Court TV: The Best of Forensic Files (2004)
+average rating: 3.47 in 261 reviews  |  regressing on 261 features
+MSE: 1.28 		 r2: 0.22 		 time: 7.37 ... (0.61 + 6.76)
+
+Movie #14244, Doctor Who: Doctor Who and the Daleks (1966)
+average rating: 3.23 in 282 reviews  |  regressing on 282 features
+MSE: 1.20 		 r2: 0.23 		 time: 8.16 ... (0.61 + 7.55)
+
+Movie #14245, Tina Turner: Live in Amsterdam (1996)
+average rating: 3.16 in 846 reviews  |  regressing on 846 features
+MSE: 1.46 		 r2: 0.26 		 time: 24.53 ... (0.73 + 23.80)
+
+Movie #14246, A Scene at the Sea (1992)
+average rating: 2.94 in 191 reviews  |  regressing on 191 features
+MSE: 1.15 		 r2: 0.04 		 time: 5.42 ... (0.58 + 4.84)
+
+Movie #14247, Trancers (1985)
+average rating: 3.08 in 773 reviews  |  regressing on 773 features
+MSE: 1.16 		 r2: 0.06 		 time: 24.45 ... (0.77 + 23.67)
+
+Movie #14248, D2: The Mighty Ducks (1994)
+average rating: 3.65 in 6316 reviews  |  regressing on 1000 features
+MSE: 0.50 		 r2: 0.44 		 time: 29.19 ... (0.84 + 28.35)
+
+Movie #14249, 10 (2002)
+average rating: 3.70 in 1276 reviews  |  regressing on 1000 features
+MSE: 0.81 		 r2: 0.32 		 time: 27.98 ... (0.83 + 27.15)
+
+Movie #14250, Jacob's Ladder (1990)
+average rating: 3.57 in 20329 reviews  |  regressing on 1000 features
+MSE: 0.85 		 r2: 0.17 		 time: 24.48 ... (0.82 + 23.65)
+
+Movie #14251, Bloody Pit of Horror (1965)
+average rating: 2.29 in 108 reviews  |  regressing on 108 features
+MSE: 1.26 		 r2: 0.36 		 time: 2.99 ... (0.51 + 2.49)
+
+Movie #14252, The Corrs: Live in London (2001)
+average rating: 3.60 in 248 reviews  |  regressing on 248 features
+MSE: 1.51 		 r2: -0.04 		 time: 6.55 ... (0.55 + 6.00)
+
+Movie #14253, Lolita (1997)
+average rating: 3.30 in 7174 reviews  |  regressing on 1000 features
+MSE: 1.06 		 r2: 0.06 		 time: 28.69 ... (0.77 + 27.92)
+
+Movie #14254, A Bridge Too Far (1977)
+average rating: 3.79 in 10029 reviews  |  regressing on 1000 features
+MSE: 0.69 		 r2: 0.13 		 time: 26.09 ... (0.94 + 25.15)
+
+Movie #14255, Yeh Dillagi (1994)
+average rating: 2.92 in 185 reviews  |  regressing on 185 features
+MSE: 0.95 		 r2: 0.27 		 time: 4.57 ... (0.54 + 4.02)
+
+Movie #14256, The Dogs Of War (1981)
+average rating: 3.20 in 1416 reviews  |  regressing on 1000 features
+MSE: 0.83 		 r2: 0.17 		 time: 29.91 ... (0.84 + 29.07)
+
+Movie #14257, The Life of Jesus (1997)
+average rating: 2.80 in 92 reviews  |  regressing on 92 features
+MSE: 1.97 		 r2: -0.08 		 time: 2.36 ... (0.54 + 1.82)
+
+Movie #14258, Peeping Tom (1960)
+average rating: 3.35 in 2121 reviews  |  regressin0.07 		 time: 4.03 ... (0.57 + 3.46)
+
+Movie #15674, Arlington Road (1999)
+average rating: 3.50 in 21537 reviews  |  regressing on 1000 features
+MSE: 0.90 		 r2: 0.10 		 time: 24.06 ... (0.84 + 23.22)
+
+Movie #15675, Anne Frank Remembered (1995)
+average rating: 3.91 in 754 reviews  |  regressing on 754 features
+MSE: 0.98 		 r2: -0.10 		 time: 22.73 ... (0.77 + 21.96)
+
+Movie #15676, Sherlock Holmes: Terror by Night (1946)
+average rating: 3.81 in 600 reviews  |  regressing on 600 features
+MSE: 0.52 		 r2: 0.44 		 time: 18.20 ... (0.66 + 17.54)
+
+Movie #15677, Pecker (1998)
+average rating: 3.38 in 10389 reviews  |  regressing on 1000 features
+MSE: 0.94 		 r2: 0.14 		 time: 24.23 ... (0.78 + 23.45)
+
+Movie #15678, Backtrack (1990)
+average rating: 2.77 in 323 reviews  |  regressing on 323 features
+MSE: 0.81 		 r2: -0.03 		 time: 9.63 ... (0.62 + 9.00)
+
+Movie #15679, Clerks: Bonus Material (1994)
+average rating: 4.15 in 217 reviews  |  regressing on 217 features
+MSE: 0.86 		 r2: -0.03 		 time: 4.86 ... (0.58 + 4.28)
+
+Movie #15680, Sagwa: Feline Friends and Family (2001)
+average rating: 2.96 in 95 reviews  |  regressing on 95 features
+MSE: 1.39 		 r2: 0.12 		 time: 2.50 ... (0.55 + 1.95)
+
+Movie #15681, Butch Camp (1997)
+average rating: 2.47 in 439 reviews  |  regressing on 439 features
+MSE: 1.49 		 r2: 0.06 		 time: 12.46 ... (0.65 + 11.81)
+
+Movie #15682, Puff the Magic Dragon / Gulliver's Travels (2003)
+average rating: 3.61 in 59 reviews  |  regressing on 59 features
+MSE: 1.83 		 r2: -0.20 		 time: 1.72 ... (0.51 + 1.21)
+
+Movie #15683, American Dreams: Season 1 (2002)
+average rating: 3.80 in 950 reviews  |  regressing on 950 features
+MSE: 1.46 		 r2: 0.17 		 time: 28.23 ... (0.81 + 27.42)
+
+Movie #15684, Jeff Foxworthy's Comedy Classics (2000)
+average rating: 3.59 in 593 reviews  |  regressing on 593 features
+MSE: 0.92 		 r2: 0.36 		 time: 18.13 ... (0.73 + 17.40)
+
+Movie #15685, Bye Bye Love (1995)
+average rating: 3.46 in 1334 reviews  |  regressing on 1000 features
+MSE: 0.62 		 r2: 0.27 		 time: 29.93 ... (0.84 + 29.08)
+
+Movie #15686, The Heartbreak Kid (1972)
+average rating: 3.07 in 922 reviews  |  regressing on 922 features
+MSE: 0.82 		 r2: 0.21 		 time: 28.26 ... (0.84 + 27.42)
+
+Movie #15687, Vampiyaz (2004)
+average rating: 1.50 in 383 reviews  |  regressing on 383 features
+MSE: 1.08 		 r2: -0.05 		 time: 11.91 ... (0.61 + 11.30)
+
+Movie #15688, The Cheerleaders Collection: Revenge of the Cheerleaders (1976)
+average rating: 2.19 in 212 reviews  |  regressing on 212 features
+MSE: 1.04 		 r2: 0.15 		 time: 5.67 ... (0.57 + 5.10)
+
+Movie #15689, The Best of Friends: Vol. 1 (1994)
+average rating: 4.01 in 24118 reviews  |  regressing on 1000 features
+MSE: 0.82 		 r2: 0.55 		 time: 6.81 ... (0.76 + 6.05)
+
+Movie #15690, The Pallisers (1974)
+average rating: 3.62 in 538 reviews  |  regressing on 538 features
+MSE: 1.45 		 r2: 0.17 		 time: 14.79 ... (0.68 + 14.12)
+
+Movie #15691, Elmo's Magic Cookbook (2001)
+average rating: 3.36 in 256 reviews  |  regressing on 256 features
+MSE: 1.27 		 r2: 0.33 		 time: 7.05 ... (0.69 + 6.37)
+
+Movie #15692, Gilligan's Island: Season 3 (1966)
+average rating: 3.80 in 394 reviews  |  regressing on 394 features
+MSE: 0.78 		 r2: 0.46 		 time: 12.17 ... (0.65 + 11.53)
+
+Movie #15693, In the Line of Duty 3 (1988)
+average rating: 2.84 in 77 reviews  |  regressing on 77 features
+MSE: 0.98 		 r2: 0.28 		 time: 2.66 ... (0.58 + 2.08)
+
+Movie #15694, Steely Dan: Two Against Nature (2000)
+average rating: 3.58 in 657 reviews  |  regressing on 657 features
+MSE: 1.36 		 r2: 0.19 		 time: 19.67 ... (0.76 + 18.91)
+
+Movie #15695, Shamus (1973)
+average rating: 2.56 in 88 reviews  |  regressing on 88 features
+MSE: 0.59 		 r2: 0.42 		 time: 2.95 ... (0.51 + 2.43)
+
+Movie #15696, Demetrius and the Gladiators (1954)
+average rating: 3.24 in 647 reviews  |  regressing on 647 features
+MSE: 0.97 		 r2: 0.19 		 time: 20.08 ... (0.73 + 19.35)
+
+Movie #15697, Future War (1997)
+average rating: 1.74 in 119 reviews  |  regressing on 119 features
+MSE: 1.36 		 r2: -0.13 		 time: 2.86 ... (0.56 + 2.30)
+
+Movie #15698, Fair Game (1995)
+average rating: 2.29 in 2180 reviews  |  regressing on 1000 features
+MSE: 0.65 		 r2: 0.46 		 time: 29.38 ... (0.82 + 28.56)
+
+Movie #15699, Star Trek: Voyager: Season 2 (1995)
+average rating: 3.98 in 5213 reviews  |  regressing on 1000 features
+MSE: 0.54 		 r2: 0.63 		 time: 25.37 ... (0.86 + 24.52)
+
+Movie #15700, The Land Before Time (1988)
+average rating: 3.79 in 14888 reviews  |  regressing on 1000 features
+MSE: 0.73 		 r2: 0.20 		 time: 22.41 ... (0.78 + 21.63)
+
+Movie #15701, Dark Shadows: Vol. 2 (1967)
+average rating: 3.67 in 588 reviews  |  regressing on 588 features
+MSE: 0.79 		 r2: 0.44 		 time: 18.23 ... (0.70 + 17.53)
+
+Movie #15702, Close Encounters of the Third Kind (1977)
+average rating: 3.90 in 51915 reviews  |  regressing on 1000 features
+MSE: 0.86 		 r2: 0.07 		 time: 24.01 ... (0.83 + 23.17)
+
+Movie #15703, Buffalo Girls (1995)
+average rating: 3.04 in 448 reviews  |  regressing on 448 features
+MSE: 0.96 		 r2: 0.02 		 time: 13.18 ... (0.71 + 12.48)
+
+Movie #15704, Janice Beard: 45 WPM (2003)
+average rating: 2.84 in 209 reviews  |  regressing on 209 features
+MSE: 0.80 		 r2: -0.11 		 time: 5.57 ... (0.58 + 4.99)
+
+Movie #15705, Persuasion (1971)
+average rating: 3.16 in 179 reviews  |  regressing on 179 features
+MSE: 1.16 		 r2: -0.08 		 time: 4.69 ... (0.56 + 4.13)
+
+Movie #15706, Going Overboard (1989)
+average rating: 1.84 in 737 reviews  |  regressing on 737 features
+MSE: 1.02 		 r2: -0.02 		 time: 21.95 ... (0.76 + 21.18)
+
+Movie #15707, The Debut (2000)
+average rating: 3.13 in 1216 reviews  |  regressing on 1000 features
+MSE: 0.72 		 r2: 0.21 		 time: 27.09 ... (0.83 + 26.26)
+
+Movie #15708, Garfield: Travel Adventures (2005)
+average rating: 3.76 in 325 reviews  |  regressing on 325 features
+MSE: 0.80 		 r2: 0.50 		 time: 9.21 ... (0.61 + 8.60)
+
+Movie #15709, National Geographic: The Search for Kennedy's PT 109 (2002)
+average rating: 2.95 in 136 reviews  |  regressing on 136 features
+MSE: 0.87 		 r2: 0.36 		 time: 3.53 ... (0.56 + 2.97)
+
+Movie #15710, Lassie (1994)
+average rating: 3.53 in 1583 reviews  |  regressing on 1000 features
+MSE: 0.81 		 r2: 0.36 		 time: 30.13 ... (0.83 + 29.30)
+
+Movie #15711, Failan (2001)
+average rating: 3.23 in 400 reviews  |  regressing on 400 features
+MSE: 1.18 		 r2: 0.15 		 time: 10.74 ... (0.68 + 10.06)
+
+Movie #15712, Cradle 2 the Grave (2003)
+average rating: 3.23 in 24389 reviews  |  regressing on 1000 features
+MSE: 0.93 		 r2: 0.19 		 time: 22.34 ... (0.78 + 21.56)
+
+Movie #15713, Monsieur Beaucaire / Where There's Life: Double Feature (1946)
+average rating: 3.17 in 156 reviews  |  regressing on 156 features
+MSE: 1.20 		 r2: 0.21 		 time: 4.31 ... (0.57 + 3.74)
+
+Movie #15714, Wild Zero (1999)
+average rating: 3.64 in 308 reviews  |  regressing on 308 features
+MSE: 1.69 		 r2: -0.01 		 time: 8.55 ... (0.61 + 7.94)
+
+Movie #15715, Real Women Have Curves (2002)
+average rating: 3.52 in 35873 reviews  |  regressing on 1000 features
+MSE: 0.78 		 r2: 0.08 		 time: 22.13 ... (0.83 + 21.30)
+
+Movie #15716, Three's Company: Season 2 (1977)
+average rating: 3.75 in 1724 reviews  |  regressing on 1000 features
+MSE: 0.53 		 r2: 0.60 		 time: 28.45 ... (0.85 + 27.60)
+
+Movie #15717, Elizabeth R (1971)
+average rating: 3.88 in 1712 reviews  |  regressing on 1000 features
+MSE: 0.92 		 r2: 0.24 		 time: 27.02 ... (0.80 + 26.22)
+
+Movie #15718, Desperate Living (1977)
+average rating: 3.23 in 1585 reviews  |  regressing on 1000 features
+MSE: 1.13 		 r2: 0.43 		 time: 25.74 ... (0.80 + 24.93)
+
+Movie #15719, The Rocking Horse Winner (1950)
+average rating: 3.04 in 236 reviews  |  regressing on 236 features
+MSE: 0.74 		 r2: 0.24 		 time: 6.92 ... (0.63 + 6.29)
+
+Movie #15720, Barbie of Swan Lake (2003)
+average rating: 3.59 in 2330 reviews  |  regressing on 1000 features
+MSE: 0.97 		 r2: 0.31 		 time: 25.53 ... (0.83 + 24.70)
+
+Movie #15721, Krav Maga: Basic Combatives (2004)
+average rating: 2.95 in 118 reviews  |  regressing on 118 features
+MSE: 1.25 		 r2: -0.19 		 time: 2.92 ... (0.56 + 2.35)
+
+Movie #15722, Claudine (1974)
+average rating: 3.72 in 904 reviews  |  regressing on 904 features
+MSE: 1.06 		 r2: 0.34 		 t Jazz Casual: Basie (1960)
+average rating: 3.54 in 263 reviews  |  regressing on 263 features
+MSE: 0.93 		 r2: 0.28 		 time: 7.23 ... (0.58 + 6.65)
+
+Movie #14613, Valentin (2003)
+average rating: 3.81 in 2110 reviews  |  regressing on 1000 features
+MSE: 0.90 		 r2: 0.17 		 time: 24.30 ... (0.76 + 23.54)
+
+Movie #14614, Gate Keepers 21 (2003)
+average rating: 3.66 in 336 reviews  |  regressing on 336 features
+MSE: 1.04 		 r2: 0.28 		 time: 9.31 ... (0.64 + 8.67)
+
+Movie #14615, Abraham and Mary Lincoln: A House Divided: American Experience (2001)
+average rating: 3.78 in 153 reviews  |  regressing on 153 features
+MSE: 0.67 		 r2: 0.29 		 time: 3.79 ... (0.55 + 3.23)
+
+Movie #14616, White Lightning (1973)
+average rating: 3.03 in 769 reviews  |  regressing on 769 features
+MSE: 0.78 		 r2: 0.32 		 time: 23.49 ... (0.77 + 22.73)
+
+Movie #14617, The Three Stooges Cartoons (1965)
+average rating: 2.98 in 95 reviews  |  regressing on 95 features
+MSE: 1.11 		 r2: 0.30 		 time: 3.29 ... (0.54 + 2.75)
+
+Movie #14618, The Truman Show (1998)
+average rating: 3.52 in 44434 reviews  |  regressing on 1000 features
+MSE: 0.71 		 r2: 0.06 		 time: 23.87 ... (0.89 + 22.98)
+
+Movie #14619, Rodgers & Hammerstein: The Sound of Movies (1996)
+average rating: 4.02 in 588 reviews  |  regressing on 588 features
+MSE: 0.82 		 r2: 0.28 		 time: 17.53 ... (0.68 + 16.85)
+
+Movie #14620, Flight of the Innocent (1993)
+average rating: 3.07 in 119 reviews  |  regressing on 119 features
+MSE: 1.04 		 r2: 0.22 		 time: 3.53 ... (0.55 + 2.98)
+
+Movie #14621, Shrek (Full-screen) (2001)
+average rating: 4.34 in 128493 reviews  |  regressing on 1000 features
+MSE: 0.74 		 r2: 0.03 		 time: 20.45 ... (0.82 + 19.63)
+
+Movie #14622, The Gambler V: Playing for Keeps (1994)
+average rating: 3.11 in 187 reviews  |  regressing on 187 features
+MSE: 0.70 		 r2: 0.31 		 time: 5.72 ... (0.57 + 5.15)
+
+Movie #14623, Godzilla vs. Hedorah (1971)
+average rating: 3.50 in 327 reviews  |  regressing on 327 features
+MSE: 1.03 		 r2: 0.34 		 time: 9.78 ... (0.63 + 9.15)
+
+Movie #14624, Body Heat (1981)
+average rating: 3.65 in 15381 reviews  |  regressing on 1000 features
+MSE: 0.82 		 r2: 0.10 		 time: 25.16 ... (0.86 + 24.30)
+
+Movie #14625, Good Charlotte: Video Collection (2003)
+average rating: 3.32 in 114 reviews  |  regressing on 114 features
+MSE: 2.12 		 r2: 0.20 		 time: 2.74 ... (0.55 + 2.19)
+
+Movie #14626, Vampires: Out for Blood (2004)
+average rating: 2.41 in 247 reviews  |  regressing on 247 features
+MSE: 1.06 		 r2: -0.02 		 time: 7.10 ... (0.60 + 6.50)
+
+Movie #14627, Fractured Flickers (1963)
+average rating: 2.56 in 100 reviews  |  regressing on 100 features
+MSE: 1.08 		 r2: -0.04 		 time: 2.67 ... (0.54 + 2.13)
+
+Movie #14628, Cannonball (1976)
+average rating: 2.99 in 349 reviews  |  regressing on 349 features
+MSE: 0.77 		 r2: 0.17 		 time: 10.62 ... (0.62 + 9.99)
+
+Movie #14629, The Sugarland Express (1974)
+average rating: 3.12 in 852 reviews  |  regressing on 852 features
+MSE: 0.70 		 r2: 0.03 		 time: 25.97 ... (0.78 + 25.19)
+
+Movie #14630, Yes: 35th Anniversary Concert: Songs from Tsongas (2004)
+average rating: 3.68 in 81 reviews  |  regressing on 81 features
+MSE: 0.66 		 r2: 0.38 		 time: 2.38 ... (0.50 + 1.88)
+
+Movie #14631, Scooby-Doo and the Cyber Chase (2001)
+average rating: 3.79 in 2494 reviews  |  regressing on 1000 features
+MSE: 0.68 		 r2: 0.43 		 time: 24.57 ... (0.78 + 23.79)
+
+Movie #14632, Roy Orbison: Black & White Night (1987)
+average rating: 3.82 in 1036 reviews  |  regressing on 1000 features
+MSE: 0.86 		 r2: 0.33 		 time: 30.16 ... (0.83 + 29.32)
+
+Movie #14633, The Last Days of Frank & Jesse James (1986)
+average rating: 2.94 in 170 reviews  |  regressing on 170 features
+MSE: 0.95 		 r2: 0.13 		 time: 4.64 ... (0.53 + 4.10)
+
+Movie #14634, The Wood (1999)
+average rating: 3.53 in 7195 reviews  |  regressing on 1000 features
+MSE: 0.76 		 r2: 0.35 		 time: 23.51 ... (0.78 + 22.72)
+
+Movie #14635, In the Footsteps of Alexander the Great (1998)
+average rating: 3.52 in 311 reviews  |  regressing on 311 features
+MSE: 1.27 		 r2: 0.02 		 time: 7.78 ... (0.59 + 7.19)
+
+Movie #14636, Sherlock Holmes: In Pursuit to Algiers (1945)
+average rating: 3.77 in 500 reviews  |  regressing on 500 features
+MSE: 0.48 		 r2: 0.49 		 time: 14.45 ... (0.66 + 13.79)
+
+Movie #14637, Jesus of Montreal (1989)
+average rating: 3.46 in 596 reviews  |  regressing on 596 features
+MSE: 1.04 		 r2: 0.04 		 time: 17.36 ... (0.71 + 16.65)
+
+Movie #14638, The Shawshank Redemption: Special Edition: Bonus Material (1994)
+average rating: 4.28 in 258 reviews  |  regressing on 258 features
+MSE: 0.98 		 r2: 0.03 		 time: 5.67 ... (0.60 + 5.07)
+
+Movie #14639, Passion of Mind (2000)
+average rating: 2.83 in 1255 reviews  |  regressing on 1000 features
+MSE: 0.94 		 r2: 0.29 		 time: 28.34 ... (0.85 + 27.49)
+
+Movie #14640, Rugrats: Mysteries (2002)
+average rating: 3.48 in 783 reviews  |  regressing on 783 features
+MSE: 1.03 		 r2: 0.31 		 time: 23.10 ... (0.77 + 22.34)
+
+Movie #14641, NFL Films: Ice Bowl / Green Bay Packers History (2003)
+average rating: 3.53 in 130 reviews  |  regressing on 130 features
+MSE: 1.70 		 r2: 0.27 		 time: 3.36 ... (0.56 + 2.80)
+
+Movie #14642, High Noon (1952)
+average rating: 3.91 in 21376 reviews  |  regressing on 1000 features
+MSE: 0.86 		 r2: 0.12 		 time: 25.11 ... (0.81 + 24.31)
+
+Movie #14643, 3: The Dale Earnhardt Story (2004)
+average rating: 3.60 in 2048 reviews  |  regressing on 1000 features
+MSE: 1.11 		 r2: 0.25 		 time: 17.98 ... (0.76 + 17.22)
+
+Movie #14644, The Stepford Wives (2004)
+average rating: 2.80 in 105045 reviews  |  regressing on 1000 features
+MSE: 1.02 		 r2: 0.03 		 time: 20.54 ... (0.84 + 19.71)
+
+Movie #14645, Behind the Lines (1997)
+average rating: 3.30 in 261 reviews  |  regressing on 261 features
+MSE: 0.80 		 r2: 0.34 		 time: 7.75 ... (0.59 + 7.16)
+
+Movie #14646, Pet Sematary (1989)
+average rating: 3.33 in 25265 reviews  |  regressing on 1000 features
+MSE: 0.70 		 r2: 0.22 		 time: 25.22 ... (0.82 + 24.40)
+
+Movie #14647, The Quickie (2001)
+average rating: 2.46 in 144 reviews  |  regressing on 144 features
+MSE: 0.89 		 r2: -0.02 		 time: 3.61 ... (0.53 + 3.07)
+
+Movie #14648, Finding Nemo (Full-screen) (2003)
+average rating: 4.34 in 10342 reviews  |  regressing on 1000 features
+MSE: 0.68 		 r2: -0.06 		 time: 22.44 ... (0.82 + 21.62)
+
+Movie #14649, Nazi Medicine / The Cross and the Star: Double Feature (1997)
+average rating: 3.02 in 150 reviews  |  regressing on 150 features
+MSE: 0.74 		 r2: 0.17 		 time: 3.50 ... (0.56 + 2.94)
+
+Movie #14650, Dr. Bell and Mr. Doyle: The Dark Beginnings of Sherlock Holmes (2000)
+average rating: 3.62 in 669 reviews  |  regressing on 669 features
+MSE: 0.95 		 r2: 0.13 		 time: 19.52 ... (0.72 + 18.79)
+
+Movie #14651, Himalaya (1999)
+average rating: 3.79 in 3068 reviews  |  regressing on 1000 features
+MSE: 0.91 		 r2: 0.14 		 time: 25.47 ... (0.83 + 24.64)
+
+Movie #14652, Desperately Seeking Susan (1985)
+average rating: 3.06 in 7776 reviews  |  regressing on 1000 features
+MSE: 0.91 		 r2: 0.21 		 time: 26.92 ... (0.81 + 26.11)
+
+Movie #14653, Made in America (1993)
+average rating: 2.86 in 6070 reviews  |  regressing on 1000 features
+MSE: 0.75 		 r2: 0.37 		 time: 26.85 ... (0.83 + 26.02)
+
+Movie #14654, Bugsy (1991)
+average rating: 3.18 in 7011 reviews  |  regressing on 1000 features
+MSE: 0.60 		 r2: 0.11 		 time: 27.26 ... (0.80 + 26.46)
+
+Movie #14655, The Billion Dollar Hobo (1978)
+average rating: 2.91 in 98 reviews  |  regressing on 98 features
+MSE: 1.02 		 r2: 0.10 		 time: 2.89 ... (0.51 + 2.38)
+
+Movie #14656, Poirot: Lord Edgware Dies (2000)
+average rating: 4.07 in 1585 reviews  |  regressing on 1000 features
+MSE: 0.57 		 r2: 0.30 		 time: 28.01 ... (0.83 + 27.18)
+
+Movie #14657, Tetsuo: The Iron Man (1992)
+average rating: 3.20 in 274 reviews  |  regressing on 274 features
+MSE: 1.48 		 r2: 0.18 		 time: 7.47 ... (0.61 + 6.86)
+
+Movie #14658, Wrestlemania Anthology: Vol. 4 (2000)
+average rating: 4.16 in 277 reviews  |  regressing on 277 features
+MSE: 0.74 		 r2: 0.29 		 time: 7.15 ... (0.60 + 6.55)
+
+Movie #14659, Pokemon: Destiny Deoxys (2005)
+average rating: 3.69 in 1198 reviews  |  regressing on 1000 features
+MSE: 1.09 		 r2: 0.35 		 time: 26.99 ... (0.89 + 26 + 2.97)
+
+Movie #15142, Times Square (1980)
+average rating: 3.04 in 115 reviews  |  regressing on 115 features
+MSE: 1.31 		 r2: -0.05 		 time: 3.16 ... (0.56 + 2.60)
+
+Movie #15143, MacGyver: Season 2 (1986)
+average rating: 3.99 in 1356 reviews  |  regressing on 1000 features
+MSE: 0.53 		 r2: 0.50 		 time: 31.73 ... (0.84 + 30.89)
+
+Movie #15144, Alabama: For the Record: 41 Number One Hits (1998)
+average rating: 3.36 in 234 reviews  |  regressing on 234 features
+MSE: 1.29 		 r2: 0.13 		 time: 6.30 ... (0.61 + 5.69)
+
+Movie #15145, With God on Our Side: George W. Bush and the Rise of the Religious Right in America (2004)
+average rating: 3.09 in 194 reviews  |  regressing on 194 features
+MSE: 1.42 		 r2: -0.20 		 time: 5.77 ... (0.59 + 5.17)
+
+Movie #15146, Beach Party / Bikini Beach (1963)
+average rating: 2.80 in 529 reviews  |  regressing on 529 features
+MSE: 0.95 		 r2: 0.27 		 time: 16.41 ... (0.73 + 15.68)
+
+Movie #15147, Fellini's Roma (1972)
+average rating: 3.43 in 1006 reviews  |  regressing on 1000 features
+MSE: 0.71 		 r2: 0.44 		 time: 28.62 ... (0.79 + 27.83)
+
+Movie #15148, Genshiken (2005)
+average rating: 4.16 in 92 reviews  |  regressing on 92 features
+MSE: 0.69 		 r2: -0.08 		 time: 2.20 ... (0.57 + 1.64)
+
+Movie #15149, Goo Goo Dolls: Live in Buffalo (2004)
+average rating: 3.51 in 118 reviews  |  regressing on 118 features
+MSE: 1.19 		 r2: 0.16 		 time: 3.32 ... (0.56 + 2.76)
+
+Movie #15150, The Brain That Wouldn't Die (1959)
+average rating: 2.59 in 512 reviews  |  regressing on 512 features
+MSE: 1.13 		 r2: 0.18 		 time: 15.76 ... (1.00 + 14.76)
+
+Movie #15151, Walking Tall (2004)
+average rating: 3.53 in 65948 reviews  |  regressing on 1000 features
+MSE: 0.86 		 r2: 0.26 		 time: 21.57 ... (0.85 + 20.71)
+
+Movie #15152, Punky Brewster: Season 2 (1985)
+average rating: 3.90 in 762 reviews  |  regressing on 762 features
+MSE: 0.94 		 r2: 0.32 		 time: 23.12 ... (0.80 + 22.32)
+
+Movie #15153, Flashback (1990)
+average rating: 2.93 in 2405 reviews  |  regressing on 1000 features
+MSE: 0.82 		 r2: 0.29 		 time: 28.92 ... (0.87 + 28.05)
+
+Movie #15154, Chill Factor (1999)
+average rating: 3.12 in 4227 reviews  |  regressing on 1000 features
+MSE: 0.73 		 r2: 0.30 		 time: 26.97 ... (0.83 + 26.13)
+
+Movie #15155, Red Dwarf: Series 2 (1988)
+average rating: 4.06 in 3464 reviews  |  regressing on 1000 features
+MSE: 0.57 		 r2: 0.59 		 time: 21.51 ... (0.86 + 20.65)
+
+Movie #15156, The Firm (1993)
+average rating: 3.65 in 83437 reviews  |  regressing on 1000 features
+MSE: 0.70 		 r2: 0.06 		 time: 22.23 ... (0.79 + 21.44)
+
+Movie #15157, Amazing Nurse Nanako (2000)
+average rating: 2.89 in 580 reviews  |  regressing on 580 features
+MSE: 1.30 		 r2: 0.32 		 time: 16.43 ... (0.68 + 15.75)
+
+Movie #15158, Driven (2001)
+average rating: 2.91 in 11236 reviews  |  regressing on 1000 features
+MSE: 0.95 		 r2: 0.33 		 time: 25.88 ... (0.83 + 25.05)
+
+Movie #15159, Dragnet (1951)
+average rating: 3.14 in 228 reviews  |  regressing on 228 features
+MSE: 1.18 		 r2: 0.25 		 time: 6.79 ... (0.61 + 6.18)
+
+Movie #15160, Our Man Flint (1966)
+average rating: 3.37 in 3241 reviews  |  regressing on 1000 features
+MSE: 0.53 		 r2: 0.41 		 time: 30.03 ... (0.87 + 29.17)
+
+Movie #15161, Eight Crazy Nights: Bonus Material (2002)
+average rating: 2.84 in 204 reviews  |  regressing on 204 features
+MSE: 1.35 		 r2: 0.34 		 time: 4.81 ... (0.54 + 4.26)
+
+Movie #15162, Rage Against the Machine: Live at the Grand Olympic Auditorium (2000)
+average rating: 3.87 in 489 reviews  |  regressing on 489 features
+MSE: 1.29 		 r2: 0.15 		 time: 13.57 ... (0.65 + 12.91)
+
+Movie #15163, The Prince of Egypt (1998)
+average rating: 3.69 in 16664 reviews  |  regressing on 1000 features
+MSE: 0.86 		 r2: 0.16 		 time: 23.34 ... (0.85 + 22.49)
+
+Movie #15164, The X-Files: Season 8 (2000)
+average rating: 4.11 in 5976 reviews  |  regressing on 1000 features
+MSE: 0.51 		 r2: 0.48 		 time: 27.72 ... (0.85 + 26.87)
+
+Movie #15165, 100 Women (2002)
+average rating: 3.16 in 767 reviews  |  regressing on 767 features
+MSE: 1.10 		 r2: 0.18 		 time: 22.64 ... (0.79 + 21.85)
+
+Movie #15166, Descent (2005)
+average rating: 2.47 in 482 reviews  |  regressing on 482 features
+MSE: 0.96 		 r2: -0.01 		 time: 13.51 ... (0.69 + 12.82)
+
+Movie #15167, Raincoat (2005)
+average rating: 3.09 in 388 reviews  |  regressing on 388 features
+MSE: 1.43 		 r2: 0.02 		 time: 8.63 ... (0.63 + 8.00)
+
+Movie #15168, Neil Young: Silver & Gold (1999)
+average rating: 3.43 in 318 reviews  |  regressing on 318 features
+MSE: 1.12 		 r2: 0.18 		 time: 8.64 ... (0.64 + 8.00)
+
+Movie #15169, One Little Indian (1973)
+average rating: 2.93 in 105 reviews  |  regressing on 105 features
+MSE: 0.74 		 r2: 0.13 		 time: 3.19 ... (0.56 + 2.63)
+
+Movie #15170, The Fluffer (2001)
+average rating: 2.80 in 2904 reviews  |  regressing on 1000 features
+MSE: 1.14 		 r2: 0.10 		 time: 26.05 ... (0.85 + 25.20)
+
+Movie #15171, Wes Craven's New Nightmare (1994)
+average rating: 3.31 in 6445 reviews  |  regressing on 1000 features
+MSE: 0.81 		 r2: 0.36 		 time: 27.74 ... (0.86 + 26.87)
+
+Movie #15172, Britney Spears: Star Baby Scrapbook (1999)
+average rating: 2.10 in 91 reviews  |  regressing on 91 features
+MSE: 1.88 		 r2: 0.26 		 time: 2.64 ... (0.56 + 2.08)
+
+Movie #15173, 10 Minute Solution: Target Toning for Beginners (2004)
+average rating: 2.94 in 170 reviews  |  regressing on 170 features
+MSE: 1.12 		 r2: 0.13 		 time: 4.61 ... (0.54 + 4.08)
+
+Movie #15174, The Beast from 20 (1953)
+average rating: 3.52 in 836 reviews  |  regressing on 836 features
+MSE: 0.79 		 r2: 0.29 		 time: 25.54 ... (0.81 + 24.73)
+
+Movie #15175, Asylum of Satan / Satan's Children (1971)
+average rating: 2.07 in 132 reviews  |  regressing on 132 features
+MSE: 0.72 		 r2: 0.28 		 time: 3.54 ... (0.56 + 2.98)
+
+Movie #15176, Joint Security Area (2002)
+average rating: 3.49 in 1070 reviews  |  regressing on 1000 features
+MSE: 0.74 		 r2: 0.36 		 time: 29.47 ... (0.83 + 28.64)
+
+Movie #15177, A Nightmare on Elm Street 4: The Dream Master (1988)
+average rating: 3.19 in 10515 reviews  |  regressing on 1000 features
+MSE: 0.78 		 r2: 0.49 		 time: 29.92 ... (0.87 + 29.06)
+
+Movie #15178, Starkweather (2004)
+average rating: 2.41 in 122 reviews  |  regressing on 122 features
+MSE: 1.13 		 r2: -0.17 		 time: 3.45 ... (0.55 + 2.91)
+
+Movie #15179, Road Games (1981)
+average rating: 2.87 in 131 reviews  |  regressing on 131 features
+MSE: 1.48 		 r2: -0.23 		 time: 3.64 ... (0.56 + 3.09)
+
+Movie #15180, Suckers (1999)
+average rating: 3.31 in 248 reviews  |  regressing on 248 features
+MSE: 0.93 		 r2: 0.18 		 time: 6.52 ... (0.57 + 5.96)
+
+Movie #15181, Slums of Beverly Hills (1998)
+average rating: 3.33 in 13078 reviews  |  regressing on 1000 features
+MSE: 0.86 		 r2: 0.10 		 time: 24.77 ... (0.82 + 23.95)
+
+Movie #15182, Saving Silverman (2001)
+average rating: 3.19 in 27165 reviews  |  regressing on 1000 features
+MSE: 0.85 		 r2: 0.24 		 time: 24.72 ... (0.83 + 23.89)
+
+Movie #15183, MASH: Season 4 (1975)
+average rating: 4.22 in 6137 reviews  |  regressing on 1000 features
+MSE: 0.55 		 r2: 0.48 		 time: 24.96 ... (0.86 + 24.10)
+
+Movie #15184, Angelic Layer (2003)
+average rating: 4.02 in 494 reviews  |  regressing on 494 features
+MSE: 1.05 		 r2: 0.19 		 time: 13.22 ... (0.66 + 12.57)
+
+Movie #15185, Crutch (2004)
+average rating: 2.47 in 190 reviews  |  regressing on 190 features
+MSE: 0.83 		 r2: 0.38 		 time: 5.03 ... (0.54 + 4.49)
+
+Movie #15186, Gummo (1997)
+average rating: 3.05 in 3284 reviews  |  regressing on 1000 features
+MSE: 1.33 		 r2: 0.25 		 time: 18.02 ... (0.79 + 17.23)
+
+Movie #15187, The Work of Director Jonathan Glazer (2005)
+average rating: 3.56 in 100 reviews  |  regressing on 100 features
+MSE: 0.90 		 r2: 0.31 		 time: 2.78 ... (0.56 + 2.22)
+
+Movie #15188, Childstar (2005)
+average rating: 2.33 in 245 reviews  |  regressing on 245 features
+MSE: 0.53 		 r2: 0.16 		 time: 7.46 ... (0.60 + 6.86)
+
+Movie #15189, The Outer Limits: The New Series: Fantastic Androids & Robots (1995)
+average rating: 3.47 in 218 reviews  |  regressing on 218 features
+MSE: 0.80 		 r2: 0.38 		 time: 7.35 ... (0.57 + 6.78)
+
+Movie #15190, The Sid Caesar Collection: Inside the Writer's Room (2000)
+average rating: 2.97 in 223 reviews  |  regressing on 
+Movie #14969, The Best of the Andy Griffith Show (1997)
+average rating: 3.78 in 846 reviews  |  regressing on 846 features
+MSE: 0.86 		 r2: 0.54 		 time: 27.49 ... (0.83 + 26.66)
+
+Movie #14970, Assassins (1995)
+average rating: 3.19 in 16363 reviews  |  regressing on 1000 features
+MSE: 0.69 		 r2: 0.39 		 time: 24.66 ... (0.86 + 23.80)
+
+Movie #14971, Bubblegum Crisis Tokyo 2040 (1998)
+average rating: 3.32 in 2579 reviews  |  regressing on 1000 features
+MSE: 0.86 		 r2: 0.48 		 time: 26.39 ... (0.85 + 25.54)
+
+Movie #14972, Brigadoon (1954)
+average rating: 3.77 in 2278 reviews  |  regressing on 1000 features
+MSE: 0.65 		 r2: 0.09 		 time: 28.90 ... (0.90 + 28.00)
+
+Movie #14973, Tequila Sunrise (1988)
+average rating: 3.38 in 6864 reviews  |  regressing on 1000 features
+MSE: 0.63 		 r2: 0.20 		 time: 26.75 ... (0.87 + 25.88)
+
+Movie #14974, The League of Gentlemen: Series 2 (2000)
+average rating: 3.69 in 253 reviews  |  regressing on 253 features
+MSE: 0.99 		 r2: 0.39 		 time: 7.76 ... (0.71 + 7.05)
+
+Movie #14975, America's National Parks (2000)
+average rating: 3.11 in 218 reviews  |  regressing on 218 features
+MSE: 0.98 		 r2: 0.17 		 time: 5.77 ... (0.60 + 5.17)
+
+Movie #14976, Crazy Little Thing (2002)
+average rating: 2.58 in 333 reviews  |  regressing on 333 features
+MSE: 1.32 		 r2: -0.27 		 time: 8.91 ... (0.59 + 8.33)
+
+Movie #14977, Streets of Fire (1984)
+average rating: 3.28 in 2151 reviews  |  regressing on 1000 features
+MSE: 0.80 		 r2: 0.23 		 time: 29.90 ... (0.79 + 29.11)
+
+Movie #14978, The Dirty Dozen (1967)
+average rating: 3.99 in 28239 reviews  |  regressing on 1000 features
+MSE: 0.52 		 r2: 0.19 		 time: 24.18 ... (0.84 + 23.34)
+
+Movie #14979, Rolling Stones: Sympathy for the Devil (1968)
+average rating: 2.88 in 449 reviews  |  regressing on 449 features
+MSE: 1.46 		 r2: -0.05 		 time: 13.22 ... (0.69 + 12.53)
+
+Movie #14980, Angelina Ballerina: The Lucky Penny (2002)
+average rating: 3.23 in 293 reviews  |  regressing on 293 features
+MSE: 0.75 		 r2: 0.51 		 time: 8.14 ... (0.63 + 7.51)
+
+Movie #14981, Cry (1995)
+average rating: 3.78 in 1056 reviews  |  regressing on 1000 features
+MSE: 0.59 		 r2: 0.32 		 time: 28.52 ... (0.78 + 27.74)
+
+Movie #14982, Intimacy (2001)
+average rating: 2.65 in 3534 reviews  |  regressing on 1000 features
+MSE: 1.05 		 r2: 0.11 		 time: 28.27 ... (0.85 + 27.42)
+
+Movie #14983, Camelot (1967)
+average rating: 3.68 in 4459 reviews  |  regressing on 1000 features
+MSE: 0.87 		 r2: 0.16 		 time: 26.28 ... (0.87 + 25.41)
+
+Movie #14984, Billy Connolly: Erect for 30 Years (2004)
+average rating: 3.21 in 109 reviews  |  regressing on 109 features
+MSE: 1.72 		 r2: 0.05 		 time: 2.75 ... (0.52 + 2.23)
+
+Movie #14985, Almost Heroes (1998)
+average rating: 3.34 in 789 reviews  |  regressing on 789 features
+MSE: 1.14 		 r2: 0.26 		 time: 22.55 ... (0.80 + 21.75)
+
+Movie #14986, More Dogs Than Bones (2000)
+average rating: 2.46 in 112 reviews  |  regressing on 112 features
+MSE: 1.60 		 r2: -0.34 		 time: 2.96 ... (0.57 + 2.39)
+
+Movie #14987, Bowling for Columbine: Bonus Material (2002)
+average rating: 3.07 in 150 reviews  |  regressing on 150 features
+MSE: 1.38 		 r2: 0.37 		 time: 3.48 ... (0.57 + 2.91)
+
+Movie #14988, Eat Man '98 (2000)
+average rating: 2.96 in 136 reviews  |  regressing on 136 features
+MSE: 1.35 		 r2: 0.12 		 time: 3.92 ... (0.57 + 3.35)
+
+Movie #14989, Yuva (2004)
+average rating: 3.33 in 452 reviews  |  regressing on 452 features
+MSE: 1.10 		 r2: -0.06 		 time: 11.91 ... (0.67 + 11.24)
+
+Movie #14990, Pee-Wee's Playhouse: Vol. 2 (1987)
+average rating: 3.90 in 2179 reviews  |  regressing on 1000 features
+MSE: 0.67 		 r2: 0.57 		 time: 28.59 ... (0.89 + 27.69)
+
+Movie #14991, The Thing Below (2004)
+average rating: 1.73 in 428 reviews  |  regressing on 428 features
+MSE: 0.93 		 r2: 0.08 		 time: 12.69 ... (0.68 + 12.01)
+
+Movie #14992, Freestyle: The Art of Rhyme (2004)
+average rating: 3.46 in 312 reviews  |  regressing on 312 features
+MSE: 1.16 		 r2: 0.10 		 time: 8.23 ... (0.61 + 7.62)
+
+Movie #14993, Human Condition III: A Soldier's Prayer (1961)
+average rating: 3.12 in 213 reviews  |  regressing on 213 features
+MSE: 0.83 		 r2: 0.33 		 time: 6.66 ... (0.60 + 6.06)
+
+Movie #14994, Life of Rayful Edmond: The Rise & Fall 1 (2005)
+average rating: 3.22 in 82 reviews  |  regressing on 82 features
+MSE: 0.81 		 r2: -0.26 		 time: 2.04 ... (0.57 + 1.47)
+
+Movie #14995, GWAR: Phallus in Wonderland (1992)
+average rating: 2.96 in 186 reviews  |  regressing on 186 features
+MSE: 1.67 		 r2: 0.06 		 time: 4.60 ... (0.62 + 3.98)
+
+Movie #14996, Blind Date: Uncensored (1999)
+average rating: 2.89 in 904 reviews  |  regressing on 904 features
+MSE: 1.34 		 r2: 0.07 		 time: 25.20 ... (0.82 + 24.38)
+
+Movie #14997, The Captain's Paradise (1953)
+average rating: 3.49 in 495 reviews  |  regressing on 495 features
+MSE: 0.95 		 r2: 0.12 		 time: 13.71 ... (0.70 + 13.01)
+
+Movie #14998, The Mean Season (1985)
+average rating: 3.21 in 840 reviews  |  regressing on 840 features
+MSE: 0.60 		 r2: 0.21 		 time: 26.79 ... (0.81 + 25.98)
+
+Movie #14999, Monster (2003)
+average rating: 3.56 in 97165 reviews  |  regressing on 1000 features
+MSE: 0.94 		 r2: 0.14 		 time: 21.02 ... (0.86 + 20.17)
+
+Movie #15000, The Big Town (1987)
+average rating: 2.87 in 123 reviews  |  regressing on 123 features
+MSE: 0.85 		 r2: 0.08 		 time: 3.44 ... (0.56 + 2.88)
+
+Movie #15001, Ai Yori Aoshi (2002)
+average rating: 4.00 in 814 reviews  |  regressing on 814 features
+MSE: 1.08 		 r2: 0.38 		 time: 8.97 ... (0.74 + 8.24)
+
+Movie #15002, Frozen (1997)
+average rating: 2.64 in 76 reviews  |  regressing on 76 features
+MSE: 1.36 		 r2: 0.09 		 time: 1.88 ... (0.53 + 1.35)
+
+Movie #15003, Marines (2003)
+average rating: 2.18 in 131 reviews  |  regressing on 131 features
+MSE: 2.25 		 r2: -0.04 		 time: 3.24 ... (0.54 + 2.71)
+
+Movie #15004, Street Smart (1987)
+average rating: 2.99 in 405 reviews  |  regressing on 405 features
+MSE: 0.96 		 r2: 0.02 		 time: 12.02 ... (0.62 + 11.40)
+
+Movie #15005, Cameron's Closet (1989)
+average rating: 2.48 in 124 reviews  |  regressing on 124 features
+MSE: 1.34 		 r2: -0.19 		 time: 3.43 ... (0.56 + 2.87)
+
+Movie #15006, Mishima: A Life in Four Chapters (1985)
+average rating: 3.19 in 1729 reviews  |  regressing on 1000 features
+MSE: 0.99 		 r2: 0.30 		 time: 20.38 ... (0.85 + 19.53)
+
+Movie #15007, Any Which Way You Can (1980)
+average rating: 3.19 in 7917 reviews  |  regressing on 1000 features
+MSE: 0.61 		 r2: 0.44 		 time: 26.89 ... (0.87 + 26.02)
+
+Movie #15008, My Big Phat Hip Hop Family (2005)
+average rating: 2.01 in 182 reviews  |  regressing on 182 features
+MSE: 1.43 		 r2: 0.02 		 time: 4.24 ... (0.54 + 3.70)
+
+Movie #15009, The General (1998)
+average rating: 3.45 in 1445 reviews  |  regressing on 1000 features
+MSE: 0.71 		 r2: 0.18 		 time: 28.73 ... (0.79 + 27.94)
+
+Movie #15010, My House in Umbria (2003)
+average rating: 3.47 in 4045 reviews  |  regressing on 1000 features
+MSE: 0.69 		 r2: 0.18 		 time: 27.81 ... (0.86 + 26.95)
+
+Movie #15011, Brave New Girl (2004)
+average rating: 3.18 in 210 reviews  |  regressing on 210 features
+MSE: 0.77 		 r2: 0.10 		 time: 6.05 ... (0.65 + 5.40)
+
+Movie #15012, Dog Days (2001)
+average rating: 2.70 in 217 reviews  |  regressing on 217 features
+MSE: 2.11 		 r2: -0.07 		 time: 5.68 ... (0.59 + 5.08)
+
+Movie #15013, Dora the Explorer: Rhymes and Riddles (2003)
+average rating: 3.78 in 2124 reviews  |  regressing on 1000 features
+MSE: 0.75 		 r2: 0.45 		 time: 26.50 ... (0.78 + 25.71)
+
+Movie #15014, Angel: Season 5 (2003)
+average rating: 4.37 in 6259 reviews  |  regressing on 1000 features
+MSE: 0.64 		 r2: 0.27 		 time: 28.68 ... (0.85 + 27.83)
+
+Movie #15015, Miracle Mile (1989)
+average rating: 2.99 in 673 reviews  |  regressing on 673 features
+MSE: 1.17 		 r2: 0.15 		 time: 20.10 ... (0.76 + 19.34)
+
+Movie #15016, The Passion of Joan of Arc (1928)
+average rating: 3.93 in 2775 reviews  |  regressing on 1000 features
+MSE: 0.98 		 r2: 0.23 		 time: 15.09 ... (0.86 + 14.23)
+
+Movie #15017, The Glow (2002)
+average rating: 2.63 in 219 reviews  |  regressing on 219 features
+MSE: 0.85 		 r2: 0.04 		 time: 5.85 ... (0.61 + 5.24)
+
+Movie #15018, The Giallo Collection: Short Night of Glass Dolls (1971)
+average rating: 2.48 age rating: 3.92 in 2399 reviews  |  regressing on 1000 features
+MSE: 0.51 		 r2: 0.57 		 time: 29.83 ... (0.84 + 28.99)
+
+Movie #14437, Smiley's People (1982)
+average rating: 4.06 in 1678 reviews  |  regressing on 1000 features
+MSE: 1.01 		 r2: 0.13 		 time: 26.14 ... (0.79 + 25.35)
+
+Movie #14438, Habitat (1997)
+average rating: 2.43 in 335 reviews  |  regressing on 335 features
+MSE: 1.21 		 r2: -0.06 		 time: 9.97 ... (0.62 + 9.34)
+
+Movie #14439, Live and Let Die (1973)
+average rating: 3.82 in 19465 reviews  |  regressing on 1000 features
+MSE: 0.59 		 r2: 0.23 		 time: 24.09 ... (0.82 + 23.27)
+
+Movie #14440, Love Is Colder than Death (1969)
+average rating: 2.74 in 111 reviews  |  regressing on 111 features
+MSE: 1.04 		 r2: 0.04 		 time: 2.83 ... (0.56 + 2.28)
+
+Movie #14441, The Wool Cap (2004)
+average rating: 3.71 in 1776 reviews  |  regressing on 1000 features
+MSE: 0.66 		 r2: 0.11 		 time: 26.36 ... (0.78 + 25.58)
+
+Movie #14442, Ex-Driver: The Movie (2004)
+average rating: 3.18 in 124 reviews  |  regressing on 124 features
+MSE: 1.18 		 r2: 0.39 		 time: 3.49 ... (0.55 + 2.94)
+
+Movie #14443, Foolproof (2004)
+average rating: 3.49 in 1409 reviews  |  regressing on 1000 features
+MSE: 0.70 		 r2: 0.26 		 time: 29.02 ... (0.82 + 28.20)
+
+Movie #14444, The Hallelujah Trail (1965)
+average rating: 3.35 in 497 reviews  |  regressing on 497 features
+MSE: 0.92 		 r2: 0.10 		 time: 14.24 ... (0.68 + 13.56)
+
+Movie #14445, La Notte (1962)
+average rating: 3.75 in 725 reviews  |  regressing on 725 features
+MSE: 0.90 		 r2: 0.14 		 time: 20.61 ... (0.72 + 19.89)
+
+Movie #14446, Century Hotel (2001)
+average rating: 2.75 in 264 reviews  |  regressing on 264 features
+MSE: 1.02 		 r2: -0.15 		 time: 7.40 ... (0.59 + 6.81)
+
+Movie #14447, The Simple Life of Noah Dearborn (1999)
+average rating: 3.86 in 153 reviews  |  regressing on 153 features
+MSE: 0.59 		 r2: 0.20 		 time: 4.78 ... (0.65 + 4.13)
+
+Movie #14448, The Staircase (1998)
+average rating: 3.91 in 192 reviews  |  regressing on 192 features
+MSE: 1.78 		 r2: -0.01 		 time: 4.91 ... (0.57 + 4.33)
+
+Movie #14449, Moody Blues: A Night at Red Rocks (1992)
+average rating: 3.54 in 104 reviews  |  regressing on 104 features
+MSE: 1.24 		 r2: 0.20 		 time: 3.05 ... (0.54 + 2.50)
+
+Movie #14450, Another Man's Poison (1952)
+average rating: 3.38 in 378 reviews  |  regressing on 378 features
+MSE: 1.38 		 r2: -0.01 		 time: 10.37 ... (0.63 + 9.75)
+
+Movie #14451, Pit Fighter (2005)
+average rating: 2.44 in 358 reviews  |  regressing on 358 features
+MSE: 1.19 		 r2: 0.04 		 time: 10.22 ... (0.58 + 9.64)
+
+Movie #14452, Mercy (1999)
+average rating: 2.95 in 1246 reviews  |  regressing on 1000 features
+MSE: 0.82 		 r2: 0.29 		 time: 30.08 ... (0.84 + 29.24)
+
+Movie #14453, Pokemon Heroes: The Movie (2003)
+average rating: 3.21 in 3240 reviews  |  regressing on 1000 features
+MSE: 1.25 		 r2: 0.37 		 time: 27.13 ... (0.82 + 26.31)
+
+Movie #14454, Kill Bill: Vol. 1 (2003)
+average rating: 3.76 in 140564 reviews  |  regressing on 1000 features
+MSE: 0.79 		 r2: 0.37 		 time: 19.17 ... (0.83 + 18.33)
+
+Movie #14455, Mrityudand (1997)
+average rating: 2.85 in 93 reviews  |  regressing on 93 features
+MSE: 1.50 		 r2: -0.02 		 time: 2.06 ... (0.51 + 1.55)
+
+Movie #14456, The Professionals (1966)
+average rating: 3.66 in 1943 reviews  |  regressing on 1000 features
+MSE: 0.66 		 r2: 0.17 		 time: 27.48 ... (0.83 + 26.66)
+
+Movie #14457, What's Love Got to Do with It (1993)
+average rating: 3.67 in 20059 reviews  |  regressing on 1000 features
+MSE: 0.73 		 r2: 0.18 		 time: 25.46 ... (0.83 + 24.63)
+
+Movie #14458, Harvard Man (2001)
+average rating: 2.32 in 2046 reviews  |  regressing on 1000 features
+MSE: 0.92 		 r2: 0.21 		 time: 29.25 ... (0.84 + 28.41)
+
+Movie #14459, Uncle Buck (1989)
+average rating: 3.58 in 33304 reviews  |  regressing on 1000 features
+MSE: 0.71 		 r2: 0.21 		 time: 23.31 ... (0.83 + 22.48)
+
+Movie #14460, Poldark (1996)
+average rating: 2.51 in 179 reviews  |  regressing on 179 features
+MSE: 1.26 		 r2: -0.11 		 time: 5.22 ... (0.57 + 4.66)
+
+Movie #14461, New England Patriots: NFL Super Bowl XXXVIII Champions (2003)
+average rating: 3.85 in 386 reviews  |  regressing on 386 features
+MSE: 1.18 		 r2: 0.22 		 time: 10.85 ... (0.65 + 10.20)
+
+Movie #14462, She Shoots Straight (1989)
+average rating: 2.69 in 125 reviews  |  regressing on 125 features
+MSE: 0.91 		 r2: 0.28 		 time: 3.48 ... (0.55 + 2.93)
+
+Movie #14463, I Spit On Your Grave (1978)
+average rating: 2.79 in 2393 reviews  |  regressing on 1000 features
+MSE: 1.36 		 r2: 0.13 		 time: 26.85 ... (0.84 + 26.01)
+
+Movie #14464, Stevie Ray Vaughan and Double Trouble: Live from Austin (1995)
+average rating: 3.99 in 1690 reviews  |  regressing on 1000 features
+MSE: 0.92 		 r2: 0.22 		 time: 29.28 ... (0.83 + 28.45)
+
+Movie #14465, The Iceman Interviews (2003)
+average rating: 3.46 in 763 reviews  |  regressing on 763 features
+MSE: 0.83 		 r2: 0.14 		 time: 21.86 ... (0.75 + 21.12)
+
+Movie #14466, Pokemon: Jirachi Wish Maker (2004)
+average rating: 3.52 in 1656 reviews  |  regressing on 1000 features
+MSE: 1.02 		 r2: 0.37 		 time: 26.31 ... (0.84 + 25.47)
+
+Movie #14467, In the Cut (2003)
+average rating: 2.44 in 17897 reviews  |  regressing on 1000 features
+MSE: 1.18 		 r2: 0.04 		 time: 15.01 ... (0.82 + 14.18)
+
+Movie #14468, The Dead Zone: Season 3 (2004)
+average rating: 4.11 in 1955 reviews  |  regressing on 1000 features
+MSE: 0.48 		 r2: 0.46 		 time: 29.01 ... (0.83 + 28.18)
+
+Movie #14469, Soldier - World Wide Entertainment (1998)
+average rating: 2.76 in 114 reviews  |  regressing on 114 features
+MSE: 0.74 		 r2: 0.30 		 time: 3.02 ... (0.52 + 2.51)
+
+Movie #14470, Gods of Olympia (2002)
+average rating: 1.93 in 442 reviews  |  regressing on 442 features
+MSE: 1.09 		 r2: 0.17 		 time: 11.66 ... (0.64 + 11.02)
+
+Movie #14471, Santitos (2000)
+average rating: 3.18 in 350 reviews  |  regressing on 350 features
+MSE: 1.12 		 r2: 0.11 		 time: 9.28 ... (0.59 + 8.69)
+
+Movie #14472, Play Misty for Me (1971)
+average rating: 3.57 in 8801 reviews  |  regressing on 1000 features
+MSE: 0.69 		 r2: 0.13 		 time: 26.52 ... (0.80 + 25.72)
+
+Movie #14473, Gaslight (1940)
+average rating: 3.98 in 5473 reviews  |  regressing on 1000 features
+MSE: 0.78 		 r2: 0.10 		 time: 25.64 ... (0.84 + 24.79)
+
+Movie #14474, The Enigma of Kaspar Hauser (1975)
+average rating: 3.80 in 398 reviews  |  regressing on 398 features
+MSE: 1.08 		 r2: 0.21 		 time: 10.52 ... (0.59 + 9.93)
+
+Movie #14475, Hilary and Jackie (1998)
+average rating: 3.58 in 7735 reviews  |  regressing on 1000 features
+MSE: 0.70 		 r2: 0.17 		 time: 22.82 ... (0.77 + 22.05)
+
+Movie #14476, Barbershop 2: Back in Business (2004)
+average rating: 3.23 in 24840 reviews  |  regressing on 1000 features
+MSE: 0.81 		 r2: 0.23 		 time: 7.21 ... (0.83 + 6.39)
+
+Movie #14477, How Stella Got Her Groove Back (1998)
+average rating: 3.39 in 12220 reviews  |  regressing on 1000 features
+MSE: 0.75 		 r2: 0.21 		 time: 26.30 ... (0.83 + 25.47)
+
+Movie #14478, The Ultimate Beginner Series: Keyboard Basics (1994)
+average rating: 2.71 in 91 reviews  |  regressing on 91 features
+MSE: 1.18 		 r2: -0.30 		 time: 2.24 ... (0.56 + 1.68)
+
+Movie #14479, Never on Sunday (1960)
+average rating: 3.44 in 813 reviews  |  regressing on 813 features
+MSE: 0.92 		 r2: 0.13 		 time: 23.60 ... (0.72 + 22.88)
+
+Movie #14480, Tin Cup (1996)
+average rating: 3.40 in 24225 reviews  |  regressing on 1000 features
+MSE: 0.70 		 r2: 0.21 		 time: 24.26 ... (0.83 + 23.43)
+
+Movie #14481, Army of One (1993)
+average rating: 3.03 in 232 reviews  |  regressing on 232 features
+MSE: 0.97 		 r2: 0.34 		 time: 7.33 ... (0.58 + 6.75)
+
+Movie #14482, 12 Monkeys (1995)
+average rating: 3.78 in 76475 reviews  |  regressing on 1000 features
+MSE: 0.84 		 r2: 0.16 		 time: 19.38 ... (0.82 + 18.56)
+
+Movie #14483, White Christmas (1954)
+average rating: 3.86 in 5092 reviews  |  regressing on 1000 features
+MSE: 0.83 		 r2: 0.20 		 time: 27.65 ... (0.82 + 26.83)
+
+Movie #14484, The Naked Gun (1988)
+average rating: 3.47 in 44489 reviews  |  regressing on 1000 features
+MSE: 0.55 		 r2: 0.44 		 time: 23.95 ... (0.84 + 23.11)
+
+Movie #14485, Rock and Rule (1983)
+average rating: 3.39 in 130 reviews  |  regressing on 130 features
+MSE: 0.92 		 ing: 3.74 in 1416 reviews  |  regressing on 1000 features
+MSE: 0.88 		 r2: 0.34 		 time: 29.39 ... (0.82 + 28.57)
+
+Movie #15322, Xena: Warrior Princess: Season 4 (1998)
+average rating: 3.99 in 1777 reviews  |  regressing on 1000 features
+MSE: 0.45 		 r2: 0.69 		 time: 28.13 ... (0.94 + 27.19)
+
+Movie #15323, The Cool and the Crazy (1994)
+average rating: 2.06 in 123 reviews  |  regressing on 123 features
+MSE: 0.76 		 r2: -0.21 		 time: 3.66 ... (0.58 + 3.09)
+
+Movie #15324, The Aviator: Bonus Material (2004)
+average rating: 3.62 in 465 reviews  |  regressing on 465 features
+MSE: 0.81 		 r2: 0.07 		 time: 9.59 ... (0.70 + 8.89)
+
+Movie #15325, Plaza Suite (1971)
+average rating: 3.47 in 813 reviews  |  regressing on 813 features
+MSE: 0.75 		 r2: 0.17 		 time: 25.96 ... (0.81 + 25.15)
+
+Movie #15326, Alley Cats (1965)
+average rating: 2.05 in 171 reviews  |  regressing on 171 features
+MSE: 2.19 		 r2: -0.12 		 time: 4.78 ... (0.59 + 4.19)
+
+Movie #15327, Wiseguy: Prey for the City (1998)
+average rating: 3.38 in 290 reviews  |  regressing on 290 features
+MSE: 1.09 		 r2: 0.51 		 time: 9.21 ... (0.64 + 8.58)
+
+Movie #15328, The Seagull's Laughter (2001)
+average rating: 3.07 in 141 reviews  |  regressing on 141 features
+MSE: 0.53 		 r2: 0.12 		 time: 3.95 ... (0.58 + 3.37)
+
+Movie #15329, Raw Deal (1986)
+average rating: 3.38 in 3850 reviews  |  regressing on 1000 features
+MSE: 0.65 		 r2: 0.29 		 time: 26.28 ... (0.86 + 25.43)
+
+Movie #15330, Kronos (1957)
+average rating: 2.95 in 373 reviews  |  regressing on 373 features
+MSE: 0.88 		 r2: 0.28 		 time: 11.23 ... (0.66 + 10.57)
+
+Movie #15331, The Bela Lugosi Collection: Murders in Rue Morgue / The Black Cat / The Raven (1932)
+average rating: 3.38 in 110 reviews  |  regressing on 110 features
+MSE: 1.11 		 r2: 0.10 		 time: 3.49 ... (0.54 + 2.95)
+
+Movie #15332, A Lady Takes a Chance (1943)
+average rating: 3.25 in 354 reviews  |  regressing on 354 features
+MSE: 1.19 		 r2: 0.23 		 time: 10.58 ... (0.65 + 9.93)
+
+Movie #15333, Samurai X: Trust and Betrayal (1999)
+average rating: 4.19 in 3799 reviews  |  regressing on 1000 features
+MSE: 0.74 		 r2: 0.28 		 time: 25.67 ... (0.85 + 24.82)
+
+Movie #15334, Don't Look Now (1973)
+average rating: 3.17 in 2781 reviews  |  regressing on 1000 features
+MSE: 1.12 		 r2: 0.22 		 time: 26.26 ... (0.87 + 25.39)
+
+Movie #15335, Never Cry Wolf (1983)
+average rating: 3.81 in 4228 reviews  |  regressing on 1000 features
+MSE: 0.82 		 r2: 0.12 		 time: 28.18 ... (0.88 + 27.30)
+
+Movie #15336, Highlander 3: The Final Dimension (1994)
+average rating: 3.05 in 6114 reviews  |  regressing on 1000 features
+MSE: 0.80 		 r2: 0.46 		 time: 26.10 ... (0.86 + 25.24)
+
+Movie #15337, Sound of the Sea (2001)
+average rating: 3.04 in 218 reviews  |  regressing on 218 features
+MSE: 1.18 		 r2: -0.02 		 time: 5.59 ... (0.56 + 5.02)
+
+Movie #15338, Barbary Coast (1935)
+average rating: 3.12 in 139 reviews  |  regressing on 139 features
+MSE: 0.48 		 r2: 0.25 		 time: 4.04 ... (0.56 + 3.49)
+
+Movie #15339, Three Kings (1999)
+average rating: 3.47 in 40364 reviews  |  regressing on 1000 features
+MSE: 0.80 		 r2: 0.13 		 time: 23.25 ... (0.84 + 22.41)
+
+Movie #15340, Trial (1992)
+average rating: 2.33 in 185 reviews  |  regressing on 185 features
+MSE: 1.50 		 r2: -0.01 		 time: 5.27 ... (0.59 + 4.68)
+
+Movie #15341, Godmoney (1997)
+average rating: 2.68 in 91 reviews  |  regressing on 91 features
+MSE: 1.01 		 r2: 0.16 		 time: 2.64 ... (0.56 + 2.08)
+
+Movie #15342, What About Bob? (1991)
+average rating: 3.48 in 32489 reviews  |  regressing on 1000 features
+MSE: 1.01 		 r2: 0.10 		 time: 24.10 ... (0.85 + 23.25)
+
+Movie #15343, Uzumaki (2000)
+average rating: 3.14 in 698 reviews  |  regressing on 698 features
+MSE: 1.19 		 r2: -0.04 		 time: 19.64 ... (0.77 + 18.87)
+
+Movie #15344, Aftermath / Genesis: Double Feature (1994)
+average rating: 2.73 in 71 reviews  |  regressing on 71 features
+MSE: 1.18 		 r2: 0.17 		 time: 2.14 ... (0.56 + 1.59)
+
+Movie #15345, Intolerable Cruelty (2003)
+average rating: 2.95 in 47048 reviews  |  regressing on 1000 features
+MSE: 0.97 		 r2: -0.13 		 time: 22.91 ... (0.83 + 22.08)
+
+Movie #15346, Return of the Killer Tomatoes (1988)
+average rating: 2.71 in 412 reviews  |  regressing on 412 features
+MSE: 0.73 		 r2: 0.40 		 time: 13.04 ... (0.68 + 12.37)
+
+Movie #15347, House of Cards (1993)
+average rating: 3.30 in 580 reviews  |  regressing on 580 features
+MSE: 0.89 		 r2: 0.09 		 time: 17.90 ... (0.74 + 17.16)
+
+Movie #15348, V-Day: Until the Violence Stops (2003)
+average rating: 3.47 in 404 reviews  |  regressing on 404 features
+MSE: 1.86 		 r2: 0.18 		 time: 10.70 ... (0.64 + 10.06)
+
+Movie #15349, Octopus 2: River of Fear (2001)
+average rating: 2.17 in 125 reviews  |  regressing on 125 features
+MSE: 1.10 		 r2: 0.18 		 time: 3.86 ... (0.54 + 3.32)
+
+Movie #15350, WWF: Hell Yeah: Stone Cold's Saga Continues (1999)
+average rating: 2.98 in 180 reviews  |  regressing on 180 features
+MSE: 2.19 		 r2: 0.21 		 time: 4.21 ... (0.54 + 3.67)
+
+Movie #15351, Superfly (1972)
+average rating: 3.52 in 1473 reviews  |  regressing on 1000 features
+MSE: 0.92 		 r2: 0.26 		 time: 29.66 ... (0.86 + 28.81)
+
+Movie #15352, Fidel: The Castro Project (2002)
+average rating: 3.43 in 771 reviews  |  regressing on 771 features
+MSE: 1.13 		 r2: 0.09 		 time: 20.24 ... (0.79 + 19.45)
+
+Movie #15353, Sherlock Holmes: The House of Fear (1945)
+average rating: 3.86 in 525 reviews  |  regressing on 525 features
+MSE: 0.69 		 r2: 0.22 		 time: 15.71 ... (0.70 + 15.01)
+
+Movie #15354, In Search of Shakespeare (2003)
+average rating: 3.75 in 155 reviews  |  regressing on 155 features
+MSE: 0.80 		 r2: 0.36 		 time: 3.87 ... (0.54 + 3.34)
+
+Movie #15355, Foreign Land (1995)
+average rating: 2.99 in 300 reviews  |  regressing on 300 features
+MSE: 0.79 		 r2: 0.09 		 time: 7.28 ... (0.60 + 6.68)
+
+Movie #15356, Last Hero In China (1992)
+average rating: 3.63 in 234 reviews  |  regressing on 234 features
+MSE: 0.78 		 r2: 0.35 		 time: 5.89 ... (0.57 + 5.32)
+
+Movie #15357, Mondo Bizarro / Mondo Freudo: Double Feature (1966)
+average rating: 2.19 in 124 reviews  |  regressing on 124 features
+MSE: 0.89 		 r2: 0.13 		 time: 3.23 ... (0.54 + 2.69)
+
+Movie #15358, Killer Condom (1996)
+average rating: 2.56 in 434 reviews  |  regressing on 434 features
+MSE: 1.76 		 r2: 0.05 		 time: 12.29 ... (0.66 + 11.63)
+
+Movie #15359, To Be or Not To Be (1942)
+average rating: 3.77 in 980 reviews  |  regressing on 980 features
+MSE: 0.77 		 r2: 0.16 		 time: 29.84 ... (0.86 + 28.98)
+
+Movie #15360, Journey: Greatest Hits DVD 1978-1997 (2003)
+average rating: 3.64 in 293 reviews  |  regressing on 293 features
+MSE: 1.27 		 r2: 0.09 		 time: 7.54 ... (0.59 + 6.95)
+
+Movie #15361, Iris (2001)
+average rating: 3.52 in 13215 reviews  |  regressing on 1000 features
+MSE: 0.78 		 r2: 0.10 		 time: 23.95 ... (0.86 + 23.09)
+
+Movie #15362, Friday the 13th: Part 6: Jason Lives (1986)
+average rating: 3.31 in 4724 reviews  |  regressing on 1000 features
+MSE: 0.62 		 r2: 0.57 		 time: 27.84 ... (0.89 + 26.96)
+
+Movie #15363, Xena: Warrior Princess: Season 1 (1995)
+average rating: 3.75 in 2554 reviews  |  regressing on 1000 features
+MSE: 0.85 		 r2: 0.43 		 time: 26.92 ... (0.79 + 26.14)
+
+Movie #15364, The Guilty (2000)
+average rating: 3.30 in 1143 reviews  |  regressing on 1000 features
+MSE: 0.75 		 r2: 0.28 		 time: 28.70 ... (0.85 + 27.85)
+
+Movie #15365, Flight of the Intruder (1991)
+average rating: 3.40 in 3649 reviews  |  regressing on 1000 features
+MSE: 0.67 		 r2: 0.33 		 time: 28.28 ... (0.86 + 27.42)
+
+Movie #15366, The Thing (1982)
+average rating: 3.69 in 21865 reviews  |  regressing on 1000 features
+MSE: 1.00 		 r2: 0.09 		 time: 25.01 ... (0.82 + 24.19)
+
+Movie #15367, A Woman Under the Influence (1974)
+average rating: 3.74 in 1768 reviews  |  regressing on 1000 features
+MSE: 1.03 		 r2: 0.11 		 time: 7.92 ... (0.85 + 7.07)
+
+Movie #15368, Blackjack (1998)
+average rating: 2.67 in 260 reviews  |  regressing on 260 features
+MSE: 1.12 		 r2: 0.19 		 time: 7.78 ... (0.62 + 7.15)
+
+Movie #15369, Cheerleader Ninjas (2003)
+average rating: 1.95 in 244 reviews  |  regressing on 244 features
+MSE: 2.06 		 r2: -0.02 		 time: 6.41 ... (0.60 + 5.80)
+
+Movie #15370, The Apple (1980)
+average rating: 2.	 r2: 0.18 		 time: 26.09 ... (0.78 + 25.32)
+
+Movie #15498, Magic Knight Rayearth 2 (1995)
+average rating: 3.81 in 116 reviews  |  regressing on 116 features
+MSE: 1.11 		 r2: 0.33 		 time: 3.17 ... (0.56 + 2.61)
+
+Movie #15499, Animals Are Beautiful People (1975)
+average rating: 3.68 in 831 reviews  |  regressing on 831 features
+MSE: 1.14 		 r2: 0.05 		 time: 23.97 ... (0.78 + 23.19)
+
+Movie #15500, Gilmore Girls: Season 2 (2001)
+average rating: 4.35 in 6454 reviews  |  regressing on 1000 features
+MSE: 0.68 		 r2: 0.48 		 time: 22.86 ... (0.87 + 21.99)
+
+Movie #15501, Dance with a Stranger (1985)
+average rating: 2.93 in 763 reviews  |  regressing on 763 features
+MSE: 0.92 		 r2: 0.12 		 time: 23.36 ... (0.78 + 22.58)
+
+Movie #15502, Dance with the Devil (1997)
+average rating: 2.46 in 522 reviews  |  regressing on 522 features
+MSE: 1.28 		 r2: 0.10 		 time: 15.33 ... (0.70 + 14.63)
+
+Movie #15503, Aloha (1975)
+average rating: 2.77 in 105 reviews  |  regressing on 105 features
+MSE: 0.64 		 r2: 0.03 		 time: 2.96 ... (0.55 + 2.40)
+
+Movie #15504, Murder! (1930)
+average rating: 3.00 in 403 reviews  |  regressing on 403 features
+MSE: 0.77 		 r2: 0.19 		 time: 13.06 ... (0.67 + 12.39)
+
+Movie #15505, Moon Over Broadway (1997)
+average rating: 3.08 in 286 reviews  |  regressing on 286 features
+MSE: 1.43 		 r2: 0.05 		 time: 8.03 ... (0.63 + 7.40)
+
+Movie #15506, I Love You Baby (2001)
+average rating: 2.91 in 577 reviews  |  regressing on 577 features
+MSE: 1.12 		 r2: 0.13 		 time: 15.42 ... (0.65 + 14.76)
+
+Movie #15507, State Fair (1945)
+average rating: 3.61 in 2022 reviews  |  regressing on 1000 features
+MSE: 0.87 		 r2: 0.22 		 time: 28.44 ... (0.83 + 27.61)
+
+Movie #15508, Dead Tired (1994)
+average rating: 2.94 in 154 reviews  |  regressing on 154 features
+MSE: 1.85 		 r2: -0.15 		 time: 3.94 ... (0.57 + 3.37)
+
+Movie #15509, Entourage: Season 1 (2004)
+average rating: 4.09 in 8951 reviews  |  regressing on 1000 features
+MSE: 1.27 		 r2: -0.01 		 time: 22.94 ... (0.84 + 22.11)
+
+Movie #15510, Bad Trip (1999)
+average rating: 2.12 in 144 reviews  |  regressing on 144 features
+MSE: 0.97 		 r2: -0.07 		 time: 3.96 ... (0.58 + 3.38)
+
+Movie #15511, Last Orders (2002)
+average rating: 3.22 in 4257 reviews  |  regressing on 1000 features
+MSE: 0.85 		 r2: 0.12 		 time: 27.71 ... (0.77 + 26.94)
+
+Movie #15512, Mindstorm (2001)
+average rating: 2.44 in 199 reviews  |  regressing on 199 features
+MSE: 0.91 		 r2: 0.16 		 time: 6.06 ... (0.60 + 5.47)
+
+Movie #15513, Facing Windows (2004)
+average rating: 3.61 in 2071 reviews  |  regressing on 1000 features
+MSE: 0.89 		 r2: 0.16 		 time: 15.16 ... (0.84 + 14.32)
+
+Movie #15514, Behind the Red Door (2002)
+average rating: 3.00 in 452 reviews  |  regressing on 452 features
+MSE: 1.08 		 r2: 0.03 		 time: 13.21 ... (0.67 + 12.54)
+
+Movie #15515, Belly (1998)
+average rating: 3.52 in 2072 reviews  |  regressing on 1000 features
+MSE: 1.13 		 r2: 0.30 		 time: 27.73 ... (0.84 + 26.89)
+
+Movie #15516, Sarafina! (1992)
+average rating: 3.43 in 1576 reviews  |  regressing on 1000 features
+MSE: 0.90 		 r2: 0.29 		 time: 29.33 ... (0.82 + 28.51)
+
+Movie #15517, How to Kill Your Neighbor's Dog (2001)
+average rating: 3.21 in 1006 reviews  |  regressing on 1000 features
+MSE: 0.75 		 r2: 0.38 		 time: 27.96 ... (0.85 + 27.11)
+
+Movie #15518, Kavanagh Q.C.: Mute of Malice (1995)
+average rating: 3.48 in 97 reviews  |  regressing on 97 features
+MSE: 0.51 		 r2: 0.56 		 time: 2.65 ... (0.55 + 2.11)
+
+Movie #15519, House on the Edge of the Park (1980)
+average rating: 2.62 in 186 reviews  |  regressing on 186 features
+MSE: 1.75 		 r2: -0.42 		 time: 5.24 ... (0.58 + 4.67)
+
+Movie #15520, Michael & Me (2005)
+average rating: 3.32 in 167 reviews  |  regressing on 167 features
+MSE: 1.73 		 r2: -0.04 		 time: 4.25 ... (0.57 + 3.68)
+
+Movie #15521, Without Conscience (2004)
+average rating: 2.74 in 62 reviews  |  regressing on 62 features
+MSE: 0.88 		 r2: 0.02 		 time: 1.53 ... (0.53 + 1.00)
+
+Movie #15522, The Winning Season (2004)
+average rating: 3.07 in 391 reviews  |  regressing on 391 features
+MSE: 0.54 		 r2: 0.19 		 time: 11.89 ... (0.66 + 11.23)
+
+Movie #15523, The Inspector Lynley Mysteries: A Traitor to Memory (2004)
+average rating: 4.02 in 365 reviews  |  regressing on 365 features
+MSE: 0.57 		 r2: 0.41 		 time: 10.49 ... (0.64 + 9.85)
+
+Movie #15524, A Woman's a Helluva Thing (2001)
+average rating: 2.37 in 156 reviews  |  regressing on 156 features
+MSE: 0.77 		 r2: -0.00 		 time: 4.30 ... (0.54 + 3.76)
+
+Movie #15525, H.O.T.S. (1979)
+average rating: 2.69 in 180 reviews  |  regressing on 180 features
+MSE: 0.98 		 r2: 0.13 		 time: 5.28 ... (0.57 + 4.71)
+
+Movie #15526, Live Aid (1985)
+average rating: 3.71 in 449 reviews  |  regressing on 449 features
+MSE: 0.92 		 r2: 0.02 		 time: 12.44 ... (0.68 + 11.76)
+
+Movie #15527, Golfballs! (1999)
+average rating: 2.46 in 297 reviews  |  regressing on 297 features
+MSE: 1.20 		 r2: 0.01 		 time: 7.41 ... (0.60 + 6.82)
+
+Movie #15528, The Hulk: Bonus Material (2003)
+average rating: 2.88 in 204 reviews  |  regressing on 204 features
+MSE: 0.60 		 r2: 0.51 		 time: 5.44 ... (0.55 + 4.89)
+
+Movie #15529, Money Talks (1997)
+average rating: 3.43 in 8252 reviews  |  regressing on 1000 features
+MSE: 0.71 		 r2: 0.33 		 time: 24.30 ... (0.80 + 23.50)
+
+Movie #15530, Howards End (1992)
+average rating: 3.84 in 12711 reviews  |  regressing on 1000 features
+MSE: 0.59 		 r2: 0.27 		 time: 26.10 ... (0.84 + 25.26)
+
+Movie #15531, Courage Under Fire (1996)
+average rating: 3.65 in 32981 reviews  |  regressing on 1000 features
+MSE: 0.62 		 r2: 0.23 		 time: 23.07 ... (0.78 + 22.30)
+
+Movie #15532, She's All That (1999)
+average rating: 3.39 in 26208 reviews  |  regressing on 1000 features
+MSE: 0.67 		 r2: 0.33 		 time: 22.76 ... (0.79 + 21.97)
+
+Movie #15533, Jay-Z: Fade to Black (2004)
+average rating: 3.66 in 1750 reviews  |  regressing on 1000 features
+MSE: 1.39 		 r2: 0.23 		 time: 26.20 ... (0.79 + 25.40)
+
+Movie #15534, Inu-Yasha: The Movie: Affections Touching Across Time (2001)
+average rating: 4.18 in 2578 reviews  |  regressing on 1000 features
+MSE: 0.94 		 r2: 0.00 		 time: 26.40 ... (0.81 + 25.60)
+
+Movie #15535, Mysteries of the Deep: Legendary Shipwrecks: Lost Ships of the Mediterranean (1999)
+average rating: 3.22 in 129 reviews  |  regressing on 129 features
+MSE: 1.07 		 r2: 0.07 		 time: 3.46 ... (0.52 + 2.94)
+
+Movie #15536, Decasia: The State of Decay (2004)
+average rating: 2.74 in 254 reviews  |  regressing on 254 features
+MSE: 1.49 		 r2: 0.28 		 time: 6.46 ... (0.60 + 5.86)
+
+Movie #15537, Impact (1949)
+average rating: 3.13 in 163 reviews  |  regressing on 163 features
+MSE: 0.77 		 r2: 0.06 		 time: 4.28 ... (0.57 + 3.72)
+
+Movie #15538, Fullmetal Alchemist (2004)
+average rating: 4.61 in 1633 reviews  |  regressing on 1000 features
+MSE: 0.71 		 r2: -0.25 		 time: 27.45 ... (0.84 + 26.62)
+
+Movie #15539, Suicide Club (2002)
+average rating: 3.18 in 2072 reviews  |  regressing on 1000 features
+MSE: 1.04 		 r2: 0.22 		 time: 27.78 ... (0.88 + 26.90)
+
+Movie #15540, Born on the Fourth of July (1989)
+average rating: 3.43 in 32696 reviews  |  regressing on 1000 features
+MSE: 0.74 		 r2: 0.14 		 time: 23.33 ... (0.85 + 22.49)
+
+Movie #15541, Bloodfist 6: Ground Zero (1994)
+average rating: 2.58 in 98 reviews  |  regressing on 98 features
+MSE: 1.33 		 r2: 0.40 		 time: 3.28 ... (0.56 + 2.73)
+
+Movie #15542, Legend of the Red Dragon (1994)
+average rating: 3.31 in 3854 reviews  |  regressing on 1000 features
+MSE: 0.88 		 r2: 0.30 		 time: 27.26 ... (0.83 + 26.42)
+
+Movie #15543, Nature: Sharks (2004)
+average rating: 3.34 in 143 reviews  |  regressing on 143 features
+MSE: 0.79 		 r2: 0.11 		 time: 4.16 ... (0.57 + 3.60)
+
+Movie #15544, Head-On (2004)
+average rating: 3.47 in 1025 reviews  |  regressing on 1000 features
+MSE: 0.92 		 r2: 0.18 		 time: 12.51 ... (0.78 + 11.73)
+
+Movie #15545, Selena (1997)
+average rating: 3.57 in 15859 reviews  |  regressing on 1000 features
+MSE: 0.99 		 r2: 0.14 		 time: 23.89 ... (0.78 + 23.11)
+
+Movie #15546, The Real Blonde (1998)
+average rating: 2.79 in 1052 reviews  |  regressing on 1000 features
+MSE: 0.66 		 r2: 0.33 		 time: 31.02 ... (0.82 + 30.20)
+
+Movie #15547, Fortress 2 (1999)
+average rating: 2.76 in 1288 re71 		 r2: 0.42 		 time: 14.13 ... (0.70 + 13.42)
+
+Movie #14790, Motley Crue: Greatest Video Hits (2003)
+average rating: 3.58 in 215 reviews  |  regressing on 215 features
+MSE: 2.02 		 r2: 0.05 		 time: 5.71 ... (0.55 + 5.17)
+
+Movie #14791, Trailer Park Boys: Season 3 (2003)
+average rating: 4.60 in 75 reviews  |  regressing on 75 features
+MSE: 0.20 		 r2: 0.69 		 time: 1.43 ... (0.53 + 0.90)
+
+Movie #14792, CIA: Shocking Stories Behind the Headlines (2004)
+average rating: 2.46 in 118 reviews  |  regressing on 118 features
+MSE: 0.95 		 r2: -0.14 		 time: 2.94 ... (0.55 + 2.39)
+
+Movie #14793, The Comfort of Strangers (1991)
+average rating: 2.67 in 332 reviews  |  regressing on 332 features
+MSE: 1.59 		 r2: -0.22 		 time: 9.66 ... (0.63 + 9.03)
+
+Movie #14794, Fubar: The Movie (2002)
+average rating: 2.82 in 154 reviews  |  regressing on 154 features
+MSE: 1.64 		 r2: -0.07 		 time: 3.99 ... (0.56 + 3.43)
+
+Movie #14795, Celtic Pride (1996)
+average rating: 2.55 in 2423 reviews  |  regressing on 1000 features
+MSE: 0.77 		 r2: 0.24 		 time: 29.24 ... (0.84 + 28.40)
+
+Movie #14796, Avalon (1990)
+average rating: 3.44 in 5379 reviews  |  regressing on 1000 features
+MSE: 0.87 		 r2: 0.08 		 time: 27.82 ... (0.79 + 27.03)
+
+Movie #14797, The Vector File (2002)
+average rating: 2.45 in 173 reviews  |  regressing on 173 features
+MSE: 1.02 		 r2: 0.19 		 time: 4.55 ... (0.57 + 3.98)
+
+Movie #14798, Masters of Russian Animation #4 (1997)
+average rating: 2.76 in 140 reviews  |  regressing on 140 features
+MSE: 1.21 		 r2: -0.05 		 time: 3.56 ... (0.54 + 3.02)
+
+Movie #14799, Mystery Science Theater 3000: Space Mutiny (1997)
+average rating: 3.82 in 2564 reviews  |  regressing on 1000 features
+MSE: 0.95 		 r2: 0.29 		 time: 25.97 ... (0.83 + 25.15)
+
+Movie #14800, A Touch of Frost: Season 5 (1997)
+average rating: 4.13 in 255 reviews  |  regressing on 255 features
+MSE: 0.78 		 r2: 0.33 		 time: 8.06 ... (0.62 + 7.43)
+
+Movie #14801, Highlander: Season 1 (1992)
+average rating: 3.77 in 3100 reviews  |  regressing on 1000 features
+MSE: 0.85 		 r2: 0.39 		 time: 28.71 ... (0.85 + 27.86)
+
+Movie #14802, Bob Marley & the Wailers: Catch a Fire (1999)
+average rating: 3.51 in 593 reviews  |  regressing on 593 features
+MSE: 1.02 		 r2: 0.08 		 time: 17.23 ... (0.72 + 16.51)
+
+Movie #14803, Donnie McClurkin Story: From Darkness to Light (2004)
+average rating: 3.61 in 267 reviews  |  regressing on 267 features
+MSE: 1.75 		 r2: 0.28 		 time: 6.94 ... (0.60 + 6.34)
+
+Movie #14804, Brubaker (1980)
+average rating: 3.61 in 6174 reviews  |  regressing on 1000 features
+MSE: 0.69 		 r2: 0.13 		 time: 25.82 ... (0.84 + 24.98)
+
+Movie #14805, National Geographic: China's Lost Girls (2005)
+average rating: 3.75 in 361 reviews  |  regressing on 361 features
+MSE: 0.97 		 r2: 0.23 		 time: 9.30 ... (0.64 + 8.66)
+
+Movie #14806, Angel: Season 3 (2001)
+average rating: 4.32 in 7354 reviews  |  regressing on 1000 features
+MSE: 0.56 		 r2: 0.49 		 time: 25.12 ... (0.77 + 24.35)
+
+Movie #14807, Sharpe 13: Sharpe's Justice (1997)
+average rating: 3.95 in 1132 reviews  |  regressing on 1000 features
+MSE: 0.29 		 r2: 0.67 		 time: 29.20 ... (0.84 + 28.36)
+
+Movie #14808, Viva La Bam: Seasons 2 and 3 (2004)
+average rating: 3.86 in 1831 reviews  |  regressing on 1000 features
+MSE: 0.81 		 r2: 0.57 		 time: 27.29 ... (0.81 + 26.48)
+
+Movie #14809, Walk (1966)
+average rating: 3.52 in 924 reviews  |  regressing on 924 features
+MSE: 0.96 		 r2: 0.14 		 time: 28.54 ... (0.82 + 27.71)
+
+Movie #14810, Dolphins: IMAX (2000)
+average rating: 3.64 in 2248 reviews  |  regressing on 1000 features
+MSE: 0.96 		 r2: 0.11 		 time: 19.24 ... (0.84 + 18.40)
+
+Movie #14811, St. Patrick: The Irish Legend (2000)
+average rating: 2.60 in 104 reviews  |  regressing on 104 features
+MSE: 1.89 		 r2: 0.02 		 time: 2.64 ... (0.51 + 2.13)
+
+Movie #14812, Traffik (1989)
+average rating: 3.64 in 2215 reviews  |  regressing on 1000 features
+MSE: 1.08 		 r2: 0.21 		 time: 28.71 ... (0.84 + 27.87)
+
+Movie #14813, The Rapture (1991)
+average rating: 2.94 in 619 reviews  |  regressing on 619 features
+MSE: 1.18 		 r2: -0.03 		 time: 18.77 ... (0.73 + 18.05)
+
+Movie #14814, Bloodfist 7: Manhunt (1995)
+average rating: 2.40 in 126 reviews  |  regressing on 126 features
+MSE: 0.88 		 r2: 0.34 		 time: 3.49 ... (0.56 + 2.94)
+
+Movie #14815, Hang 'Em High (1968)
+average rating: 3.95 in 12078 reviews  |  regressing on 1000 features
+MSE: 0.58 		 r2: 0.35 		 time: 24.99 ... (0.86 + 24.13)
+
+Movie #14816, The Entity (1983)
+average rating: 3.44 in 1136 reviews  |  regressing on 1000 features
+MSE: 0.68 		 r2: 0.25 		 time: 30.29 ... (0.81 + 29.48)
+
+Movie #14817, My Big Fat Greek Life: The Entire Series (2003)
+average rating: 2.92 in 311 reviews  |  regressing on 311 features
+MSE: 1.29 		 r2: 0.26 		 time: 9.19 ... (0.63 + 8.56)
+
+Movie #14818, Chef!: Series 1 (1993)
+average rating: 3.74 in 266 reviews  |  regressing on 266 features
+MSE: 0.85 		 r2: 0.30 		 time: 6.89 ... (0.60 + 6.29)
+
+Movie #14819, Thomas & Friends: Best of Percy (2001)
+average rating: 2.98 in 111 reviews  |  regressing on 111 features
+MSE: 1.84 		 r2: 0.30 		 time: 3.19 ... (0.55 + 2.64)
+
+Movie #14820, Deconstructing Harry (1997)
+average rating: 3.38 in 6357 reviews  |  regressing on 1000 features
+MSE: 0.81 		 r2: 0.21 		 time: 25.97 ... (0.85 + 25.12)
+
+Movie #14821, The American Friend (1977)
+average rating: 3.18 in 767 reviews  |  regressing on 767 features
+MSE: 1.01 		 r2: 0.12 		 time: 22.12 ... (0.71 + 21.40)
+
+Movie #14822, Anastasia (1997)
+average rating: 3.62 in 16829 reviews  |  regressing on 1000 features
+MSE: 0.84 		 r2: 0.13 		 time: 23.62 ... (0.80 + 22.81)
+
+Movie #14823, Cracker: Series 3 (1994)
+average rating: 4.10 in 1136 reviews  |  regressing on 1000 features
+MSE: 0.86 		 r2: 0.33 		 time: 29.91 ... (0.85 + 29.06)
+
+Movie #14824, Battle Athletes Victory: Vol. 1: Training (1998)
+average rating: 3.31 in 427 reviews  |  regressing on 427 features
+MSE: 0.98 		 r2: 0.48 		 time: 12.38 ... (0.64 + 11.74)
+
+Movie #14825, The Man Who Would Be King (1975)
+average rating: 3.85 in 9571 reviews  |  regressing on 1000 features
+MSE: 0.86 		 r2: 0.12 		 time: 25.78 ... (0.84 + 24.94)
+
+Movie #14826, Secret Honor (1984)
+average rating: 3.32 in 207 reviews  |  regressing on 207 features
+MSE: 0.94 		 r2: 0.23 		 time: 6.22 ... (0.60 + 5.62)
+
+Movie #14827, For Love of the Game (1999)
+average rating: 3.59 in 21873 reviews  |  regressing on 1000 features
+MSE: 0.89 		 r2: 0.20 		 time: 25.65 ... (0.84 + 24.81)
+
+Movie #14828, Grand Illusion (1937)
+average rating: 4.01 in 3893 reviews  |  regressing on 1000 features
+MSE: 0.71 		 r2: 0.28 		 time: 27.85 ... (0.83 + 27.02)
+
+Movie #14829, The United States of Leland (2004)
+average rating: 3.33 in 10403 reviews  |  regressing on 1000 features
+MSE: 0.83 		 r2: 0.11 		 time: 24.30 ... (0.83 + 23.47)
+
+Movie #14830, The Circle (2000)
+average rating: 3.11 in 993 reviews  |  regressing on 993 features
+MSE: 1.00 		 r2: 0.18 		 time: 28.49 ... (0.86 + 27.63)
+
+Movie #14831, Steve Harvey: One Man (2001)
+average rating: 3.59 in 629 reviews  |  regressing on 629 features
+MSE: 1.45 		 r2: 0.16 		 time: 17.87 ... (0.73 + 17.14)
+
+Movie #14832, Under Fire (1983)
+average rating: 3.20 in 973 reviews  |  regressing on 973 features
+MSE: 0.80 		 r2: 0.12 		 time: 31.28 ... (0.86 + 30.42)
+
+Movie #14833, Puppetmaster (1993)
+average rating: 2.94 in 196 reviews  |  regressing on 196 features
+MSE: 1.73 		 r2: 0.05 		 time: 5.51 ... (0.56 + 4.95)
+
+Movie #14834, Leonard Bernstein's Young People's Concerts (1958)
+average rating: 3.57 in 104 reviews  |  regressing on 104 features
+MSE: 2.27 		 r2: -0.23 		 time: 2.36 ... (0.54 + 1.82)
+
+Movie #14835, Stephen Hawking's Universe (1997)
+average rating: 3.78 in 1193 reviews  |  regressing on 1000 features
+MSE: 1.00 		 r2: 0.11 		 time: 25.74 ... (0.77 + 24.97)
+
+Movie #14836, Care Bears: Bears Share a Scare (1988)
+average rating: 3.20 in 81 reviews  |  regressing on 81 features
+MSE: 1.19 		 r2: 0.45 		 time: 2.11 ... (0.51 + 1.61)
+
+Movie #14837, Samaritan Girl (2004)
+average rating: 2.92 in 234 reviews  |  regressing on 234 features
+MSE: 1.00 		 r2: 0.15 		 time: 6.19 ... (0.56 + 5.63)
+
+Movie #14838, Petite Princess Yucie (2004)
+average rating: 3.54 in 95ime: 26.42 ... (0.81 + 25.62)
+
+Movie #15723, Q: The Winged Serpent (1982)
+average rating: 2.70 in 492 reviews  |  regressing on 492 features
+MSE: 1.04 		 r2: 0.10 		 time: 15.26 ... (0.68 + 14.58)
+
+Movie #15724, Rio Grande (1950)
+average rating: 3.70 in 3134 reviews  |  regressing on 1000 features
+MSE: 0.49 		 r2: 0.51 		 time: 27.54 ... (0.84 + 26.70)
+
+Movie #15725, Take This Job and Shove It (1981)
+average rating: 3.09 in 139 reviews  |  regressing on 139 features
+MSE: 1.18 		 r2: 0.29 		 time: 3.89 ... (0.56 + 3.33)
+
+Movie #15726, Jane's Addiction: Three Days (1999)
+average rating: 3.08 in 244 reviews  |  regressing on 244 features
+MSE: 1.32 		 r2: -0.12 		 time: 6.74 ... (0.58 + 6.15)
+
+Movie #15727, Star Trek: Deep Space Nine: Season 7 (1998)
+average rating: 4.16 in 4534 reviews  |  regressing on 1000 features
+MSE: 0.38 		 r2: 0.66 		 time: 28.64 ... (0.80 + 27.83)
+
+Movie #15728, Dead Creatures (2000)
+average rating: 1.75 in 139 reviews  |  regressing on 139 features
+MSE: 0.81 		 r2: -0.52 		 time: 3.41 ... (0.52 + 2.89)
+
+Movie #15729, The Twilight Zone: Vol. 7 (1961)
+average rating: 4.11 in 2672 reviews  |  regressing on 1000 features
+MSE: 0.38 		 r2: 0.55 		 time: 30.01 ... (0.77 + 29.24)
+
+Movie #15730, The Peacemaker (1997)
+average rating: 3.25 in 14045 reviews  |  regressing on 1000 features
+MSE: 0.59 		 r2: 0.27 		 time: 26.03 ... (0.81 + 25.22)
+
+Movie #15731, Roxy Music: Live at the Apollo (2002)
+average rating: 3.50 in 206 reviews  |  regressing on 206 features
+MSE: 1.36 		 r2: 0.27 		 time: 5.82 ... (0.59 + 5.23)
+
+Movie #15732, Scooby-Doo! Winter Wonder Dog (2002)
+average rating: 3.86 in 1639 reviews  |  regressing on 1000 features
+MSE: 0.66 		 r2: 0.42 		 time: 27.61 ... (0.81 + 26.80)
+
+Movie #15733, Welcome to the Dollhouse (1996)
+average rating: 3.63 in 22973 reviews  |  regressing on 1000 features
+MSE: 0.81 		 r2: 0.08 		 time: 22.74 ... (0.77 + 21.97)
+
+Movie #15734, Six Ways to Sunday (1997)
+average rating: 2.79 in 319 reviews  |  regressing on 319 features
+MSE: 0.92 		 r2: 0.27 		 time: 8.58 ... (0.60 + 7.98)
+
+Movie #15735, Poirot: Murder on the Links (1995)
+average rating: 4.00 in 1794 reviews  |  regressing on 1000 features
+MSE: 0.55 		 r2: 0.53 		 time: 28.32 ... (0.84 + 27.49)
+
+Movie #15736, Raising Victor Vargas (2003)
+average rating: 3.30 in 9627 reviews  |  regressing on 1000 features
+MSE: 0.89 		 r2: 0.12 		 time: 23.49 ... (0.82 + 22.68)
+
+Movie #15737, Dario Argento Collection: Vol. 3: Tenebre (1982)
+average rating: 3.30 in 488 reviews  |  regressing on 488 features
+MSE: 0.85 		 r2: 0.40 		 time: 14.25 ... (0.65 + 13.60)
+
+Movie #15738, Silent Fall (1994)
+average rating: 3.24 in 723 reviews  |  regressing on 723 features
+MSE: 0.92 		 r2: 0.16 		 time: 21.44 ... (0.75 + 20.69)
+
+Movie #15739, I Am David (2004)
+average rating: 3.78 in 5389 reviews  |  regressing on 1000 features
+MSE: 0.75 		 r2: 0.03 		 time: 24.80 ... (0.78 + 24.02)
+
+Movie #15740, Paul Westerberg: Come Feel Me Tremble (2003)
+average rating: 3.33 in 117 reviews  |  regressing on 117 features
+MSE: 1.00 		 r2: 0.03 		 time: 2.80 ... (0.51 + 2.29)
+
+Movie #15741, Burglar (1987)
+average rating: 2.88 in 3201 reviews  |  regressing on 1000 features
+MSE: 0.99 		 r2: 0.30 		 time: 28.34 ... (0.85 + 27.49)
+
+Movie #15742, Four for Texas (1963)
+average rating: 3.05 in 551 reviews  |  regressing on 551 features
+MSE: 0.66 		 r2: 0.35 		 time: 17.20 ... (0.68 + 16.52)
+
+Movie #15743, Jefferson in Paris (1995)
+average rating: 2.79 in 678 reviews  |  regressing on 678 features
+MSE: 0.87 		 r2: -0.05 		 time: 20.28 ... (0.75 + 19.54)
+
+Movie #15744, The Indian Fighter (1955)
+average rating: 2.80 in 125 reviews  |  regressing on 125 features
+MSE: 0.79 		 r2: 0.07 		 time: 4.07 ... (0.54 + 3.53)
+
+Movie #15745, The King and I (Animated) (1999)
+average rating: 3.15 in 1071 reviews  |  regressing on 1000 features
+MSE: 0.66 		 r2: 0.48 		 time: 30.63 ... (0.82 + 29.82)
+
+Movie #15746, Vandread: Second Stage (2001)
+average rating: 4.06 in 630 reviews  |  regressing on 630 features
+MSE: 0.96 		 r2: 0.48 		 time: 17.79 ... (0.72 + 17.07)
+
+Movie #15747, Mr. Death: The Rise and Fall of Fred A. Leuchter Jr. (1999)
+average rating: 3.48 in 2630 reviews  |  regressing on 1000 features
+MSE: 0.93 		 r2: 0.26 		 time: 24.79 ... (0.85 + 23.95)
+
+Movie #15748, Bulworth (1998)
+average rating: 3.12 in 13541 reviews  |  regressing on 1000 features
+MSE: 0.71 		 r2: 0.12 		 time: 26.66 ... (0.85 + 25.81)
+
+Movie #15749, Slumber Party Massacre (1982)
+average rating: 2.86 in 920 reviews  |  regressing on 920 features
+MSE: 1.01 		 r2: 0.29 		 time: 28.25 ... (0.80 + 27.46)
+
+Movie #15750, FahrenHYPE 9/11 (2004)
+average rating: 3.39 in 3602 reviews  |  regressing on 1000 features
+MSE: 1.74 		 r2: 0.18 		 time: 25.66 ... (0.81 + 24.85)
+
+Movie #15751, Style Wars (1983)
+average rating: 3.87 in 825 reviews  |  regressing on 825 features
+MSE: 0.99 		 r2: 0.15 		 time: 22.71 ... (0.73 + 21.99)
+
+Movie #15752, Tom Green: Subway Monkey Hour (2002)
+average rating: 3.08 in 615 reviews  |  regressing on 615 features
+MSE: 1.48 		 r2: 0.29 		 time: 17.65 ... (0.69 + 16.96)
+
+Movie #15753, Annie Get Your Gun (1950)
+average rating: 3.29 in 4498 reviews  |  regressing on 1000 features
+MSE: 0.71 		 r2: 0.31 		 time: 26.25 ... (0.86 + 25.39)
+
+g on 1000 features
+MSE: 1.09 		 r2: 0.32 		 time: 29.85 ... (0.84 + 29.00)
+
+Movie #14259, Breaking the Waves (1996)
+average rating: 3.62 in 5124 reviews  |  regressing on 1000 features
+MSE: 1.19 		 r2: 0.19 		 time: 23.28 ... (0.84 + 22.44)
+
+Movie #14260, Invisible Mom (1995)
+average rating: 2.71 in 176 reviews  |  regressing on 176 features
+MSE: 0.98 		 r2: 0.16 		 time: 4.89 ... (0.58 + 4.31)
+
+Movie #14261, Bjork: Volumen (1999)
+average rating: 3.92 in 1214 reviews  |  regressing on 1000 features
+MSE: 0.95 		 r2: 0.30 		 time: 27.33 ... (0.82 + 26.50)
+
+Movie #14262, Gunga Din (1939)
+average rating: 3.82 in 1769 reviews  |  regressing on 1000 features
+MSE: 0.77 		 r2: 0.15 		 time: 28.74 ... (0.84 + 27.89)
+
+Movie #14263, Cotton Comes to Harlem (1970)
+average rating: 3.33 in 723 reviews  |  regressing on 723 features
+MSE: 1.29 		 r2: 0.19 		 time: 21.38 ... (0.70 + 20.68)
+
+Movie #14264, Spring (2004)
+average rating: 3.77 in 5659 reviews  |  regressing on 1000 features
+MSE: 0.91 		 r2: 0.06 		 time: 25.69 ... (0.82 + 24.87)
+
+Movie #14265, The Crush (1993)
+average rating: 3.09 in 9311 reviews  |  regressing on 1000 features
+MSE: 0.82 		 r2: 0.30 		 time: 27.52 ... (0.83 + 26.69)
+
+Movie #14266, Cutey Honey (2000)
+average rating: 3.16 in 552 reviews  |  regressing on 552 features
+MSE: 1.23 		 r2: 0.24 		 time: 15.15 ... (0.68 + 14.47)
+
+Movie #14267, There's Something About McConkey (2000)
+average rating: 3.24 in 126 reviews  |  regressing on 126 features
+MSE: 2.41 		 r2: -0.15 		 time: 3.03 ... (0.55 + 2.49)
+
+Movie #14268, Coming Through (1985)
+average rating: 2.82 in 115 reviews  |  regressing on 115 features
+MSE: 1.14 		 r2: -0.13 		 time: 3.07 ... (0.55 + 2.52)
+
+Movie #14269, The Gambler (1974)
+average rating: 2.98 in 632 reviews  |  regressing on 632 features
+MSE: 0.93 		 r2: -0.05 		 time: 19.52 ... (0.71 + 18.80)
+
+Movie #14270, The Four Noble Truths (2000)
+average rating: 3.26 in 233 reviews  |  regressing on 233 features
+MSE: 1.36 		 r2: -0.03 		 time: 6.04 ... (0.59 + 5.45)
+
+Movie #14271, Km. 0 (Kilometer Zero) (2001)
+average rating: 3.59 in 2504 reviews  |  regressing on 1000 features
+MSE: 0.96 		 r2: 0.13 		 time: 25.60 ... (0.81 + 24.79)
+
+Movie #14272, The Dukes of Hazzard: Season 2 (1979)
+average rating: 3.80 in 1758 reviews  |  regressing on 1000 features
+MSE: 0.79 		 r2: 0.49 		 time: 14.75 ... (0.84 + 13.91)
+
+Movie #14273, Marianne Williamson: Everyday Grace (2004)
+average rating: 3.23 in 131 reviews  |  regressing on 131 features
+MSE: 1.10 		 r2: 0.31 		 time: 3.21 ... (0.55 + 2.65)
+
+Movie #14274, I Heart Huckabees (2004)
+average rating: 3.03 in 49038 reviews  |  regressing on 1000 features
+MSE: 1.22 		 r2: 0.21 		 time: 21.26 ... (0.83 + 20.43)
+
+Movie #14275, Elvis Presley: Great Performances: Vol. 1: Center Stage (1990)
+average rating: 3.34 in 149 reviews  |  regressing on 149 features
+MSE: 1.62 		 r2: 0.08 		 time: 3.81 ... (0.56 + 3.26)
+
+Movie #14276, Our Lips Are Sealed (2000)
+average rating: 3.35 in 1853 reviews  |  regressing on 1000 features
+MSE: 0.94 		 r2: 0.46 		 time: 28.43 ... (0.84 + 27.59)
+
+Movie #14277, The Piano Teacher (2002)
+average rating: 3.03 in 4924 reviews  |  regressing on 1000 features
+MSE: 1.28 		 r2: 0.13 		 time: 26.03 ... (0.77 + 25.25)
+
+Movie #14278, Dark Passage (1947)
+average rating: 3.80 in 2620 reviews  |  regressing on 1000 features
+MSE: 0.56 		 r2: 0.14 		 time: 29.31 ... (0.84 + 28.47)
+
+Movie #14279, Witness to a Kill (2004)
+average rating: 2.24 in 185 reviews  |  regressing on 185 features
+MSE: 0.91 		 r2: 0.15 		 time: 4.64 ... (0.55 + 4.09)
+
+Movie #14280, Butch Cassidy and the Sundance Kid (1969)
+average rating: 4.12 in 45963 reviews  |  regressing on 1000 features
+MSE: 0.70 		 r2: 0.07 		 time: 22.84 ... (0.81 + 22.02)
+
+Movie #14281, A Night to Remember (1958)
+average rating: 3.68 in 1159 reviews  |  regressing on 1000 features
+MSE: 0.71 		 r2: 0.23 		 time: 30.23 ... (0.81 + 29.42)
+
+Movie #14282, McMillan and Wife: Season 1 (1971)
+average rating: 3.02 in 125 reviews  |  regressing on 125 features
+MSE: 1.13 		 r2: 0.10 		 time: 3.53 ... (0.56 + 2.97)
+
+Movie #14283, The Best of Friends: Vol. 3 (1994)
+average rating: 4.31 in 10379 reviews  |  regressing on 1000 features
+MSE: 0.65 		 r2: 0.38 		 time: 20.95 ... (0.82 + 20.13)
+
+Movie #14284, Lightning Jack (1994)
+average rating: 2.80 in 2420 reviews  |  regressing on 1000 features
+MSE: 0.81 		 r2: 0.36 		 time: 27.80 ... (0.78 + 27.02)
+
+Movie #14285, Until September (1984)
+average rating: 2.94 in 154 reviews  |  regressing on 154 features
+MSE: 1.51 		 r2: -0.35 		 time: 4.29 ... (0.56 + 3.73)
+
+Movie #14286, Hanzo the Razor: Who's Got the Gold? (1974)
+average rating: 3.32 in 98 reviews  |  regressing on 98 features
+MSE: 0.69 		 r2: 0.61 		 time: 2.61 ... (0.55 + 2.06)
+
+Movie #14287, Hidden Agenda (2001)
+average rating: 2.52 in 200 reviews  |  regressing on 200 features
+MSE: 0.91 		 r2: 0.17 		 time: 5.56 ... (0.58 + 4.98)
+
+Movie #14288, Midsomer Murders: Death's Shadow (1999)
+average rating: 3.93 in 1135 reviews  |  regressing on 1000 features
+MSE: 0.49 		 r2: 0.47 		 time: 27.51 ... (0.82 + 26.69)
+
+Movie #14289, To Hell and Back (1955)
+average rating: 3.89 in 1935 reviews  |  regressing on 1000 features
+MSE: 0.63 		 r2: 0.21 		 time: 30.39 ... (0.84 + 29.54)
+
+Movie #14290, Sesame Street: Elmo's World: Birthdays (2001)
+average rating: 3.05 in 103 reviews  |  regressing on 103 features
+MSE: 1.15 		 r2: 0.34 		 time: 2.86 ... (0.54 + 2.32)
+
+Movie #14291, Judwaa (1997)
+average rating: 2.77 in 113 reviews  |  regressing on 113 features
+MSE: 1.66 		 r2: 0.16 		 time: 2.89 ... (0.55 + 2.34)
+
+Movie #14292, Earth vs. The Spider (2001)
+average rating: 2.43 in 241 reviews  |  regressing on 241 features
+MSE: 0.69 		 r2: 0.15 		 time: 7.53 ... (0.59 + 6.93)
+
+Movie #14293, Alphaville (1965)
+average rating: 3.31 in 2431 reviews  |  regressing on 1000 features
+MSE: 1.07 		 r2: 0.29 		 time: 27.35 ... (0.82 + 26.53)
+
+Movie #14294, The Complete Daimajin (1966)
+average rating: 3.08 in 148 reviews  |  regressing on 148 features
+MSE: 1.15 		 r2: 0.19 		 time: 3.76 ... (0.53 + 3.24)
+
+Movie #14295, Andy Warhol (1987)
+average rating: 3.15 in 224 reviews  |  regressing on 224 features
+MSE: 0.98 		 r2: 0.22 		 time: 5.68 ... (0.55 + 5.14)
+
+Movie #14296, The Thomas Crown Affair (1999)
+average rating: 3.79 in 42885 reviews  |  regressing on 1000 features
+MSE: 0.76 		 r2: 0.16 		 time: 22.64 ... (0.79 + 21.85)
+
+Movie #14297, Murphy's Law (1986)
+average rating: 3.37 in 647 reviews  |  regressing on 647 features
+MSE: 0.70 		 r2: 0.34 		 time: 20.75 ... (0.73 + 20.02)
+
+Movie #14298, Kinsey: American Experience (2004)
+average rating: 4.05 in 1510 reviews  |  regressing on 1000 features
+MSE: 0.55 		 r2: 0.23 		 time: 27.72 ... (0.81 + 26.91)
+
+Movie #14299, Hum Tum (2004)
+average rating: 4.07 in 209 reviews  |  regressing on 209 features
+MSE: 0.79 		 r2: 0.16 		 time: 4.54 ... (0.55 + 3.98)
+
+Movie #14300, City of Joy (1992)
+average rating: 3.38 in 859 reviews  |  regressing on 859 features
+MSE: 1.00 		 r2: 0.17 		 time: 24.93 ... (0.76 + 24.17)
+
+Movie #14301, Sunday Bloody Sunday (1971)
+average rating: 3.27 in 888 reviews  |  regressing on 888 features
+MSE: 1.18 		 r2: -0.03 		 time: 25.10 ... (0.73 + 24.37)
+
+Movie #14302, The Sopranos: Season 2 (2000)
+average rating: 4.46 in 40581 reviews  |  regressing on 1000 features
+MSE: 0.56 		 r2: 0.17 		 time: 21.38 ... (0.85 + 20.53)
+
+Movie #14303, North to Alaska (1960)
+average rating: 3.71 in 3966 reviews  |  regressing on 1000 features
+MSE: 0.63 		 r2: 0.38 		 time: 26.94 ... (0.77 + 26.18)
+
+Movie #14304, A Brief Vacation (1973)
+average rating: 3.40 in 187 reviews  |  regressing on 187 features
+MSE: 0.56 		 r2: 0.01 		 time: 4.31 ... (0.56 + 3.76)
+
+Movie #14305, Wild Orchid 2 (1992)
+average rating: 2.69 in 118 reviews  |  regressing on 118 features
+MSE: 1.14 		 r2: -0.06 		 time: 2.80 ... (0.52 + 2.28)
+
+Movie #14306, Big Doll House (1971)
+average rating: 2.52 in 359 reviews  |  regressing on 359 features
+MSE: 0.94 		 r2: 0.23 		 time: 10.22 ... (0.61 + 9.61)
+
+Movie #14307, Felicity: Season 4 (2001)
+average rating: 4.07 in 2461 reviews  |  regressing on 1000 features
+MSE: 0.67 		 r2: 0.47 		 time: 26.78 ... (0.86 + 25.91)
+
+Movi1000 features
+MSE: 0.87 		 r2: 0.18 		 time: 22.41 ... (0.86 + 21.55)
+
+Movie #15854, Skinned Deep (2004)
+average rating: 1.80 in 186 reviews  |  regressing on 186 features
+MSE: 1.05 		 r2: -0.09 		 time: 5.19 ... (0.55 + 4.64)
+
+Movie #15855, Cadet Kelly (2002)
+average rating: 3.55 in 2784 reviews  |  regressing on 1000 features
+MSE: 0.75 		 r2: 0.22 		 time: 24.49 ... (0.84 + 23.65)
+
+Movie #15856, All the King's Men (1949)
+average rating: 3.55 in 3237 reviews  |  regressing on 1000 features
+MSE: 0.55 		 r2: 0.19 		 time: 29.37 ... (0.86 + 28.51)
+
+Movie #15857, Fat Albert and the Cosby Kids (1972)
+average rating: 3.79 in 820 reviews  |  regressing on 820 features
+MSE: 0.76 		 r2: 0.32 		 time: 19.15 ... (0.80 + 18.35)
+
+Movie #15858, A Man for All Seasons (1966)
+average rating: 3.97 in 10059 reviews  |  regressing on 1000 features
+MSE: 0.68 		 r2: -0.05 		 time: 23.32 ... (0.80 + 22.53)
+
+Movie #15859, Arthur 2: On the Rocks (1988)
+average rating: 2.40 in 659 reviews  |  regressing on 659 features
+MSE: 0.74 		 r2: 0.42 		 time: 20.76 ... (0.73 + 20.03)
+
+Movie #15860, Chandni Bar (2001)
+average rating: 3.20 in 215 reviews  |  regressing on 215 features
+MSE: 1.42 		 r2: -0.02 		 time: 5.54 ... (0.60 + 4.94)
+
+Movie #15861, CSI: Season 2 (2001)
+average rating: 4.45 in 13812 reviews  |  regressing on 1000 features
+MSE: 0.61 		 r2: 0.31 		 time: 23.27 ... (0.83 + 22.43)
+
+Movie #15862, A Star Is Born (1954)
+average rating: 3.35 in 5990 reviews  |  regressing on 1000 features
+MSE: 0.75 		 r2: 0.36 		 time: 28.43 ... (0.86 + 27.57)
+
+Movie #15863, Lee Ritenour & Friends: Live from the Coconut Grove: Vols. 1 & 2 (1980)
+average rating: 3.05 in 113 reviews  |  regressing on 113 features
+MSE: 1.70 		 r2: 0.11 		 time: 3.22 ... (0.54 + 2.68)
+
+Movie #15864, A Matter of Taste (2000)
+average rating: 2.94 in 817 reviews  |  regressing on 817 features
+MSE: 1.11 		 r2: -0.19 		 time: 23.84 ... (0.79 + 23.05)
+
+Movie #15865, Amelie: Bonus Material (2001)
+average rating: 3.79 in 568 reviews  |  regressing on 568 features
+MSE: 1.24 		 r2: 0.22 		 time: 15.03 ... (0.72 + 14.31)
+
+Movie #15866, Iris Blond (1999)
+average rating: 2.90 in 143 reviews  |  regressing on 143 features
+MSE: 1.01 		 r2: -0.19 		 time: 3.63 ... (0.55 + 3.08)
+
+Movie #15867, Dracula II: Ascension (2003)
+average rating: 2.89 in 3019 reviews  |  regressing on 1000 features
+MSE: 0.86 		 r2: 0.20 		 time: 27.73 ... (0.83 + 26.91)
+
+Movie #15868, The Awful Truth (1937)
+average rating: 3.67 in 3043 reviews  |  regressing on 1000 features
+MSE: 0.74 		 r2: 0.13 		 time: 27.43 ... (0.82 + 26.61)
+
+Movie #15869, Broadway Melody of 1940 (1940)
+average rating: 3.63 in 682 reviews  |  regressing on 682 features
+MSE: 0.87 		 r2: 0.11 		 time: 20.10 ... (0.75 + 19.35)
+
+Movie #15870, Anna Karenina (1967)
+average rating: 2.98 in 173 reviews  |  regressing on 173 features
+MSE: 0.84 		 r2: 0.03 		 time: 4.68 ... (0.58 + 4.10)
+
+Movie #15871, Herbie: Fully Loaded (2005)
+average rating: 3.75 in 5866 reviews  |  regressing on 1000 features
+MSE: 0.95 		 r2: 0.16 		 time: 23.38 ... (0.84 + 22.54)
+
+Movie #15872, Sanford and Son: Season 2 (1972)
+average rating: 3.76 in 1589 reviews  |  regressing on 1000 features
+MSE: 0.55 		 r2: 0.58 		 time: 29.05 ... (0.87 + 28.18)
+
+Movie #15873, Mickey and the Beanstalk (2005)
+average rating: 3.78 in 678 reviews  |  regressing on 678 features
+MSE: 0.84 		 r2: 0.25 		 time: 20.06 ... (0.71 + 19.35)
+
+Movie #15874, Joyride (1996)
+average rating: 3.53 in 1168 reviews  |  regressing on 1000 features
+MSE: 0.76 		 r2: 0.44 		 time: 30.02 ... (0.84 + 29.18)
+
+Movie #15875, Up Close & Personal (1996)
+average rating: 3.43 in 11495 reviews  |  regressing on 1000 features
+MSE: 0.74 		 r2: 0.27 		 time: 23.55 ... (0.82 + 22.74)
+
+Movie #15876, Cheech & Chong's Next Movie (1980)
+average rating: 3.75 in 5725 reviews  |  regressing on 1000 features
+MSE: 0.71 		 r2: 0.45 		 time: 27.65 ... (0.79 + 26.86)
+
+Movie #15877, Embrace the Darkness 3 (2002)
+average rating: 2.78 in 356 reviews  |  regressing on 356 features
+MSE: 1.10 		 r2: 0.24 		 time: 10.42 ... (0.64 + 9.78)
+
+Movie #15878, The Rifleman: TV Classic (1958)
+average rating: 2.91 in 114 reviews  |  regressing on 114 features
+MSE: 1.17 		 r2: 0.10 		 time: 3.83 ... (0.55 + 3.28)
+
+Movie #15879, Joni Mitchell: Painting with Words and Music (1998)
+average rating: 3.23 in 275 reviews  |  regressing on 275 features
+MSE: 1.51 		 r2: -0.02 		 time: 7.67 ... (0.58 + 7.08)
+
+Movie #15880, Traffic: Bonus Material (2000)
+average rating: 3.30 in 310 reviews  |  regressing on 310 features
+MSE: 0.78 		 r2: 0.36 		 time: 10.06 ... (0.58 + 9.48)
+
+Movie #15881, When It Was a Game 3 (2000)
+average rating: 3.61 in 623 reviews  |  regressing on 623 features
+MSE: 0.85 		 r2: 0.43 		 time: 18.58 ... (0.73 + 17.86)
+
+Movie #15882, I'll Be Seeing You (2004)
+average rating: 2.42 in 118 reviews  |  regressing on 118 features
+MSE: 1.08 		 r2: -0.13 		 time: 2.94 ... (0.56 + 2.39)
+
+Movie #15883, National Geographic: Tigers of the Snow (1997)
+average rating: 3.64 in 566 reviews  |  regressing on 566 features
+MSE: 1.02 		 r2: 0.02 		 time: 15.90 ... (0.70 + 15.20)
+
+Movie #15884, The Gay Deceivers (1969)
+average rating: 2.71 in 194 reviews  |  regressing on 194 features
+MSE: 1.49 		 r2: -0.13 		 time: 5.29 ... (0.57 + 4.72)
+
+Movie #15885, Alien Nation (1988)
+average rating: 3.52 in 5146 reviews  |  regressing on 1000 features
+MSE: 0.68 		 r2: 0.17 		 time: 28.73 ... (0.82 + 27.91)
+
+Movie #15886, Space Station: IMAX (2002)
+average rating: 3.48 in 1567 reviews  |  regressing on 1000 features
+MSE: 0.88 		 r2: 0.19 		 time: 25.88 ... (0.77 + 25.11)
+
+Movie #15887, Van Helsing (2004)
+average rating: 3.27 in 99686 reviews  |  regressing on 1000 features
+MSE: 1.24 		 r2: 0.09 		 time: 20.79 ... (0.84 + 19.95)
+
+Movie #15888, Comic Book Villains (2002)
+average rating: 2.65 in 1970 reviews  |  regressing on 1000 features
+MSE: 0.87 		 r2: 0.22 		 time: 29.76 ... (0.85 + 28.91)
+
+Movie #15889, I'm Going Home (2001)
+average rating: 2.48 in 247 reviews  |  regressing on 247 features
+MSE: 1.10 		 r2: 0.22 		 time: 6.56 ... (0.55 + 6.01)
+
+Movie #15890, The Brave Little Toaster (1987)
+average rating: 3.60 in 2642 reviews  |  regressing on 1000 features
+MSE: 0.89 		 r2: 0.18 		 time: 28.86 ... (0.80 + 28.06)
+
+Movie #15891, Inspector Morse 5: Last Seen Wearing (1988)
+average rating: 3.87 in 1409 reviews  |  regressing on 1000 features
+MSE: 0.80 		 r2: 0.33 		 time: 29.67 ... (0.84 + 28.82)
+
+Movie #15892, Everwood: Season 1 (2002)
+average rating: 3.95 in 1746 reviews  |  regressing on 1000 features
+MSE: 0.86 		 r2: 0.21 		 time: 28.27 ... (0.81 + 27.45)
+
+Movie #15893, Heavy Metal (1981)
+average rating: 3.48 in 9112 reviews  |  regressing on 1000 features
+MSE: 1.00 		 r2: 0.20 		 time: 24.49 ... (0.78 + 23.71)
+
+Movie #15894, The Siege (1998)
+average rating: 3.50 in 20160 reviews  |  regressing on 1000 features
+MSE: 0.66 		 r2: 0.25 		 time: 24.26 ... (0.79 + 23.47)
+
+Movie #15895, When Beckham Met Owen (2004)
+average rating: 1.87 in 108 reviews  |  regressing on 108 features
+MSE: 0.79 		 r2: 0.35 		 time: 2.86 ... (0.58 + 2.28)
+
+Movie #15896, Chaplin Mutuals: Vol. 3 (1916)
+average rating: 3.40 in 288 reviews  |  regressing on 288 features
+MSE: 0.68 		 r2: 0.50 		 time: 8.76 ... (0.63 + 8.13)
+
+Movie #15897, The Thin Blue Line: The Complete Lineup (1995)
+average rating: 3.74 in 871 reviews  |  regressing on 871 features
+MSE: 1.27 		 r2: 0.06 		 time: 4.78 ... (0.74 + 4.04)
+
+Movie #15898, I Am Trying to Break Your Heart: A Film About Wilco (2002)
+average rating: 3.67 in 4018 reviews  |  regressing on 1000 features
+MSE: 0.92 		 r2: 0.11 		 time: 21.62 ... (0.77 + 20.85)
+
+Movie #15899, Quitting (2001)
+average rating: 2.78 in 220 reviews  |  regressing on 220 features
+MSE: 1.50 		 r2: 0.07 		 time: 5.15 ... (0.56 + 4.59)
+
+Movie #15900, Everybody Loves Raymond: The Series Finale (2005)
+average rating: 3.95 in 1342 reviews  |  regressing on 1000 features
+MSE: 0.59 		 r2: 0.59 		 time: 27.50 ... (0.80 + 26.70)
+
+Movie #15901, Blind Date (1987)
+average rating: 3.04 in 5763 reviews  |  regressing on 1000 features
+MSE: 0.67 		 r2: 0.32 		 time: 27.65 ... (0.83 + 26.82)
+
+Movie #15902, Blue Collar Comedy Tour: The Movie (6.10)
+
+Movie #14660, The Waterboy (1998)
+average rating: 3.38 in 98765 reviews  |  regressing on 1000 features
+MSE: 0.92 		 r2: 0.31 		 time: 21.18 ... (0.80 + 20.38)
+
+Movie #14661, Samurai Jack: Season 1 (2001)
+average rating: 4.01 in 2522 reviews  |  regressing on 1000 features
+MSE: 0.85 		 r2: 0.24 		 time: 27.85 ... (0.84 + 27.01)
+
+Movie #14662, Suspended Animation (2001)
+average rating: 2.78 in 193 reviews  |  regressing on 193 features
+MSE: 0.94 		 r2: 0.06 		 time: 5.17 ... (0.58 + 4.59)
+
+Movie #14663, Three Fugitives (1989)
+average rating: 3.19 in 4458 reviews  |  regressing on 1000 features
+MSE: 0.63 		 r2: 0.35 		 time: 27.04 ... (0.86 + 26.18)
+
+Movie #14664, Labyrinth (1986)
+average rating: 3.85 in 31853 reviews  |  regressing on 1000 features
+MSE: 0.86 		 r2: 0.18 		 time: 22.91 ... (0.80 + 22.11)
+
+Movie #14665, Benny Hill: Complete and Unadulterated: The Naughty Early Years: Set 3 (1969)
+average rating: 2.97 in 102 reviews  |  regressing on 102 features
+MSE: 0.95 		 r2: 0.20 		 time: 3.61 ... (0.54 + 3.08)
+
+Movie #14666, The Wrong Man (1956)
+average rating: 3.63 in 975 reviews  |  regressing on 975 features
+MSE: 0.67 		 r2: 0.16 		 time: 28.26 ... (0.85 + 27.41)
+
+Movie #14667, Field of Dreams (1989)
+average rating: 3.81 in 64742 reviews  |  regressing on 1000 features
+MSE: 0.63 		 r2: 0.09 		 time: 22.04 ... (0.83 + 21.21)
+
+Movie #14668, The Feast of All Saints (2001)
+average rating: 3.43 in 720 reviews  |  regressing on 720 features
+MSE: 1.20 		 r2: 0.14 		 time: 20.76 ... (0.75 + 20.01)
+
+Movie #14669, Harry and Tonto (1974)
+average rating: 3.51 in 258 reviews  |  regressing on 258 features
+MSE: 0.98 		 r2: 0.02 		 time: 8.19 ... (0.61 + 7.58)
+
+Movie #14670, Batman (1989)
+average rating: 3.71 in 76601 reviews  |  regressing on 1000 features
+MSE: 0.64 		 r2: 0.17 		 time: 21.33 ... (0.84 + 20.49)
+
+Movie #14671, Downfall (2004)
+average rating: 3.94 in 9695 reviews  |  regressing on 1000 features
+MSE: 1.00 		 r2: 0.03 		 time: 24.22 ... (0.82 + 23.41)
+
+Movie #14672, Grizzly (1976)
+average rating: 2.65 in 218 reviews  |  regressing on 218 features
+MSE: 1.15 		 r2: 0.17 		 time: 6.12 ... (0.58 + 5.54)
+
+Movie #14673, Skipped Parts (2000)
+average rating: 3.05 in 1271 reviews  |  regressing on 1000 features
+MSE: 0.91 		 r2: 0.31 		 time: 28.33 ... (0.82 + 27.51)
+
+Movie #14674, Sonic Impact (2000)
+average rating: 2.61 in 200 reviews  |  regressing on 200 features
+MSE: 1.13 		 r2: -0.02 		 time: 5.42 ... (0.57 + 4.85)
+
+Movie #14675, Murder (2004)
+average rating: 2.87 in 223 reviews  |  regressing on 223 features
+MSE: 1.21 		 r2: -0.08 		 time: 5.14 ... (0.54 + 4.59)
+
+Movie #14676, Tere Naam: The Movie (2003)
+average rating: 2.84 in 216 reviews  |  regressing on 216 features
+MSE: 1.40 		 r2: 0.10 		 time: 5.25 ... (0.55 + 4.70)
+
+Movie #14677, I'll Take Manhattan (1987)
+average rating: 3.05 in 128 reviews  |  regressing on 128 features
+MSE: 0.79 		 r2: 0.28 		 time: 3.50 ... (0.55 + 2.95)
+
+Movie #14678, Inspector Alleyn Mysteries: Set 1 (1990)
+average rating: 3.57 in 298 reviews  |  regressing on 298 features
+MSE: 0.70 		 r2: 0.35 		 time: 7.69 ... (0.57 + 7.12)
+
+Movie #14679, Donna Summer: Live and More Encore (1999)
+average rating: 3.51 in 195 reviews  |  regressing on 195 features
+MSE: 0.91 		 r2: 0.22 		 time: 5.24 ... (0.53 + 4.70)
+
+Movie #14680, Zameen (2003)
+average rating: 2.68 in 122 reviews  |  regressing on 122 features
+MSE: 0.80 		 r2: 0.18 		 time: 2.88 ... (0.53 + 2.35)
+
+Movie #14681, Paris Is Burning (1990)
+average rating: 3.56 in 408 reviews  |  regressing on 408 features
+MSE: 1.19 		 r2: 0.17 		 time: 10.69 ... (0.59 + 10.10)
+
+Movie #14682, Eternal Evil of Asia (1995)
+average rating: 2.42 in 167 reviews  |  regressing on 167 features
+MSE: 1.54 		 r2: -0.14 		 time: 4.54 ... (0.53 + 4.01)
+
+Movie #14683, Elaine Stritch: At Liberty (2002)
+average rating: 3.78 in 486 reviews  |  regressing on 486 features
+MSE: 1.15 		 r2: 0.30 		 time: 13.35 ... (0.64 + 12.71)
+
+Movie #14684, Chick Corea & Friends: Live (1997)
+average rating: 3.13 in 151 reviews  |  regressing on 151 features
+MSE: 0.97 		 r2: 0.21 		 time: 3.78 ... (0.56 + 3.23)
+
+Movie #14685, Irma La Douce (1963)
+average rating: 3.62 in 2317 reviews  |  regressing on 1000 features
+MSE: 0.64 		 r2: 0.14 		 time: 27.50 ... (0.76 + 26.74)
+
+Movie #14686, The White Pony (1999)
+average rating: 3.02 in 475 reviews  |  regressing on 475 features
+MSE: 1.29 		 r2: 0.12 		 time: 12.42 ... (0.66 + 11.76)
+
+Movie #14687, Chaplin's Essanay Comedies: Vol. 2 (1915)
+average rating: 3.27 in 200 reviews  |  regressing on 200 features
+MSE: 0.97 		 r2: 0.41 		 time: 6.30 ... (0.55 + 5.75)
+
+Movie #14688, David and Lisa (1962)
+average rating: 3.18 in 353 reviews  |  regressing on 353 features
+MSE: 0.98 		 r2: 0.23 		 time: 9.93 ... (0.61 + 9.32)
+
+Movie #14689, Son of Paleface (1952)
+average rating: 3.64 in 823 reviews  |  regressing on 823 features
+MSE: 0.85 		 r2: 0.36 		 time: 25.49 ... (0.76 + 24.74)
+
+Movie #14690, Fast Sofa (2001)
+average rating: 2.26 in 296 reviews  |  regressing on 296 features
+MSE: 1.19 		 r2: 0.03 		 time: 7.69 ... (0.59 + 7.10)
+
+Movie #14691, The Matrix (1999)
+average rating: 4.23 in 140763 reviews  |  regressing on 1000 features
+MSE: 0.74 		 r2: -0.02 		 time: 20.32 ... (0.79 + 19.53)
+
+223 features
+MSE: 1.82 		 r2: -0.25 		 time: 6.59 ... (0.60 + 5.99)
+
+Movie #15191, Figure 17 (2003)
+average rating: 3.69 in 199 reviews  |  regressing on 199 features
+MSE: 1.25 		 r2: 0.28 		 time: 5.68 ... (0.59 + 5.09)
+
+Movie #15192, Nature: Reptiles: Snakes and Lizards (1982)
+average rating: 3.32 in 166 reviews  |  regressing on 166 features
+MSE: 0.58 		 r2: 0.60 		 time: 4.20 ... (0.56 + 3.64)
+
+Movie #15193, Steamboat Bill (1928)
+average rating: 3.71 in 1618 reviews  |  regressing on 1000 features
+MSE: 0.70 		 r2: 0.51 		 time: 27.38 ... (0.78 + 26.60)
+
+Movie #15194, Killer Bud (2001)
+average rating: 2.27 in 135 reviews  |  regressing on 135 features
+MSE: 1.33 		 r2: 0.14 		 time: 3.47 ... (0.57 + 2.90)
+
+Movie #15195, Dragon Ball Z: Great Saiyaman: Gohan's Secret (1999)
+average rating: 3.90 in 463 reviews  |  regressing on 463 features
+MSE: 0.71 		 r2: 0.64 		 time: 13.81 ... (0.70 + 13.12)
+
+Movie #15196, The Pennsylvania Miners' Story (2002)
+average rating: 3.08 in 219 reviews  |  regressing on 219 features
+MSE: 1.47 		 r2: -0.07 		 time: 6.43 ... (0.58 + 5.85)
+
+Movie #15197, Danielle Steel's Once in a Lifetime (1994)
+average rating: 3.64 in 36 reviews  |  regressing on 36 features
+MSE: 2.93 		 r2: -1.15 		 time: 1.11 ... (0.55 + 0.57)
+
+Movie #15198, Why Dogs Smile and Chimpanzees Cry (1999)
+average rating: 3.76 in 1379 reviews  |  regressing on 1000 features
+MSE: 1.17 		 r2: 0.06 		 time: 26.23 ... (0.86 + 25.37)
+
+Movie #15199, Wild Side (2004)
+average rating: 2.13 in 63 reviews  |  regressing on 63 features
+MSE: 1.28 		 r2: 0.11 		 time: 1.84 ... (0.53 + 1.31)
+
+Movie #15200, The Quick and the Dead (1995)
+average rating: 3.16 in 9491 reviews  |  regressing on 1000 features
+MSE: 0.70 		 r2: 0.15 		 time: 26.44 ... (0.85 + 25.59)
+
+Movie #15201, The Atomic Cafe (1982)
+average rating: 3.66 in 1267 reviews  |  regressing on 1000 features
+MSE: 0.91 		 r2: 0.20 		 time: 29.45 ... (0.86 + 28.59)
+
+Movie #15202, Kill! (1969)
+average rating: 3.28 in 50 reviews  |  regressing on 50 features
+MSE: 1.21 		 r2: 0.41 		 time: 1.52 ... (0.51 + 1.01)
+
+Movie #15203, Point of Origin (2002)
+average rating: 2.81 in 616 reviews  |  regressing on 616 features
+MSE: 0.82 		 r2: 0.06 		 time: 18.22 ... (0.68 + 17.54)
+
+Movie #15204, North Shore (1987)
+average rating: 3.43 in 976 reviews  |  regressing on 976 features
+MSE: 1.06 		 r2: 0.15 		 time: 14.90 ... (0.90 + 14.01)
+
+Movie #15205, The Day After Tomorrow (2004)
+average rating: 3.44 in 196397 reviews  |  regressing on 1000 features
+MSE: 1.05 		 r2: 0.17 		 time: 10.27 ... (0.85 + 9.42)
+
+Movie #15206, Outlaw Star: Vol. 3 (2000)
+average rating: 4.17 in 1933 reviews  |  regressing on 1000 features
+MSE: 0.41 		 r2: 0.53 		 time: 27.04 ... (0.85 + 26.19)
+
+Movie #15207, Sidney Poitier: One Bright Light (1999)
+average rating: 3.67 in 217 reviews  |  regressing on 217 features
+MSE: 1.22 		 r2: -0.05 		 time: 6.50 ... (0.61 + 5.88)
+
+Movie #15208, Chop Socky: Cinema Hong Kong (2004)
+average rating: 3.01 in 111 reviews  |  regressing on 111 features
+MSE: 1.00 		 r2: -0.03 		 time: 2.86 ... (0.53 + 2.34)
+
+Movie #15209, Dazed and Confused (1993)
+average rating: 3.90 in 34797 reviews  |  regressing on 1000 features
+MSE: 0.90 		 r2: 0.14 		 time: 24.78 ... (0.82 + 23.96)
+
+Movie #15210, A.M. and P.M. Yoga (2002)
+average rating: 3.13 in 205 reviews  |  regressing on 205 features
+MSE: 1.97 		 r2: -0.22 		 time: 4.95 ... (0.55 + 4.40)
+
+Movie #15211, The Filth and the Fury: A Sex Pistols Film (2000)
+average rating: 3.54 in 3222 reviews  |  regressing on 1000 features
+MSE: 0.91 		 r2: 0.24 		 time: 25.37 ... (0.82 + 24.55)
+
+Movie #15212, Sasquatch (2003)
+average rating: 2.28 in 332 reviews  |  regressing on 332 features
+MSE: 0.92 		 r2: -0.22 		 time: 10.66 ... (0.66 + 10.00)
+
+Movie #15213, Sonic the Hedgehog: The Movie (1999)
+average rating: 3.21 in 437 reviews  |  regressing on 437 features
+MSE: 1.47 		 r2: 0.29 		 time: 11.74 ... (0.67 + 11.07)
+
+Movie #15214, Il Posto (1961)
+average rating: 3.54 in 304 reviews  |  regressing on 304 features
+MSE: 0.88 		 r2: 0.31 		 time: 8.10 ... (0.60 + 7.50)
+
+Movie #15215, Pollyanna (2003)
+average rating: 3.70 in 413 reviews  |  regressing on 413 features
+MSE: 0.92 		 r2: 0.30 		 time: 12.38 ... (0.65 + 11.73)
+
+Movie #15216, Circus (2000)
+average rating: 2.82 in 1182 reviews  |  regressing on 1000 features
+MSE: 1.10 		 r2: 0.19 		 time: 8.92 ... (0.82 + 8.10)
+
+Movie #15217, Baki the Grappler (2005)
+average rating: 4.28 in 80 reviews  |  regressing on 80 features
+MSE: 1.16 		 r2: -0.18 		 time: 1.80 ... (0.53 + 1.27)
+
+Movie #15218, Bear in the Big Blue House: Shapes (1998)
+average rating: 3.29 in 755 reviews  |  regressing on 755 features
+MSE: 0.89 		 r2: 0.45 		 time: 22.45 ... (0.76 + 21.69)
+
+Movie #15219, Walking Tall: Part II (1975)
+average rating: 3.38 in 1438 reviews  |  regressing on 1000 features
+MSE: 0.52 		 r2: 0.57 		 time: 29.57 ... (0.83 + 28.73)
+
+Movie #15220, The Cliburn: Playing on the Edge (2001)
+average rating: 3.92 in 503 reviews  |  regressing on 503 features
+MSE: 0.95 		 r2: 0.35 		 time: 13.51 ... (0.68 + 12.83)
+
+Movie #15221, The Third Wheel (2002)
+average rating: 2.94 in 1170 reviews  |  regressing on 1000 features
+MSE: 0.78 		 r2: 0.26 		 time: 27.98 ... (0.78 + 27.20)
+
+Movie #15222, The Guyver (1986)
+average rating: 3.51 in 340 reviews  |  regressing on 340 features
+MSE: 1.22 		 r2: 0.23 		 time: 9.06 ... (0.59 + 8.47)
+
+r2: 0.31 		 time: 3.89 ... (0.62 + 3.27)
+
+Movie #14486, Gunparade March (2003)
+average rating: 3.45 in 142 reviews  |  regressing on 142 features
+MSE: 1.00 		 r2: 0.37 		 time: 3.51 ... (0.56 + 2.95)
+
+Movie #14487, The Simple Life: Season 1 (2003)
+average rating: 3.00 in 2438 reviews  |  regressing on 1000 features
+MSE: 1.43 		 r2: 0.33 		 time: 27.79 ... (0.84 + 26.95)
+
+Movie #14488, TCM Archives: Buster Keaton Collection (1929)
+average rating: 3.69 in 179 reviews  |  regressing on 179 features
+MSE: 1.10 		 r2: -0.14 		 time: 4.96 ... (0.56 + 4.40)
+
+Movie #14489, Lies My Mother Told Me (2005)
+average rating: 2.97 in 108 reviews  |  regressing on 108 features
+MSE: 0.79 		 r2: 0.23 		 time: 2.98 ... (0.54 + 2.44)
+
+Movie #14490, Broadway's Lost Treasures III: The Best of the Tony Awards (2005)
+average rating: 3.44 in 62 reviews  |  regressing on 62 features
+MSE: 0.85 		 r2: 0.37 		 time: 2.07 ... (0.52 + 1.55)
+
+Movie #14491, The Emperor and the Assassin (1999)
+average rating: 3.57 in 2662 reviews  |  regressing on 1000 features
+MSE: 0.83 		 r2: 0.19 		 time: 28.72 ... (0.82 + 27.90)
+
+Movie #14492, Forever Knight: The Trilogy: Part 2 (1994)
+average rating: 3.66 in 359 reviews  |  regressing on 359 features
+MSE: 1.03 		 r2: 0.35 		 time: 11.37 ... (0.64 + 10.73)
+
+Movie #14493, Best of MADtv: Seasons 8 (2005)
+average rating: 3.02 in 87 reviews  |  regressing on 87 features
+MSE: 1.45 		 r2: 0.12 		 time: 2.72 ... (0.55 + 2.17)
+
+Movie #14494, For Love of Ivy (1968)
+average rating: 3.37 in 212 reviews  |  regressing on 212 features
+MSE: 1.14 		 r2: 0.18 		 time: 6.09 ... (0.54 + 5.55)
+
+Movie #14495, Hell Up in Harlem (1973)
+average rating: 3.15 in 192 reviews  |  regressing on 192 features
+MSE: 0.76 		 r2: 0.34 		 time: 5.30 ... (0.56 + 4.74)
+
+Movie #14496, Mystery Science Theater 3000: Attack of the Giant Leeches (1992)
+average rating: 3.87 in 1423 reviews  |  regressing on 1000 features
+MSE: 0.80 		 r2: 0.44 		 time: 26.49 ... (0.81 + 25.68)
+
+Movie #14497, The Last Don II (1998)
+average rating: 3.31 in 657 reviews  |  regressing on 657 features
+MSE: 0.70 		 r2: 0.40 		 time: 19.06 ... (0.68 + 18.39)
+
+Movie #14498, Godspell (1973)
+average rating: 3.12 in 1464 reviews  |  regressing on 1000 features
+MSE: 1.31 		 r2: 0.18 		 time: 28.06 ... (0.83 + 27.23)
+
+Movie #14499, The Alchemists (1999)
+average rating: 2.44 in 218 reviews  |  regressing on 218 features
+MSE: 0.72 		 r2: 0.22 		 time: 5.39 ... (0.54 + 4.85)
+
+Movie #14500, Heidi (1968)
+average rating: 3.51 in 372 reviews  |  regressing on 372 features
+MSE: 0.93 		 r2: 0.20 		 time: 11.04 ... (0.61 + 10.43)
+
+Movie #14501, Malcolm in the Middle: Season 1 (2000)
+average rating: 3.75 in 4308 reviews  |  regressing on 1000 features
+MSE: 1.41 		 r2: -0.03 		 time: 26.62 ... (0.79 + 25.83)
+
+Movie #14502, Naked Fame (2005)
+average rating: 2.70 in 423 reviews  |  regressing on 423 features
+MSE: 1.05 		 r2: 0.11 		 time: 11.83 ... (0.65 + 11.18)
+
+Movie #14503, Wanted Dead or Alive (1986)
+average rating: 3.22 in 237 reviews  |  regressing on 237 features
+MSE: 1.06 		 r2: 0.12 		 time: 6.92 ... (0.59 + 6.33)
+
+Movie #14504, Manhunter (1986)
+average rating: 3.35 in 7478 reviews  |  regressing on 1000 features
+MSE: 0.87 		 r2: -0.10 		 time: 25.89 ... (0.81 + 25.08)
+
+Movie #14505, The War (1994)
+average rating: 3.52 in 3834 reviews  |  regressing on 1000 features
+MSE: 0.94 		 r2: 0.21 		 time: 25.19 ... (0.79 + 24.40)
+
+Movie #14506, Doctor Who: The Five Doctors (1983)
+average rating: 3.82 in 1325 reviews  |  regressing on 1000 features
+MSE: 0.60 		 r2: 0.50 		 time: 28.60 ... (0.77 + 27.82)
+
+Movie #14507, Any Given Sunday (1999)
+average rating: 3.30 in 26202 reviews  |  regressing on 1000 features
+MSE: 0.79 		 r2: 0.17 		 time: 22.27 ... (0.76 + 21.50)
+
+Movie #14508, Changing Rooms: Trust Me (2004)
+average rating: 2.85 in 208 reviews  |  regressing on 208 features
+MSE: 1.90 		 r2: 0.06 		 time: 5.32 ... (0.56 + 4.75)
+
+Movie #14509, UK/DK: A Film About Punks and Skinheads (2002)
+average rating: 3.00 in 104 reviews  |  regressing on 104 features
+MSE: 1.76 		 r2: 0.01 		 time: 2.30 ... (0.51 + 1.79)
+
+Movie #14510, Tell Me Something (2000)
+average rating: 2.97 in 666 reviews  |  regressing on 666 features
+MSE: 1.04 		 r2: 0.10 		 time: 18.41 ... (0.68 + 17.74)
+
+Movie #14511, Topkapi (1964)
+average rating: 3.14 in 1559 reviews  |  regressing on 1000 features
+MSE: 1.04 		 r2: 0.15 		 time: 15.92 ... (0.77 + 15.16)
+
+Movie #14512, Love Me Tender (1956)
+average rating: 3.22 in 1449 reviews  |  regressing on 1000 features
+MSE: 0.80 		 r2: 0.20 		 time: 28.79 ... (0.78 + 28.01)
+
+Movie #14513, Daylight (1996)
+average rating: 3.14 in 8683 reviews  |  regressing on 1000 features
+MSE: 0.56 		 r2: 0.31 		 time: 23.71 ... (0.76 + 22.95)
+
+Movie #14514, Tokyo Underground (2002)
+average rating: 3.74 in 87 reviews  |  regressing on 87 features
+MSE: 0.63 		 r2: 0.39 		 time: 1.96 ... (0.50 + 1.46)
+
+in 126 reviews  |  regressing on 126 features
+MSE: 0.82 		 r2: 0.12 		 time: 3.56 ... (0.56 + 3.00)
+
+Movie #15019, MASH: Bonus Material (1970)
+average rating: 3.47 in 249 reviews  |  regressing on 249 features
+MSE: 1.51 		 r2: -0.01 		 time: 7.35 ... (0.61 + 6.74)
+
+Movie #15020, Blue Vinyl (2002)
+average rating: 3.35 in 101 reviews  |  regressing on 101 features
+MSE: 1.04 		 r2: 0.13 		 time: 2.64 ... (0.56 + 2.08)
+
+Movie #15021, The Piano Lesson (1995)
+average rating: 3.22 in 357 reviews  |  regressing on 357 features
+MSE: 1.11 		 r2: 0.25 		 time: 10.32 ... (0.65 + 9.66)
+
+Movie #15022, Wishbone: Paw Prints of Thieves (2004)
+average rating: 3.25 in 142 reviews  |  regressing on 142 features
+MSE: 1.21 		 r2: 0.30 		 time: 4.58 ... (0.53 + 4.05)
+
+Movie #15023, He Say (2005)
+average rating: 2.87 in 68 reviews  |  regressing on 68 features
+MSE: 0.75 		 r2: 0.44 		 time: 2.25 ... (0.58 + 1.67)
+
+Movie #15024, Cowboy Up (2001)
+average rating: 3.19 in 936 reviews  |  regressing on 936 features
+MSE: 1.03 		 r2: 0.18 		 time: 26.85 ... (0.85 + 26.01)
+
+Movie #15025, Seventh Sense (1999)
+average rating: 2.69 in 185 reviews  |  regressing on 185 features
+MSE: 1.37 		 r2: -0.03 		 time: 4.93 ... (0.59 + 4.34)
+
+Movie #15026, The Americanization of Emily (1964)
+average rating: 3.63 in 616 reviews  |  regressing on 616 features
+MSE: 1.12 		 r2: 0.11 		 time: 17.33 ... (0.73 + 16.60)
+
+Movie #15027, Midsomer Murders: Who Killed Cock Robin? (2001)
+average rating: 3.98 in 768 reviews  |  regressing on 768 features
+MSE: 0.68 		 r2: 0.39 		 time: 22.51 ... (1.32 + 21.19)
+
+Movie #15028, Boo! (2004)
+average rating: 2.93 in 320 reviews  |  regressing on 320 features
+MSE: 0.83 		 r2: 0.11 		 time: 9.39 ... (0.75 + 8.64)
+
+Movie #15029, The Son's Room (2001)
+average rating: 3.32 in 2522 reviews  |  regressing on 1000 features
+MSE: 0.77 		 r2: 0.17 		 time: 24.48 ... (0.83 + 23.65)
+
+Movie #15030, The 4th Tenor (2002)
+average rating: 2.42 in 293 reviews  |  regressing on 293 features
+MSE: 1.56 		 r2: -0.09 		 time: 7.67 ... (0.60 + 7.07)
+
+Movie #15031, Sports Night (1998)
+average rating: 4.14 in 3965 reviews  |  regressing on 1000 features
+MSE: 1.26 		 r2: -0.10 		 time: 27.20 ... (0.79 + 26.41)
+
+Movie #15032, Human Condition I: No Greater Love (1959)
+average rating: 3.31 in 313 reviews  |  regressing on 313 features
+MSE: 0.54 		 r2: 0.57 		 time: 9.33 ... (0.63 + 8.70)
+
+Movie #15033, The Greatest Story Ever Told (1965)
+average rating: 3.57 in 3180 reviews  |  regressing on 1000 features
+MSE: 0.84 		 r2: 0.29 		 time: 27.77 ... (0.79 + 26.97)
+
+Movie #15034, Heartbreakers (2001)
+average rating: 3.19 in 12565 reviews  |  regressing on 1000 features
+MSE: 0.85 		 r2: 0.10 		 time: 24.17 ... (0.83 + 23.34)
+
+Movie #15035, Babylon 5: Season 5 (1998)
+average rating: 4.22 in 2924 reviews  |  regressing on 1000 features
+MSE: 0.63 		 r2: 0.45 		 time: 29.02 ... (0.84 + 28.18)
+
+Movie #15036, The Flintstones: Season 1 (1960)
+average rating: 3.83 in 1916 reviews  |  regressing on 1000 features
+MSE: 0.80 		 r2: 0.14 		 time: 27.66 ... (0.82 + 26.84)
+
+Movie #15037, The Day the Earth Stood Still (1951)
+average rating: 3.95 in 15131 reviews  |  regressing on 1000 features
+MSE: 0.81 		 r2: 0.03 		 time: 24.05 ... (0.82 + 23.24)
+
+Movie #15038, Livin' tha Life (2003)
+average rating: 1.87 in 120 reviews  |  regressing on 120 features
+MSE: 0.85 		 r2: 0.20 		 time: 2.71 ... (0.52 + 2.19)
+
+Movie #15039, A Walk on the Moon (1999)
+average rating: 3.46 in 5082 reviews  |  regressing on 1000 features
+MSE: 0.73 		 r2: 0.11 		 time: 25.57 ... (0.78 + 24.80)
+
+Movie #15040, Rage Against the Machine (1997)
+average rating: 3.61 in 906 reviews  |  regressing on 906 features
+MSE: 1.49 		 r2: 0.19 		 time: 26.07 ... (0.77 + 25.30)
+
+Movie #15041, Slam Dunk Ernest (1995)
+average rating: 3.19 in 362 reviews  |  regressing on 362 features
+MSE: 1.25 		 r2: 0.32 		 time: 10.30 ... (0.63 + 9.66)
+
+Movie #15042, The Avengers '63 (1963)
+average rating: 3.20 in 782 reviews  |  regressing on 782 features
+MSE: 0.88 		 r2: 0.45 		 time: 22.06 ... (0.72 + 21.34)
+
+Movie #15043, Salem's Lot (2004)
+average rating: 3.38 in 4703 reviews  |  regressing on 1000 features
+MSE: 0.88 		 r2: 0.13 		 time: 24.10 ... (0.78 + 23.32)
+
+Movie #15044, Glitter (2001)
+average rating: 1.97 in 2596 reviews  |  regressing on 1000 features
+MSE: 0.92 		 r2: 0.36 		 time: 25.53 ... (0.78 + 24.74)
+
+Movie #15045, Yossi & Jagger (2002)
+average rating: 3.37 in 3045 reviews  |  regressing on 1000 features
+MSE: 1.21 		 r2: 0.04 		 time: 17.46 ... (0.79 + 16.68)
+
+55 in 161 reviews  |  regressing on 161 features
+MSE: 2.09 		 r2: -0.14 		 time: 4.02 ... (0.55 + 3.47)
+
+Movie #15371, Murder by Decree (1979)
+average rating: 3.35 in 137 reviews  |  regressing on 137 features
+MSE: 0.48 		 r2: -0.22 		 time: 4.26 ... (0.53 + 3.73)
+
+Movie #15372, Now and Then (1999)
+average rating: 3.78 in 820 reviews  |  regressing on 820 features
+MSE: 0.69 		 r2: 0.57 		 time: 21.51 ... (0.80 + 20.71)
+
+Movie #15373, The One (2001)
+average rating: 3.30 in 20872 reviews  |  regressing on 1000 features
+MSE: 0.63 		 r2: 0.38 		 time: 27.30 ... (0.83 + 26.48)
+
+Movie #15374, Sigmund and the Sea Monsters (1973)
+average rating: 2.93 in 283 reviews  |  regressing on 283 features
+MSE: 0.91 		 r2: 0.10 		 time: 8.00 ... (0.61 + 7.40)
+
+Movie #15375, The Preacher's Wife (1996)
+average rating: 3.15 in 9653 reviews  |  regressing on 1000 features
+MSE: 0.76 		 r2: 0.26 		 time: 26.82 ... (0.82 + 26.00)
+
+Movie #15376, Best Motoring: Fuji Fast! (2004)
+average rating: 3.56 in 133 reviews  |  regressing on 133 features
+MSE: 1.91 		 r2: -0.29 		 time: 3.30 ... (0.56 + 2.73)
+
+Movie #15377, Deep Rising (1998)
+average rating: 3.07 in 3872 reviews  |  regressing on 1000 features
+MSE: 0.67 		 r2: 0.30 		 time: 26.77 ... (0.82 + 25.94)
+
+Movie #15378, Mystery Train (1989)
+average rating: 3.68 in 5538 reviews  |  regressing on 1000 features
+MSE: 0.99 		 r2: 0.17 		 time: 16.05 ... (0.83 + 15.22)
+
+Movie #15379, Suburban Madness (2004)
+average rating: 2.78 in 162 reviews  |  regressing on 162 features
+MSE: 0.46 		 r2: 0.04 		 time: 4.28 ... (0.56 + 3.72)
+
+Movie #15380, Silver Hawk (2004)
+average rating: 2.89 in 169 reviews  |  regressing on 169 features
+MSE: 1.31 		 r2: -0.01 		 time: 4.60 ... (0.55 + 4.05)
+
+Movie #15381, The Insider (1999)
+average rating: 3.81 in 39427 reviews  |  regressing on 1000 features
+MSE: 0.95 		 r2: 0.05 		 time: 22.95 ... (0.79 + 22.16)
+
+Movie #15382, Sam Kinison: Breaking the Rules (2000)
+average rating: 3.41 in 1781 reviews  |  regressing on 1000 features
+MSE: 1.30 		 r2: 0.28 		 time: 28.70 ... (0.82 + 27.88)
+
+Movie #15383, Jack the Bear (1993)
+average rating: 3.20 in 548 reviews  |  regressing on 548 features
+MSE: 0.90 		 r2: 0.11 		 time: 15.92 ... (0.67 + 15.25)
+
+Movie #15384, The Chronological Donald: Vol. 1 (1934)
+average rating: 3.92 in 894 reviews  |  regressing on 894 features
+MSE: 1.14 		 r2: 0.16 		 time: 25.81 ... (0.77 + 25.05)
+
+Movie #15385, Amistad (1997)
+average rating: 3.75 in 21678 reviews  |  regressing on 1000 features
+MSE: 0.87 		 r2: 0.10 		 time: 24.09 ... (0.78 + 23.31)
+
+Movie #15386, Martian Successor Nadesico: The Motion Picture: Prince of Darkness (1998)
+average rating: 3.77 in 635 reviews  |  regressing on 635 features
+MSE: 0.90 		 r2: 0.14 		 time: 10.68 ... (0.68 + 10.00)
+
+Movie #15387, Stanley & Iris (1990)
+average rating: 3.35 in 1951 reviews  |  regressing on 1000 features
+MSE: 0.57 		 r2: 0.29 		 time: 28.38 ... (0.80 + 27.58)
+
+Movie #15388, Critical Condition (1987)
+average rating: 3.43 in 564 reviews  |  regressing on 564 features
+MSE: 0.83 		 r2: 0.34 		 time: 16.58 ... (0.66 + 15.92)
+
+Movie #15389, The Bride with White Hair (1993)
+average rating: 3.43 in 1052 reviews  |  regressing on 1000 features
+MSE: 0.80 		 r2: 0.36 		 time: 28.34 ... (0.78 + 27.56)
+
+Movie #15390, Eric Clapton & Friends: Live 1986 (1987)
+average rating: 3.34 in 117 reviews  |  regressing on 117 features
+MSE: 0.49 		 r2: 0.09 		 time: 3.07 ... (0.52 + 2.55)
+
+Movie #15391, Dead Silence (1998)
+average rating: 2.12 in 88 reviews  |  regressing on 88 features
+MSE: 1.17 		 r2: -0.69 		 time: 2.40 ... (0.52 + 1.88)
+
+Movie #15392, All in the Family: Season 1 (1971)
+average rating: 3.69 in 2595 reviews  |  regressing on 1000 features
+MSE: 0.89 		 r2: 0.36 		 time: 27.37 ... (0.80 + 26.56)
+
+Movie #15393, Big Daddy (1999)
+average rating: 3.49 in 106211 reviews  |  regressing on 1000 features
+MSE: 0.82 		 r2: 0.30 		 time: 20.01 ... (0.77 + 19.25)
+
+Movie #15394, Traffic (2000)
+average rating: 3.69 in 92294 reviews  |  regressing on 1000 features
+MSE: 0.88 		 r2: 0.13 		 time: 21.13 ... (0.76 + 20.36)
+
+Movie #15395, Unknown Peter Sellers (2000)
+average rating: 3.28 in 337 reviews  |  regressing on 337 features
+MSE: 1.10 		 r2: -0.23 		 time: 7.89 ... (0.58 + 7.31)
+
+Movie #15396, Dragon Ball: King Piccolo Saga: Part 1 (1986)
+average rating: 3.92 in 898 reviews  |  regressing on 898 features
+MSE: 0.46 		 r2: 0.73 		 time: 23.36 ... (0.74 + 22.61)
+
+Movie #15397, The Trial of the Incredible Hulk (1989)
+average rating: 3.05 in 836 reviews  |  regressing on 836 features
+MSE: 0.79 		 r2: 0.36 		 time: 23.92 ... (0.73 + 23.19)
+
+Movie #15398, Dragon Half (1993)
+average rating: 3.29 in 346 reviews  |  regressing on 346 features
+MSE: 1.16 		 r2: 0.14 		 time: 7.47 ... (0.59 + 6.89)
+
+Movie #15399, 100 Mile Rule (2002)
+average rating: 2.37 in 177 reviews  |  regressing on 177 features
+MSE: 1.08 		 r2: -0.11 		 time: 4.22 ... (0.53 + 3.70)
+
+views  |  regressing on 1000 features
+MSE: 0.61 		 r2: 0.51 		 time: 30.33 ... (0.85 + 29.48)
+
+Movie #15548, H.R. Pufnstuf (1969)
+average rating: 3.15 in 466 reviews  |  regressing on 466 features
+MSE: 1.31 		 r2: 0.20 		 time: 13.75 ... (0.64 + 13.11)
+
+Movie #15549, The Skulls (2000)
+average rating: 3.37 in 12288 reviews  |  regressing on 1000 features
+MSE: 0.64 		 r2: 0.22 		 time: 24.40 ... (0.80 + 23.60)
+
+Movie #15550, Hello Kitty Becomes a Princess (1987)
+average rating: 2.97 in 353 reviews  |  regressing on 353 features
+MSE: 1.49 		 r2: -0.01 		 time: 9.61 ... (0.64 + 8.97)
+
+Movie #15551, Beneath the 12-Mile Reef (1953)
+average rating: 2.79 in 101 reviews  |  regressing on 101 features
+MSE: 0.97 		 r2: -0.07 		 time: 3.44 ... (0.54 + 2.90)
+
+Movie #15552, The Three Stooges: Greatest Hits & Rarities (1932)
+average rating: 3.91 in 986 reviews  |  regressing on 986 features
+MSE: 0.80 		 r2: 0.44 		 time: 29.34 ... (0.83 + 28.50)
+
+Movie #15553, Promises (2001)
+average rating: 3.95 in 619 reviews  |  regressing on 619 features
+MSE: 1.13 		 r2: 0.15 		 time: 17.38 ... (0.71 + 16.67)
+
+Movie #15554, Mystery Science Theater 3000: Boggy Creek II: And the Legend Continues (1999)
+average rating: 3.90 in 1568 reviews  |  regressing on 1000 features
+MSE: 0.46 		 r2: 0.51 		 time: 28.69 ... (0.79 + 27.90)
+
+Movie #15555, Duplex (Full-screen) (2003)
+average rating: 3.19 in 6342 reviews  |  regressing on 1000 features
+MSE: 0.85 		 r2: 0.13 		 time: 19.96 ... (0.80 + 19.16)
+
+Movie #15556, Weekend (1967)
+average rating: 3.53 in 252 reviews  |  regressing on 252 features
+MSE: 1.23 		 r2: 0.15 		 time: 6.31 ... (0.58 + 5.73)
+
+Movie #15557, Futurama: Vol. 3 (1999)
+average rating: 4.34 in 9218 reviews  |  regressing on 1000 features
+MSE: 0.50 		 r2: 0.45 		 time: 26.34 ... (0.79 + 25.54)
+
+Movie #15558, All About Lily Chou-Chou (2001)
+average rating: 3.02 in 399 reviews  |  regressing on 399 features
+MSE: 1.51 		 r2: -0.00 		 time: 10.21 ... (0.60 + 9.61)
+
+Movie #15559, The Grim Reaper (1980)
+average rating: 2.02 in 89 reviews  |  regressing on 89 features
+MSE: 1.46 		 r2: -0.05 		 time: 2.83 ... (0.51 + 2.32)
+
+Movie #15560, Turbulence 3: Heavy Metal (Special Edition) (2000)
+average rating: 2.27 in 177 reviews  |  regressing on 177 features
+MSE: 0.89 		 r2: 0.19 		 time: 5.15 ... (0.53 + 4.62)
+
+Movie #15561, VeggieTales: The Toy That Saved Christmas (1996)
+average rating: 4.02 in 515 reviews  |  regressing on 515 features
+MSE: 0.73 		 r2: 0.31 		 time: 13.55 ... (0.63 + 12.92)
+
+Movie #15562, XChange (2000)
+average rating: 2.77 in 773 reviews  |  regressing on 773 features
+MSE: 0.91 		 r2: 0.13 		 time: 22.72 ... (0.72 + 22.00)
+
+Movie #15563, Mona Lisa Smile (2003)
+average rating: 3.42 in 99009 reviews  |  regressing on 1000 features
+MSE: 0.90 		 r2: 0.09 		 time: 16.58 ... (0.78 + 15.81)
+
+Movie #15564, Looney Tunes: Stranger Than Fiction (2003)
+average rating: 3.05 in 335 reviews  |  regressing on 335 features
+MSE: 1.12 		 r2: 0.18 		 time: 8.48 ... (0.57 + 7.91)
+
+Movie #15565, Dawn of the Dead: Documentaries (1978)
+average rating: 3.92 in 1936 reviews  |  regressing on 1000 features
+MSE: 0.86 		 r2: 0.39 		 time: 28.71 ... (0.77 + 27.94)
+
+Movie #15566, Eye of the Killer (2000)
+average rating: 2.93 in 939 reviews  |  regressing on 939 features
+MSE: 0.96 		 r2: -0.01 		 time: 27.20 ... (0.78 + 26.43)
+
+Movie #15567, Grateful Dead: Ticket to New Year's (1987)
+average rating: 3.65 in 535 reviews  |  regressing on 535 features
+MSE: 1.45 		 r2: 0.30 		 time: 14.33 ... (0.65 + 13.68)
+
+Movie #15568, Cheers: Season 3 (1984)
+average rating: 3.96 in 3450 reviews  |  regressing on 1000 features
+MSE: 0.49 		 r2: 0.49 		 time: 25.45 ... (0.76 + 24.69)
+
+Movie #15569, Miss Marple Mysteries: A Pocketful of Rye (1985)
+average rating: 4.00 in 1062 reviews  |  regressing on 1000 features
+MSE: 0.54 		 r2: 0.50 		 time: 27.50 ... (0.77 + 26.73)
+
+Movie #15570, Passport to Paris (1999)
+average rating: 3.20 in 2848 reviews  |  regressing on 1000 features
+MSE: 0.95 		 r2: 0.45 		 time: 26.09 ... (0.76 + 25.34)
+
+Movie #15571, Johnny Cash: The Anthology (2001)
+average rating: 3.78 in 37 reviews  |  regressing on 37 features
+MSE: 2.18 		 r2: -1.18 		 time: 1.19 ... (0.49 + 0.71)
+
+Movie #15572, Tsukihime Lunar Legend (2004)
+average rating: 3.84 in 391 reviews  |  regressing on 391 features
+MSE: 0.86 		 r2: 0.28 		 time: 9.41 ... (0.59 + 8.82)
+
+Movie #15573, Rise of the Undead (2005)
+average rating: 1.50 in 169 reviews  |  regressing on 169 features
+MSE: 0.86 		 r2: -1.49 		 time: 4.24 ... (0.53 + 3.71)
+
+Movie #15574, Marmalade Boy: Ultimate Scrapbook: Vol. 2 (1994)
+average rating: 3.91 in 220 reviews  |  regressing on 220 features
+MSE: 1.25 		 r2: 0.41 		 time: 4.73 ... (0.54 + 4.19)
+
+Movie #15575, Royal Wedding (1951)
+average rating: 3.55 in 1405 reviews  |  regressing on 1000 features
+MSE: 0.59 		 r2: 0.31 		 time: 25.55 ... (0.76 + 24.79)
+
+Movie #15576, Bad Girls (1994)
+average rating: 3.46 in 3276 reviews  |  regressing on 1000 features
+MSE: 0.74 		 r2: 0.20 		 time: 23.99 ... (0.76 + 23.23)
+
+ reviews  |  regressing on 95 features
+MSE: 0.95 		 r2: 0.21 		 time: 2.41 ... (0.52 + 1.90)
+
+Movie #14839, Jolson Sings Again (1949)
+average rating: 3.14 in 212 reviews  |  regressing on 212 features
+MSE: 0.83 		 r2: 0.40 		 time: 5.73 ... (0.55 + 5.18)
+
+Movie #14840, Get a Clue (2002)
+average rating: 3.17 in 1325 reviews  |  regressing on 1000 features
+MSE: 0.76 		 r2: 0.34 		 time: 29.73 ... (0.78 + 28.95)
+
+Movie #14841, Final Encounter (2000)
+average rating: 2.28 in 254 reviews  |  regressing on 254 features
+MSE: 0.95 		 r2: 0.03 		 time: 7.64 ... (0.59 + 7.06)
+
+Movie #14842, Stage Beauty (2004)
+average rating: 3.35 in 9805 reviews  |  regressing on 1000 features
+MSE: 0.85 		 r2: 0.08 		 time: 15.83 ... (0.77 + 15.05)
+
+Movie #14843, Secondhand Lions: Bonus Material (2003)
+average rating: 4.10 in 690 reviews  |  regressing on 690 features
+MSE: 0.82 		 r2: -0.04 		 time: 18.10 ... (0.71 + 17.38)
+
+Movie #14844, Gotham (1988)
+average rating: 2.84 in 178 reviews  |  regressing on 178 features
+MSE: 1.02 		 r2: -0.12 		 time: 5.06 ... (0.54 + 4.52)
+
+Movie #14845, Backlash 2004 (2004)
+average rating: 3.86 in 417 reviews  |  regressing on 417 features
+MSE: 0.83 		 r2: 0.47 		 time: 11.77 ... (0.64 + 11.13)
+
+Movie #14846, Cyrano de Bergerac (1922)
+average rating: 3.30 in 395 reviews  |  regressing on 395 features
+MSE: 1.24 		 r2: 0.24 		 time: 11.46 ... (0.68 + 10.78)
+
+Movie #14847, Ellen: Season 2 (1994)
+average rating: 3.65 in 585 reviews  |  regressing on 585 features
+MSE: 1.01 		 r2: 0.32 		 time: 17.32 ... (0.66 + 16.66)
+
+Movie #14848, Play It to the Bone (2000)
+average rating: 2.80 in 2660 reviews  |  regressing on 1000 features
+MSE: 0.79 		 r2: 0.25 		 time: 28.50 ... (0.81 + 27.69)
+
+Movie #14849, Man of the Year (1995)
+average rating: 2.55 in 795 reviews  |  regressing on 795 features
+MSE: 1.37 		 r2: 0.07 		 time: 22.38 ... (0.72 + 21.67)
+
+Movie #14850, A Very British Coup (1988)
+average rating: 3.40 in 288 reviews  |  regressing on 288 features
+MSE: 1.12 		 r2: 0.22 		 time: 7.59 ... (0.58 + 7.01)
+
+Movie #14851, Jay Jay the Jet Plane: Supersonic Pals (1996)
+average rating: 2.83 in 157 reviews  |  regressing on 157 features
+MSE: 0.95 		 r2: 0.34 		 time: 4.01 ... (0.53 + 3.48)
+
+Movie #14852, The Contender (2000)
+average rating: 3.56 in 13790 reviews  |  regressing on 1000 features
+MSE: 0.88 		 r2: 0.01 		 time: 26.68 ... (0.76 + 25.92)
+
+Movie #14853, The Browning Version (1951)
+average rating: 3.70 in 178 reviews  |  regressing on 178 features
+MSE: 0.71 		 r2: 0.06 		 time: 4.95 ... (0.55 + 4.40)
+
+Movie #14854, Australia the Beautiful (2004)
+average rating: 3.14 in 152 reviews  |  regressing on 152 features
+MSE: 1.31 		 r2: 0.02 		 time: 3.21 ... (0.52 + 2.68)
+
+Movie #14855, Glengarry Glen Ross (1992)
+average rating: 3.62 in 24736 reviews  |  regressing on 1000 features
+MSE: 0.84 		 r2: 0.18 		 time: 23.66 ... (0.78 + 22.88)
+
+Movie #14856, Dead Man Walking (1995)
+average rating: 3.78 in 53163 reviews  |  regressing on 1000 features
+MSE: 0.81 		 r2: 0.08 		 time: 21.58 ... (0.77 + 20.81)
+
+Movie #14857, First Shot (2002)
+average rating: 2.75 in 515 reviews  |  regressing on 515 features
+MSE: 0.97 		 r2: 0.14 		 time: 13.65 ... (0.64 + 13.01)
+
+Movie #14858, Babe (1995)
+average rating: 3.81 in 16691 reviews  |  regressing on 1000 features
+MSE: 0.79 		 r2: 0.15 		 time: 23.98 ... (0.77 + 23.21)
+
+Movie #14859, The Return of Sherlock Holmes (1986)
+average rating: 4.12 in 1277 reviews  |  regressing on 1000 features
+MSE: 0.67 		 r2: 0.26 		 time: 26.14 ... (0.77 + 25.37)
+
+Movie #14860, Murphy Brown: Season 1 (1988)
+average rating: 3.69 in 1035 reviews  |  regressing on 1000 features
+MSE: 0.94 		 r2: 0.19 		 time: 13.65 ... (0.77 + 12.88)
+
+Movie #14861, Bruce Lee's Jeet Kune Do (2001)
+average rating: 3.51 in 718 reviews  |  regressing on 718 features
+MSE: 1.29 		 r2: 0.00 		 time: 17.26 ... (0.67 + 16.59)
+
+Movie #14862, Once Upon a Time in America (1984)
+average rating: 3.77 in 8881 reviews  |  regressing on 1000 features
+MSE: 0.87 		 r2: 0.16 		 time: 24.48 ... (0.75 + 23.73)
+
+Movie #14863, Entrails of a Beautiful Woman (1986)
+average rating: 2.51 in 135 reviews  |  regressing on 135 features
+MSE: 0.90 		 r2: 0.28 		 time: 2.71 ... (0.51 + 2.20)
+
+Movie #14864, Garage Days (2002)
+average rating: 2.79 in 924 reviews  |  regressing on 924 features
+MSE: 1.02 		 r2: -0.03 		 time: 23.92 ... (0.73 + 23.20)
+
+Movie #14865, Mary Reilly (1996)
+average rating: 2.80 in 5578 reviews  |  regressing on 1000 features
+MSE: 0.74 		 r2: 0.19 		 time: 24.22 ... (0.77 + 23.45)
+
+Movie #14866, A Woman Hunted (2003)
+average rating: 2.73 in 142 reviews  |  regressing on 142 features
+MSE: 1.45 		 r2: 0.01 		 time: 2.93 ... (0.51 + 2.42)
+
+Movie #14867, King of the Jungle (2000)
+average rating: 2.91 in 288 reviews  |  regressing on 288 features
+MSE: 1.04 		 r2: 0.09 		 time: 6.36 ... (0.57 + 5.79)
+
+Movie #14868, Lilo and Stitch 2 (2005)
+average rating: 3.86 in 5730 reviews  |  regressing on 1000 features
+MSE: 0.71 		 r2: 0.14 		 time: 22.75 ... (0.75 + 22.00)
+
+2003)
+average rating: 4.01 in 34484 reviews  |  regressing on 1000 features
+MSE: 1.13 		 r2: 0.17 		 time: 5.88 ... (0.80 + 5.08)
+
+Movie #15903, Trekkies 2 (2004)
+average rating: 3.13 in 997 reviews  |  regressing on 997 features
+MSE: 0.81 		 r2: 0.14 		 time: 28.39 ... (0.78 + 27.61)
+
+Movie #15904, Hello Kitty Saves the Day (1987)
+average rating: 2.71 in 149 reviews  |  regressing on 149 features
+MSE: 1.39 		 r2: 0.03 		 time: 3.43 ... (0.53 + 2.90)
+
+Movie #15905, The Toxic Avenger (1989)
+average rating: 2.87 in 638 reviews  |  regressing on 638 features
+MSE: 0.84 		 r2: 0.41 		 time: 19.24 ... (0.68 + 18.56)
+
+Movie #15906, Keys to Tulsa (1997)
+average rating: 2.61 in 350 reviews  |  regressing on 350 features
+MSE: 1.04 		 r2: 0.08 		 time: 9.13 ... (0.59 + 8.54)
+
+Movie #15907, Mutant (1984)
+average rating: 2.17 in 77 reviews  |  regressing on 77 features
+MSE: 0.68 		 r2: -0.28 		 time: 2.07 ... (0.50 + 1.57)
+
+Movie #15908, Robin and the 7 Hoods (1964)
+average rating: 3.16 in 1972 reviews  |  regressing on 1000 features
+MSE: 0.77 		 r2: 0.31 		 time: 29.20 ... (0.78 + 28.42)
+
+Movie #15909, Snow White (2000)
+average rating: 3.24 in 2219 reviews  |  regressing on 1000 features
+MSE: 0.86 		 r2: 0.20 		 time: 26.81 ... (0.78 + 26.03)
+
+Movie #15910, New Kids on the Block: Greatest Hits: The Videos (1999)
+average rating: 3.04 in 103 reviews  |  regressing on 103 features
+MSE: 1.56 		 r2: 0.06 		 time: 2.45 ... (0.51 + 1.94)
+
+Movie #15911, War and Remembrance: Vol. 1 (1988)
+average rating: 3.88 in 1252 reviews  |  regressing on 1000 features
+MSE: 0.67 		 r2: 0.51 		 time: 7.47 ... (0.77 + 6.70)
+
+Movie #15912, Zeder (1983)
+average rating: 1.99 in 99 reviews  |  regressing on 99 features
+MSE: 0.63 		 r2: 0.26 		 time: 2.56 ... (0.50 + 2.06)
+
+Movie #15913, Chasing Papi (2003)
+average rating: 2.67 in 2954 reviews  |  regressing on 1000 features
+MSE: 1.06 		 r2: 0.06 		 time: 22.99 ... (0.76 + 22.23)
+
+Movie #15914, An Intimate Friendship (2000)
+average rating: 1.98 in 245 reviews  |  regressing on 245 features
+MSE: 1.49 		 r2: 0.16 		 time: 5.75 ... (0.55 + 5.20)
+
+Movie #15915, Danger Man: Season 1 (1960)
+average rating: 3.40 in 212 reviews  |  regressing on 212 features
+MSE: 1.13 		 r2: 0.31 		 time: 5.26 ... (0.53 + 4.72)
+
+Movie #15916, Crazy Richard & I Can't Even Think Straight (2000)
+average rating: 1.54 in 171 reviews  |  regressing on 171 features
+MSE: 0.51 		 r2: 0.33 		 time: 4.26 ... (0.51 + 3.75)
+
+Movie #15917, Ren & Stimpy: Seasons 1 and 2 (1991)
+average rating: 3.94 in 3821 reviews  |  regressing on 1000 features
+MSE: 1.18 		 r2: 0.18 		 time: 24.53 ... (0.76 + 23.78)
+
+Movie #15918, Hote Hote Pyaar Ho Gaya (NaN)
+average rating: 2.20 in 88 reviews  |  regressing on 88 features
+MSE: 0.81 		 r2: -0.26 		 time: 2.10 ... (0.49 + 1.61)
+
+Movie #15919, Hellboy (2004)
+average rating: 3.37 in 51344 reviews  |  regressing on 1000 features
+MSE: 0.81 		 r2: 0.10 		 time: 21.32 ... (0.74 + 20.58)
+
+Movie #15920, L'Effrontee (1985)
+average rating: 3.08 in 151 reviews  |  regressing on 151 features
+MSE: 1.12 		 r2: -0.02 		 time: 2.90 ... (0.52 + 2.38)
+
+Movie #15921, How to Succeed in Business Without Really Trying (1967)
+average rating: 3.30 in 1443 reviews  |  regressing on 1000 features
+MSE: 0.77 		 r2: 0.24 		 time: 27.48 ... (0.75 + 26.73)
+
+Movie #15922, The Graduate (1967)
+average rating: 3.95 in 80207 reviews  |  regressing on 1000 features
+MSE: 0.87 		 r2: 0.12 		 time: 20.13 ... (0.75 + 19.39)
+
+Movie #15923, Star Trek V: The Final Frontier: Bonus Material (1989)
+average rating: 3.62 in 133 reviews  |  regressing on 133 features
+MSE: 0.67 		 r2: 0.42 		 time: 3.21 ... (0.52 + 2.68)
+
+Movie #15924, Fires of Kuwait: IMAX (1992)
+average rating: 3.39 in 659 reviews  |  regressing on 659 features
+MSE: 0.98 		 r2: 0.12 		 time: 16.87 ... (0.66 + 16.21)
+
+Movie #15925, Excessive Force (1993)
+average rating: 2.68 in 114 reviews  |  regressing on 114 features
+MSE: 1.31 		 r2: 0.20 		 time: 3.13 ... (0.51 + 2.63)
+
+Movie #15926, Perfect Love (1996)
+average rating: 2.50 in 218 reviews  |  regressing on 218 features
+MSE: 0.89 		 r2: 0.23 		 time: 4.59 ... (0.53 + 4.06)
+
+Movie #15927, Volcanoes of the Deep Sea: IMAX (2003)
+average rating: 3.22 in 613 reviews  |  regressing on 613 features
+MSE: 1.10 		 r2: 0.06 		 time: 14.68 ... (0.62 + 14.05)
+
+Movie #15928, NBA: Larry Bird: A Basketball Legend: 25th Anniversary Collector's Edition (2004)
+average rating: 3.63 in 222 reviews  |  regressing on 222 features
+MSE: 1.27 		 r2: 0.36 		 time: 4.68 ... (0.53 + 4.15)
+
+Movie #15929, Shining Through (1992)
+average rating: 3.45 in 1740 reviews  |  regressing on 1000 features
+MSE: 0.97 		 r2: 0.29 		 time: 24.50 ... (0.74 + 23.75)
+
+Movie #15930, What Have I Done to Deserve This? (1984)
+average rating: 3.29 in 1551 reviews  |  regressing on 1000 features
+MSE: 0.89 		 r2: 0.30 		 time: 21.73 ... (0.73 + 21.00)
+
+e #14308, I Accuse (2003)
+average rating: 2.79 in 302 reviews  |  regressing on 302 features
+MSE: 1.19 		 r2: 0.02 		 time: 4.18 ... (0.58 + 3.60)
+
+Movie #14309, 3 Women (1977)
+average rating: 3.30 in 1328 reviews  |  regressing on 1000 features
+MSE: 0.95 		 r2: 0.32 		 time: 25.82 ... (0.77 + 25.05)
+
+Movie #14310, The Wickeds (2005)
+average rating: 1.72 in 232 reviews  |  regressing on 232 features
+MSE: 0.85 		 r2: 0.14 		 time: 6.23 ... (0.55 + 5.68)
+
+Movie #14311, Operation Condor 2: Armour of the Gods (1986)
+average rating: 3.47 in 1897 reviews  |  regressing on 1000 features
+MSE: 0.76 		 r2: 0.36 		 time: 28.07 ... (0.76 + 27.31)
+
+Movie #14312, Jurassic Park (1993)
+average rating: 3.83 in 113838 reviews  |  regressing on 1000 features
+MSE: 0.58 		 r2: 0.17 		 time: 20.04 ... (0.77 + 19.27)
+
+Movie #14313, The Patriot (2000)
+average rating: 3.78 in 200832 reviews  |  regressing on 1000 features
+MSE: 0.88 		 r2: 0.23 		 time: 18.20 ... (0.76 + 17.45)
+
+Movie #14314, The Nightmare Room: Scareful What You Wish For (2002)
+average rating: 2.99 in 215 reviews  |  regressing on 215 features
+MSE: 1.51 		 r2: 0.19 		 time: 5.38 ... (0.54 + 4.84)
+
+Movie #14315, Baadasssss! (2004)
+average rating: 3.36 in 3440 reviews  |  regressing on 1000 features
+MSE: 0.86 		 r2: 0.25 		 time: 23.03 ... (0.75 + 22.28)
+
+Movie #14316, The Ugly (1997)
+average rating: 2.81 in 327 reviews  |  regressing on 327 features
+MSE: 1.72 		 r2: -0.01 		 time: 8.39 ... (0.57 + 7.81)
+
+Movie #14317, View from the Top (2003)
+average rating: 2.95 in 25727 reviews  |  regressing on 1000 features
+MSE: 0.99 		 r2: 0.01 		 time: 22.57 ... (0.75 + 21.82)
+
+Movie #14318, Disney's Little Einsteins: Our Big Huge Adventure (2005)
+average rating: 3.91 in 347 reviews  |  regressing on 347 features
+MSE: 1.02 		 r2: 0.13 		 time: 7.90 ... (0.58 + 7.32)
+
+Movie #14319, Fingers (1978)
+average rating: 2.70 in 426 reviews  |  regressing on 426 features
+MSE: 1.00 		 r2: 0.02 		 time: 11.27 ... (0.60 + 10.67)
+
+Movie #14320, MASH: Season 2 (1973)
+average rating: 4.11 in 6985 reviews  |  regressing on 1000 features
+MSE: 0.56 		 r2: 0.47 		 time: 26.76 ... (0.76 + 25.99)
+
+Movie #14321, World Poker Tour: Battle of Champions (2003)
+average rating: 3.07 in 108 reviews  |  regressing on 108 features
+MSE: 1.05 		 r2: 0.33 		 time: 2.60 ... (0.50 + 2.11)
+
+Movie #14322, Scooby-Doo Meets the Boo Brothers (1987)
+average rating: 3.80 in 1731 reviews  |  regressing on 1000 features
+MSE: 0.72 		 r2: 0.44 		 time: 26.33 ... (0.74 + 25.59)
+
+Movie #14323, Cirque Du Soleil: La Nouba (2004)
+average rating: 3.97 in 644 reviews  |  regressing on 644 features
+MSE: 0.83 		 r2: 0.13 		 time: 15.82 ... (0.65 + 15.17)
+
+Movie #14324, Nostradamus: His Life and Prophecies (2001)
+average rating: 2.47 in 187 reviews  |  regressing on 187 features
+MSE: 0.77 		 r2: 0.05 		 time: 3.68 ... (0.52 + 3.16)
+
+Movie #14325, Rugrats Go Wild (2003)
+average rating: 3.43 in 9081 reviews  |  regressing on 1000 features
+MSE: 0.97 		 r2: 0.19 		 time: 23.36 ... (0.74 + 22.61)
+
+Movie #14326, Children of the Corn 3: Urban Harvest (1994)
+average rating: 2.32 in 2762 reviews  |  regressing on 1000 features
+MSE: 0.76 		 r2: 0.51 		 time: 25.97 ... (0.76 + 25.21)
+
+Movie #14327, Paris (1984)
+average rating: 3.78 in 2886 reviews  |  regressing on 1000 features
+MSE: 0.83 		 r2: 0.27 		 time: 26.31 ... (0.74 + 25.57)
+
+Movie #14328, Straight Talk (1992)
+average rating: 3.53 in 3977 reviews  |  regressing on 1000 features
+MSE: 0.77 		 r2: 0.25 		 time: 25.65 ... (0.75 + 24.91)
+
+Movie #14329, Occasional Hell (1996)
+average rating: 2.50 in 230 reviews  |  regressing on 230 features
+MSE: 1.18 		 r2: -0.10 		 time: 4.44 ... (0.52 + 3.92)
+
+Movie #14330, Fulltime Killer (2001)
+average rating: 3.28 in 1723 reviews  |  regressing on 1000 features
+MSE: 0.94 		 r2: 0.18 		 time: 22.73 ... (0.77 + 21.97)
+
+Movie #14331, What the Deaf Man Heard (1997)
+average rating: 3.42 in 1406 reviews  |  regressing on 1000 features
+MSE: 0.96 		 r2: 0.08 		 time: 8.44 ... (0.72 + 7.73)
+
+Movie #14332, The Hideous Sun Demon (1959)
+average rating: 2.47 in 175 reviews  |  regressing on 175 features
+MSE: 0.76 		 r2: 0.17 		 time: 3.43 ... (0.51 + 2.92)
+
+Movie #14333, Night at the Golden Eagle (2002)
+average rating: 2.29 in 161 reviews  |  regressing on 161 features
+MSE: 1.15 		 r2: 0.15 		 time: 2.90 ... (0.49 + 2.41)
+
+Movie #14334, Unlawful Entry (1992)
+average rating: 3.45 in 8319 reviews  |  regressing on 1000 features
+MSE: 0.60 		 r2: 0.17 		 time: 19.90 ... (0.72 + 19.18)
+
+Movie #14335, Barry Lyndon (1975)
+average rating: 3.59 in 5639 reviews  |  regressing on 1000 features
+MSE: 1.09 		 r2: 0.05 		 time: 13.47 ... (0.72 + 12.76)
+
+Movie #14336, Different for Girls (1996)
+average rating: 3.28 in 1015 reviews  |  regressing on 1000 features
+MSE: 0.76 		 r2: 0.31 		 time: 22.05 ... (0.72 + 21.33)
+
+Movie #14337, Qayamat Se Qayamat Tak (1988)
+average rating: 3.78 in 267 reviews  |  regressing on 267 features
+MSE: 0.91 		 r2: 0.25 		 time: 3.36 ... (0.53 + 2.83)
+
+finished all regs in 3044.0328
+r2
+0.774	Dragon Ball Z: Babidi (2003)
+0.740	Dark Shadows: Vol. 18 (1969)
+0.736	Highlander: Counterfeit (1994)
+0.727	Dragon Ball: King Piccolo Saga: Part 1 (1986)
+0.721	Battle Athletes Victory: Vol. 7: The Last Dance (1998)
+0.707	Red Green: Stuffed and Mounted 3 (1991)
+0.693	Xena: Warrior Princess: Season 4 (1998)
+0.688	Trailer Park Boys: Season 3 (2003)
+0.681	The Inspector Lynley Mysteries: A Cry for Justice (2004)
+0.671	Sharpe 13: Sharpe's Justice (1997)
+
+average r2 value: 0.17
+
+MSE
+0.192	Lord of the Rings: The Return of the King: Extended Edition (2003)
+0.200	Trailer Park Boys: Season 3 (2003)
+0.277	Highlander: Counterfeit (1994)
+0.288	Sharpe 13: Sharpe's Justice (1997)
+0.307	The Inspector Lynley Mysteries: A Cry for Justice (2004)
+0.346	Dragon Ball Z: Babidi (2003)
+0.376	Inspector Morse 12: Infernal Serpent (1993)
+0.376	The Twilight Zone: Vol. 7 (1961)
+0.382	Star Trek: Deep Space Nine: Season 7 (1998)
+0.395	Poirot: One Two Buckle My Shoe (1992)
+
+average MSE value: 0.98

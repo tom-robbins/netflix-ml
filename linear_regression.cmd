@@ -20,8 +20,8 @@ source activate netflix
 
 # run linear regressions on the data
 cd /home/thomasrr/netflix-ml
-python linear_regression.py --movie-offset $((1 + SLURM_ARRAY_TASK_ID*1777)) --num-movies 1777 --regr-type AdaBoostRegressor --choosing-mechanism random_sample --max-reviews 1000 --num-cores 10 --ofile pickle/random_forest_results_$((SLURM_ARRAY_TASK_ID)).pickle &> log/random_forest_$((SLURM_ARRAY_TASK_ID)).log
+python linear_regression.py --movie-offset $((1 + SLURM_ARRAY_TASK_ID*1777)) --num-movies 1777 --regr-type Ridge --choosing-mechanism random_sample --max-reviews 1000 --num-cores 10 --ofile pickle/ridge_results_$((SLURM_ARRAY_TASK_ID)).pickle &> log/ridge_$((SLURM_ARRAY_TASK_ID)).log
 
 # command for manual runnning
-# python linear_regression.py --movie-offset 17700 --num-movies 100 --regr-type AdaBoostRegressor --choosing-mechanism random_sample --max-reviews 1000 --num-cores 10 --ofile pickle/ada_boost_results_10.pickle &> log/ada_boost_10.log
+# python linear_regression.py --movie-offset 17700 --num-movies 100 --regr-type RandomForestRegressor --choosing-mechanism random_sample --max-reviews 1000 --num-cores 10 --ofile pickle/random_forest_results_10.pickle &> log/random_forest_10.log
 
