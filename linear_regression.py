@@ -1,4 +1,4 @@
-import argparse, multiprocessing, pickle, sys, time
+import argparse, math, multiprocessing, os, pickle, sys, time
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -22,6 +22,8 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--movie-offset',dest='movie_offset', type=int, help='index of first movie to model (1-17770)')
 parser.add_argument('--num-movies', dest='num_movies', type=int, help='number of movies to model (17770 total)')
 parser.add_argument('--regr-type', dest='regr_type', help='regression algorithm (LinearRegression, AdaBoostRegressor, RandomForestRegressor, Ridge)')
+parser.add_argument('--cluster', dest='perform_cluster', action='store_true', help='perform KMeans clustering on the data or not (used in the clustering models)')
+parser.add_argument('--include-user-average', dest='include_user_average', action='store_true', help='add user average delta to the predictions for mean-based model')
 parser.add_argument('--choosing-mechanism', dest='choosing_mechanism', help='how to choose features (random_sample, top_reviewers)')
 parser.add_argument('--max-reviews', dest='max_reviews', type=int, help='max number of features (reviews) for regression')
 parser.add_argument('--num-cores', dest='num_cores', type=int, help='number of cores to use')
@@ -141,7 +143,7 @@ num_genres = 27
 beg_genre_index = end_genre_index - num_genres
 genre_indexes = range(beg_genre_index, end_genre_index)
 
-def run_regression(first_movie, last_movie, results_dict):
+def run_regression(first_movie, last_movie, results_dict, perform_regression=False, include_user_average=False):
     # Loop over movie IDs, generating a model for each movie
     for movie_id in range(first_movie, last_movie):
         if movie_id < 1 or movie_id > data.shape[0] - 1:
@@ -225,6 +227,7 @@ def run_regression(first_movie, last_movie, results_dict):
             'mse': current_mse,
             'r2': current_r2,
         }
+
         print "MSE: %.2f \t\t r2: %.2f \t\t time: %.2f ... (%.2f + %.2f)" % (
             current_mse,
             current_r2,
@@ -232,8 +235,238 @@ def run_regression(first_movie, last_movie, results_dict):
         )
         print
 
-# run_regression(args.movie_offset, args.movie_offset + args.num_movies, movie_results_dict)
-# run_regression(1, 100, movie_results_dict)
+
+
+# Only used for the clustering models, so only perform (expensive) calculations if necessary
+if args.perform_cluster:
+    # Run SVD on the dataset
+    if os.path.isfile('cache/svd_cache.pickle'):
+        with open('cache/svd_cache.pickle', 'r') as f:
+            [svd, all_users_small] = pickle.load(f)
+        print 'found svd cache file'
+    else:
+        start = time.time()
+        svd = TruncatedSVD(n_components = 5, algorithm="arpack", random_state=0)
+        all_users_small = svd.fit_transform(ratings_small)
+        finish = time.time()
+        print(all_users_small.shape)
+        print('finished svd in %.2f seconds' % (finish - start))
+
+    # Cluster using KMeans based on the SVD output for users
+    if os.path.isfile('cache/cluster_cache.pickle'):
+        with open('cache/cluster_cache.pickle', 'r') as f:
+            [kmeans_all_users, clusters_all_users, clusters, counts] = pickle.load(f)
+        print 'found cluster cache file'
+    else:
+        raise
+        start = time.time()
+        kmeans_all_users = KMeans(n_clusters = 20 , random_state=0, algorithm="full")
+        kmeans_all_users.fit(all_users_small)
+        finish = time.time()
+        print('finished clustering in %.2f seconds' % (finish - start))
+        clusters_all_users = kmeans_all_users.labels_
+        clusters, counts = np.unique(clusters_all_users, return_counts=True)
+        print(counts)
+
+ratings_csr = csr_matrix(non_zero_users_csc)
+
+# User average helper functions
+def user_avg_without_movie(user_id, movie_id):
+    sums = ratings_csr[user_id,:movie_id].sum() + ratings_csr[user_id,movie_id+1:].sum()
+    nums = ratings_csr[user_id,:movie_id].getnnz() + ratings_csr[user_id,movie_id+1:].getnnz()
+    return sums / nums
+
+def cluster_avg_without_user(cluster_id, user_id):
+    sums = ratings_csr[clusters_all_users == cluster_id].sum() - ratings_csr[user_id].sum()
+    nums = ratings_csr[clusters_all_users == cluster_id].getnnz() - ratings_csr[user_id].getnnz()
+    return sums / nums
+
+# find the average movie review
+rating_average = ratings_csr.sum() / ratings_csc.getnnz()
+summ = 0
+# find the average movie review per cluster
+cluster_averages = []
+for cluster in clusters:
+    clust_data = ratings_csr[clusters_all_users == cluster]
+    cluster_averages.append(clust_data.sum() / clust_data.getnnz())
+    summ += clust_data.getnnz()
+
+
+
+
+# Clustering model creation
+# either makes a mean-based model
+# or a regression based model (regress over the reviews of a cluster of users)
+def run_cluster_means(first_movie, last_movie, results_dict, perform_regression=False, include_user_average=False):
+    for movie_id in range(first_movie, last_movie):
+        if movie_id < 1 or movie_id > data.shape[0] - 1:
+            continue
+        y_pred_mode = []
+        y_pred_mean = []
+        y_test_all = []
+        num_reviews = non_zero_users_csc[:,movie_id].count_nonzero()
+        movie_name = movie_by_id[movie_id]
+        print 'Movie #%s, %s\naverage rating: %.2f in %i reviews  | ' % (
+            movie_id,
+            movie_name,
+            np.sum(data[movie_id,:beg_genre_index]) / num_reviews,
+            int(num_reviews)
+        ),
+
+        # REGRESSION OR NAH
+        if perform_regression:
+            start = time.time()
+            filter_by = np.ravel((non_zero_users_csc[:,movie_id] != 0.0).toarray())
+            filtered_clusters = clusters_all_users[filter_by]
+            filtered_ratings = non_zero_users_csc[filter_by,:]
+
+            movie_mask = np.ravel(np.full((filtered_ratings.shape[1], 1), True))
+            movie_mask[movie_id] = False
+            X = filtered_ratings[:,movie_mask]
+            y = filtered_ratings[:,movie_id].toarray()
+
+            X_train, X_test, y_train, y_test, c_train, c_test = train_test_split(X, y, filtered_clusters, test_size=0.2, random_state=0)
+
+            finish = time.time()
+            data_time = finish - start
+            start = time.time()
+
+            clusters_for_this_movie = np.unique(c_test)
+            regrs = []
+            total_y_pred = []
+            total_y_test = []
+
+            for cluster in clusters_for_this_movie:
+                # Set the regression based on the type argument
+                if args.regr_type == 'RandomForestRegressor':
+                    regr = RandomForestRegressor(n_estimators=50)
+                elif args.regr_type == 'Ridge':
+                    regr = Ridge(alpha=0.1)
+                elif args.regr_type == 'AdaBoostRegressor':
+                    regr = AdaBoostRegressor()
+                else:
+                    regr = LinearRegression()
+
+                new_X_train = X_train[c_train==cluster]
+                new_y_train = y_train[c_train==cluster]
+                if new_y_train.shape[0] == 0:
+                    new_X_train = X_train
+                    new_y_train = y_train
+                if new_X_train.shape[0] > max_reviews:
+                    random_mask = np.random.choice(new_X_train.shape[0], size=max_reviews, replace=False)
+                    new_X_train = new_X_train[random_mask]
+                    new_y_train = new_y_train[random_mask]
+
+                regr.fit(new_X_train.toarray(), new_y_train)
+                regrs.append(regr)
+
+            for i, cluster in enumerate(clusters_for_this_movie):
+                new_X_test = X_test[c_test==cluster]
+                new_y_test = y_test[c_test==cluster]
+                new_y_pred = regrs[i].predict(new_X_test.toarray())
+                total_y_pred = np.append(total_y_pred, new_y_pred)
+                total_y_test = np.append(total_y_test, new_y_test)
+
+            # compute metrics
+            current_r2 = r2_score(total_y_test, total_y_pred)
+            current_mse = mean_squared_error(total_y_test, total_y_pred)
+        elif include_user_average:
+            start = time.time()
+            movie_mask = np.ravel(np.full((non_zero_users_csc.shape[1], 1), True))
+            movie_mask[movie_id] = False
+
+            filter_by = np.ravel((non_zero_users_csc[:,movie_id] != 0.0).toarray())
+            filtered_clusters = clusters_all_users[filter_by]
+            filtered_ratings = non_zero_users_csc[filter_by,:]
+
+            indexes = np.ravel(np.where(filter_by)[0])
+
+            X = filtered_ratings
+            y = filtered_ratings[:,movie_id].toarray()
+
+            X_train, X_test, y_train, y_test, c_train, c_test, i_train, i_test = train_test_split(X, y, filtered_clusters, indexes, test_size=0.2, random_state=0)
+
+
+            finish = time.time()
+            data_time = finish - start
+            start = time.time()
+
+            y_pred_mean = []
+            y_test_all = []
+
+            mean_all = np.mean(y_train)
+            cluster_predictions = [
+                np.mean(y_train[c_train == cluster]) if len(y_train[c_train == cluster]) else None for cluster in clusters
+            ]
+
+
+
+            for (index, cluster, review) in zip(i_test, c_test, y_test):
+                y_test_all.append(review)
+                this_user_avg = user_avg_without_movie(index, movie_id)
+                if cluster_predictions[cluster] is not None:
+                    if np.isnan(this_user_avg):
+                        this_user_avg = cluster_averages[cluster]
+                    user_difference = this_user_avg - cluster_averages[cluster]
+                    y_pred_mean.append(cluster_predictions[cluster] + user_difference)
+                else:
+                    if np.isnan(this_user_avg):
+                        this_user_avg = mean_all
+                    user_difference = this_user_avg - mean_all
+                    y_pred_mean.append(mean_all + user_difference)
+
+            # compute metrics
+            current_r2 = r2_score(y_test_all, y_pred_mean)
+            current_mse = mean_squared_error(y_test_all, y_pred_mean)
+        else:
+            start = time.time()
+            filter_by = np.ravel((non_zero_users_csc[:,movie_id] != 0.0).toarray())
+            filtered_clusters = clusters_all_users[filter_by]
+            filtered_ratings = non_zero_users_csc[filter_by,:]
+
+            movie_mask = np.ravel(np.full((filtered_ratings.shape[1], 1), True))
+            movie_mask[movie_id] = False
+            X = filtered_ratings[:,movie_mask]
+            y = filtered_ratings[:,movie_id].toarray()
+
+            X_train, X_test, y_train, y_test, c_train, c_test = train_test_split(X, y, filtered_clusters, test_size=0.2, random_state=0)
+
+            finish = time.time()
+            data_time = finish - start
+            start = time.time()
+
+            for (cluster, review) in zip(c_test, y_test):
+                y_test_all.append(review)
+                cluster_reviews = y_train[c_train == cluster]
+                mean_all = np.mean(y_train)
+
+                if len(cluster_reviews) != 0:
+                    y_pred_mean.append(np.mean(cluster_reviews))
+                else:
+                    y_pred_mean.append(mean_all)
+
+            # compute metrics
+            current_r2 = r2_score(y_test_all, y_pred_mean)
+            current_mse = mean_squared_error(y_test_all, y_pred_mean)
+
+
+        finish = time.time()
+        regr_time = finish - start
+
+        results_dict[movie_id] = {
+            'name': movie_by_id[movie_id],
+            'id': movie_id,
+            'regr_time': regr_time,
+            'data_time': data_time,
+            'mse': current_mse,
+            'r2': current_r2,
+        }
+        print "MSE: %.2f \t\t r2: %.2f \t\t time: %.2f ... (%.2f + %.2f)" % (
+            current_mse,
+            current_r2,
+            data_time + regr_time, data_time, regr_time
+        )
+        print
 
 
 
@@ -249,15 +482,26 @@ num_movies = args.num_movies
 num_processes = args.num_cores
 movies_per_process = num_movies / num_processes
 
+# choose function to run to form models based on --cluster argument
+if args.perform_cluster:
+    target_function = run_cluster_means
+else:
+    target_function = run_regression
+
 # start num_processes Processes, each running the regression on movies_per_process
 # movies, and storing the results in movie_results_dict
 for i in range(num_processes):
     p = multiprocessing.Process(
-        target=run_regression, args=(
+        target=target_function,
+        args=(
             movie_offset + i*movies_per_process,
             movie_offset + (i+1)*movies_per_process,
-            movie_results_dict
-        )
+            movie_results_dict,
+        ),
+        kwargs={
+            'perform_regression': False,
+            'include_user_average': args.include_user_average,
+        }
     )
     p.start()
     processes.append(p)

@@ -45,3 +45,17 @@ Used ~47552932K Memory
 ### Ridge Regression
 ```518047```
 Used ~48279576K Memory
+
+### CLuster Means
+```518094```
+Used ~52791712K Memory
+
+### Cluster Linear Regression
+
+
+### Residuals
+518290
+
+### with user aavg
+518343
+
