@@ -4,6 +4,12 @@ data/nf_prize_dataset/nf_prize_dataset.tar_meta.sqlite
 data/nf_prize_dataset/nf_prize_dataset.tar_meta.xml
 data/nf_prize_dataset/nf_prize_dataset.tar.gz
 
+/log/
+/pickle/
+/cache/
+
+*.log
+
 # onehot encoded csv data for genre/actors (too big)
 data/onehot*.csv
 
